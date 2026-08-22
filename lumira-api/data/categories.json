@@ -1,0 +1,46 @@
+[
+  {
+    "id": "coffee",
+    "name": "Coffee"
+  },
+  {
+    "id": "frappe-blended",
+    "name": "Frappe & Blended"
+  },
+  {
+    "id": "tea",
+    "name": "Tea"
+  },
+  {
+    "id": "matcha",
+    "name": "Matcha"
+  },
+  {
+    "id": "chocolate-milk",
+    "name": "Chocolate & Milk"
+  },
+  {
+    "id": "rice-meal",
+    "name": "Rice & Meal"
+  },
+  {
+    "id": "japanese-korean",
+    "name": "Japanese & Korean"
+  },
+  {
+    "id": "fried-savory",
+    "name": "Fried & Savory"
+  },
+  {
+    "id": "sandwich-toast",
+    "name": "Sandwich & Toast"
+  },
+  {
+    "id": "bakery-pastry",
+    "name": "Bakery & Pastry"
+  },
+  {
+    "id": "combo-package",
+    "name": "Combo & Package"
+  }
+]

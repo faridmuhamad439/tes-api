@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Lumora Bandung",
+    "address": "Bandung",
+    "tables": [
+      {
+        "id": 1,
+        "number": "A01",
+        "capacity": 2,
+        "status": "available"
+      },
+      {
+        "id": 2,
+        "number": "A02",
+        "capacity": 2,
+        "status": "available"
+      },
+      {
+        "id": 3,
+        "number": "B01",
+        "capacity": 4,
+        "status": "available"
+      },
+      {
+        "id": 4,
+        "number": "B02",
+        "capacity": 4,
+        "status": "available"
+      },
+      {
+        "id": 5,
+        "number": "C01",
+        "capacity": 6,
+        "status": "available"
+      },
+      {
+        "id": 6,
+        "number": "C02",
+        "capacity": 2,
+        "status": "available"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1450 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 19000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Espresso"
+  },
+  {
+    "id": 2,
+    "name": "Americano",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 23000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 23000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 27000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 45,
+      "remaining": 45,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Americano"
+  },
+  {
+    "id": 4,
+    "name": "Café Latte",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caf%C3%A9%20Latte"
+  },
+  {
+    "id": 5,
+    "name": "Cappuccino",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Cappuccino"
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 27000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 30000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Flat%20White"
+  },
+  {
+    "id": 8,
+    "name": "Mocha",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Mocha"
+  },
+  {
+    "id": 9,
+    "name": "Caramel Latte",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caramel%20Latte"
+  },
+  {
+    "id": 11,
+    "name": "Vanilla Latte",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Vanilla%20Latte"
+  },
+  {
+    "id": 12,
+    "name": "Caramel Macchiato",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 30000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 30000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caramel%20Macchiato"
+  },
+  {
+    "id": 13,
+    "name": "Palm Sugar Latte",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Palm%20Sugar%20Latte"
+  },
+  {
+    "id": 25,
+    "name": "Kopi Susu Black Aren",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 26000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Kopi%20Susu%20Black%20Aren"
+  },
+  {
+    "id": 26,
+    "name": "Kopi Klasik",
+    "category": "coffee",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 23000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 25000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 50,
+      "remaining": 50,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Kopi%20Klasik"
+  },
+  {
+    "id": 35,
+    "name": "Cookies & Cream Frappe",
+    "category": "frappe-blended",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 25,
+      "remaining": 25,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Cookies%20%26%20Cream%20Frappe"
+  },
+  {
+    "id": 36,
+    "name": "Mysterious Green Frappe",
+    "category": "frappe-blended",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 25,
+      "remaining": 25,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Mysterious%20Green%20Frappe"
+  },
+  {
+    "id": 42,
+    "name": "Chocolate Frappe",
+    "category": "frappe-blended",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 25,
+      "remaining": 25,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Chocolate%20Frappe"
+  },
+  {
+    "id": 43,
+    "name": "Matcha Frappe",
+    "category": "frappe-blended",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 25,
+      "remaining": 25,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Matcha%20Frappe"
+  },
+  {
+    "id": 44,
+    "name": "Black Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 15000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 15000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 18000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Black%20Tea"
+  },
+  {
+    "id": 45,
+    "name": "Lemon Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 15000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 21000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Lemon%20Tea"
+  },
+  {
+    "id": 46,
+    "name": "Earl Grey Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 15000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 21000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Earl%20Grey%20Tea"
+  },
+  {
+    "id": 50,
+    "name": "Peach Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 21000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Peach%20Tea"
+  },
+  {
+    "id": 51,
+    "name": "Lychee Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 21000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Lychee%20Tea"
+  },
+  {
+    "id": 55,
+    "name": "Jasmine Tea",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 15000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 18000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 21000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Jasmine%20Tea"
+  },
+  {
+    "id": 57,
+    "name": "Raspberry Hibiscus",
+    "category": "tea",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 35,
+      "remaining": 35,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Raspberry%20Hibiscus"
+  },
+  {
+    "id": 61,
+    "name": "Matcha Latte",
+    "category": "matcha",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 23000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Latte"
+  },
+  {
+    "id": 62,
+    "name": "Matcha Espresso",
+    "category": "matcha",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 28000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Espresso"
+  },
+  {
+    "id": 63,
+    "name": "Matcha Kelapa",
+    "category": "matcha",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 27000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 31000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Kelapa"
+  },
+  {
+    "id": 64,
+    "name": "Creamy Matchachio",
+    "category": "matcha",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Creamy%20Matchachio"
+  },
+  {
+    "id": 65,
+    "name": "Signature Chocolate",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 23000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Signature%20Chocolate"
+  },
+  {
+    "id": 66,
+    "name": "Dutch Chocolate",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 22000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Dutch%20Chocolate"
+  },
+  {
+    "id": 67,
+    "name": "Almond Choco",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 25000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 33000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Almond%20Choco"
+  },
+  {
+    "id": 68,
+    "name": "Milo Dinosaurus",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 25000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 29000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Milo%20Dinosaurus"
+  },
+  {
+    "id": 69,
+    "name": "Classic Milo",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 25000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Classic%20Milo"
+  },
+  {
+    "id": 70,
+    "name": "Chocolate Milk",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "hot",
+        "size": "S",
+        "price": 20000
+      },
+      {
+        "temperature": "hot",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 22000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 25000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Chocolate%20Milk"
+  },
+  {
+    "id": 74,
+    "name": "Oatside Latte",
+    "category": "chocolate-milk",
+    "variants": [
+      {
+        "temperature": "iced",
+        "size": "M",
+        "price": 29000
+      },
+      {
+        "temperature": "iced",
+        "size": "L",
+        "price": 33000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 30,
+      "remaining": 30,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Oatside%20Latte"
+  },
+  {
+    "id": 77,
+    "name": "Chicken Teriyaki Rice",
+    "category": "rice-meal",
+    "variants": [
+      {
+        "size": "regular",
+        "price": 28000
+      },
+      {
+        "size": "large",
+        "price": 32000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 18,
+      "remaining": 18,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Chicken%20Teriyaki%20Rice"
+  },
+  {
+    "id": 79,
+    "name": "Chicken Bento",
+    "category": "rice-meal",
+    "variants": [
+      {
+        "size": "regular",
+        "price": 30000
+      },
+      {
+        "size": "large",
+        "price": 35000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 18,
+      "remaining": 18,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Chicken%20Bento"
+  },
+  {
+    "id": 82,
+    "name": "Japanese Rice Bowl",
+    "category": "rice-meal",
+    "variants": [
+      {
+        "size": "regular",
+        "price": 28000
+      },
+      {
+        "size": "large",
+        "price": 33000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 18,
+      "remaining": 18,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Japanese%20Rice%20Bowl"
+  },
+  {
+    "id": 85,
+    "name": "Tuna Mayo Onigiri",
+    "category": "japanese-korean",
+    "variants": [
+      {
+        "size": "1 size",
+        "price": 13000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 20,
+      "remaining": 20,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Tuna%20Mayo%20Onigiri"
+  },
+  {
+    "id": 104,
+    "name": "Gyoza",
+    "category": "japanese-korean",
+    "variants": [
+      {
+        "size": "1 portion",
+        "price": 15000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Gyoza"
+  },
+  {
+    "id": 105,
+    "name": "Takoyaki",
+    "category": "japanese-korean",
+    "variants": [
+      {
+        "size": "1 portion",
+        "price": 15000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Takoyaki"
+  },
+  {
+    "id": 106,
+    "name": "Tteokbokki",
+    "category": "japanese-korean",
+    "variants": [
+      {
+        "size": "regular",
+        "price": 20000
+      },
+      {
+        "size": "large",
+        "price": 25000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Tteokbokki"
+  },
+  {
+    "id": 112,
+    "name": "Ena Chicken Original",
+    "category": "fried-savory",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 15000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 20,
+      "remaining": 20,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Ena%20Chicken%20Original"
+  },
+  {
+    "id": 115,
+    "name": "Karaage Stick Spicy",
+    "category": "fried-savory",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 15000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 20,
+      "remaining": 20,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Karaage%20Stick%20Spicy"
+  },
+  {
+    "id": 119,
+    "name": "Siomay Ayam",
+    "category": "fried-savory",
+    "variants": [
+      {
+        "size": "3 pcs",
+        "price": 10000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 20,
+      "remaining": 20,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Siomay%20Ayam"
+  },
+  {
+    "id": 123,
+    "name": "Martabak Telur",
+    "category": "fried-savory",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 12000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 20,
+      "remaining": 20,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Martabak%20Telur"
+  },
+  {
+    "id": 130,
+    "name": "Egg Sandwich",
+    "category": "sandwich-toast",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 20000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Egg%20Sandwich"
+  },
+  {
+    "id": 134,
+    "name": "Chicken Toast",
+    "category": "sandwich-toast",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 25000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Chicken%20Toast"
+  },
+  {
+    "id": 141,
+    "name": "Beef & Omelette Toast",
+    "category": "sandwich-toast",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 36000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 15,
+      "remaining": 15,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Beef%20%26%20Omelette%20Toast"
+  },
+  {
+    "id": 142,
+    "name": "Butter Croissant",
+    "category": "bakery-pastry",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 20000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 12,
+      "remaining": 12,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Butter%20Croissant"
+  },
+  {
+    "id": 143,
+    "name": "Chocolate Croissant",
+    "category": "bakery-pastry",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 22000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 12,
+      "remaining": 12,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Chocolate%20Croissant"
+  },
+  {
+    "id": 151,
+    "name": "Donut",
+    "category": "bakery-pastry",
+    "variants": [
+      {
+        "size": "1 pcs",
+        "price": 10000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 12,
+      "remaining": 12,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Donut"
+  },
+  {
+    "id": 154,
+    "name": "Chocolate Cake",
+    "category": "bakery-pastry",
+    "variants": [
+      {
+        "size": "1 slice",
+        "price": 22000
+      }
+    ],
+    "stock": {
+      "dailyLimit": 12,
+      "remaining": 12,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Chocolate%20Cake"
+  },
+  {
+    "id": 158,
+    "name": "Coffee Break",
+    "category": "combo-package",
+    "items": [
+      "Coffee M",
+      "Donut"
+    ],
+    "price": 30000,
+    "stock": {
+      "dailyLimit": 8,
+      "remaining": 8,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Coffee%20Break"
+  },
+  {
+    "id": 160,
+    "name": "Japanese Set",
+    "category": "combo-package",
+    "items": [
+      "Iced Coffee M",
+      "Onigiri"
+    ],
+    "price": 35000,
+    "stock": {
+      "dailyLimit": 8,
+      "remaining": 8,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Japanese%20Set"
+  },
+  {
+    "id": 166,
+    "name": "Breakfast Set",
+    "category": "combo-package",
+    "items": [
+      "Hot Coffee M",
+      "Toast",
+      "Pastry"
+    ],
+    "price": 50000,
+    "stock": {
+      "dailyLimit": 8,
+      "remaining": 8,
+      "resetPolicy": "daily",
+      "resetTimezone": "Asia/Jakarta",
+      "lastResetDate": null
+    },
+    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Breakfast%20Set"
+  }
+]
