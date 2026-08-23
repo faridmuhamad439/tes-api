@@ -40,3 +40,7 @@ let galleryData = [
   { id: 34, style: "Casual", label: "Weekend", judul: "Weekend Casual", deskripsi: "Look casual yang cocok untuk hangout.", gambar: "https://i.pinimg.com/736x/4d/95/1f/4d951fc0041d4e3506db7b26efa4c80d.jpg" },
   { id: 35, style: "Casual", label: "Outfit", judul: "Outfit Casual", deskripsi: "Karena outfit nyaman juga bisa tetap keren.", gambar: "https://i.pinimg.com/736x/b0/81/ed/b081edbc41ba5cb92bd44ee5feefdfad.jpg" }
 ];
+
+export default function handler(req, res) {
+    res.status(200).json(products);
+}
