@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "01",
+    "nama": "Lovely Runner",
+    "rilis": "2024",
+    "episode": "16",
+    "rating": "8.9/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Im Sol",
+        "aktor": "Kim Hye-yoon",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/65/b4/c4/65b4c4bf4374e2d4cfcd1c2d1f98c220.jpg"]
+        }
+      },
+      {
+        "no": "02",
+        "karakter": "Ryu Sun-Jae",
+        "aktor": "Byeon Woo-seok",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/f2/0a/f9/f20af9bd1b86487a5556074ef1de242b.jpg"]
+        }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Tae-sung",
+        "aktor": "Song Geon-hee",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/da/3c/6b/da3c6ba055768f1f4d1225ecb5661f94.jpg"]
+        }
+      },
+      {
+        "no": "04",
+        "karakter": "Baek In-hyuk",
+        "aktor": "Lee Seung-hyub",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/1200x/95/7c/bc/957cbc04184f14dbf2a2b6601aa38a4c.jpg"]
+        }
+      }
+    ],
+    "trailer": "https://youtu.be/5kk0dYa8Ccc?si=ggXwxpjFM3D06nzS"
+  },
+  {
+    "id": "02",
+    "nama": "Twinkling Watermelon",
+    "rilis": "2023",
+    "episode": "16",
+    "rating": "8.9/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Ha Eun-Gyeol",
+        "aktor": "Ryeoun",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/a1/d8/c7/a1d8c730c9c28119222122833732175e.jpg"]
+        }
+      },
+      {
+        "no": "02",
+        "karakter": "Ha Yi-Chan",
+        "aktor": "Choi Hyun-Wook",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/1200x/9e/f2/39/9ef239977652775f150837a2200c82e5.jpg"]
+        }
+      },
+      {
+        "no": "03",
+        "karakter": "On Eun-Yu / Choi Se-Gyeong",
+        "aktor": "Seol In-Ah",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/95/f1/45/95f145a3d5619e3412faad069e9e8cc9.jpg"]
+        }
+      },
+      {
+        "no": "04",
+        "karakter": "Yoon Chung-Ah",
+        "aktor": "Shin Eun-Soo",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/42/32/ff/4232ff3434493d36320d7f244694136f.jpg"]
+        }
+      }
+    ],
+    "trailer": "https://youtu.be/N_CQsnP8XRs?si=JB2rFInGJeg1o1d8"
+  },
+  {
+    "id": "03",
+    "nama": "Twenty-Five Twenty-One",
+    "rilis": "2022",
+    "episode": "16",
+    "rating": "8.7/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Na Hee-Do",
+        "aktor": "Kim Tae-Ri",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/1200x/0f/1f/62/0f1f62d1e303bdb9cdc126712d7ec385.jpg"]
+        }
+      },
+      {
+        "no": "02",
+        "karakter": "Baek Yi-Jin",
+        "aktor": "Nam Joo-Hyuk",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/e5/d3/2e/e5d32eabad44197565e6de35b8f21e2d.jpg"]
+        }
+      },
+      {
+        "no": "03",
+        "karakter": "Go Yu-Rim",
+        "aktor": "Bona (Kim Ji-Yeon)",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/0f/ac/fb/0facfb8d70fe415b74970953c2578931.jpg"]
+        }
+      },
+      {
+        "no": "04",
+        "karakter": "Moon Ji-Woong",
+        "aktor": "Choi Hyun-Wook",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/1200x/9e/f2/39/9ef239977652775f150837a2200c82e5.jpg"]
+        }
+      },
+      {
+        "no": "05",
+        "karakter": "Ji Seung-Wan",
+        "aktor": "Lee Joo-Myung",
+        "foto": {
+          "potrait": ["https://i.pinimg.com/736x/8c/ee/bb/8ceebb03de01af9dfd4bf765b094b645.jpg"]
+        }
+      }
+    ],
+    "trailer": "https://youtu.be/n7F8o-SoK8s?si=_DOkVosuDntu-RsF"
+  },
+  {
+    "id": "04",
+    "nama": "Crash Landing on You",
+    "rilis": "2019",
+    "episode": "16",
+    "rating": "8.7/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Yoon Se-Ri",
+        "aktor": "Son Ye-Jin",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/cf/48/32/cf4832b3019253c6a81284015184dc0e.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Ri Jeong-Hyeok",
+        "aktor": "Hyun Bin",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/02/7f/76/027f7627cff05b0cd5a55469f3e27db9.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Seo Dan",
+        "aktor": "Seo Ji-Hye",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e4/56/0d/e4560dc42dbb0086e068eae25e99844b.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Gu Seung-Jun",
+        "aktor": "Kim Jung-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/c6/28/f9/c628f9618c65555ffbe11e92f4eb55d0.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/GVQGWgeVc4k?si=l_iiyvwq9Gpxq7PF"
+  },
+  {
+    "id": "05",
+    "nama": "Goblin",
+    "rilis": "2016",
+    "episode": "16",
+    "rating": "8.6/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Kim Shin",
+        "aktor": "Gong Yoo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e2/f8/61/e2f861c6588f820e480a6c824afe1070.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Ji Eun-Tak",
+        "aktor": "Kim Go-Eun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e9/66/df/e966dfc68a498cf9a556b869fd1e5119.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Grim Reaper / Wang Yeo",
+        "aktor": "Lee Dong-Wook",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/82/52/26/825226a796d30147ccf515559f0ee36e.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Sunny / Kim Sun",
+        "aktor": "Yoo In-Na",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/63/aa/dc/63aadcfc2a8f1cbdcc4bca7d4cbaf229.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Yoo Deok-Hwa",
+        "aktor": "Yook Sung-Jae",
+        "foto": { "potrait": ["https://i.pinimg.com/236x/d9/54/8f/d9548f97cc2883de34c85074c7aa29ae.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/S94ukM8C17A?si=YhT5BGTg3NXXOEzk"
+  },
+  {
+    "id": "06",
+    "nama": "Business Proposal",
+    "rilis": "2022",
+    "episode": "12",
+    "rating": "8.1/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Shin Ha-Ri",
+        "aktor": "Kim Se-Jeong",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/4f/95/4c/4f954c79f66ab38d93bfa28e5f798870.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Kang Tae-Moo",
+        "aktor": "Ahn Hyo-Seop",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/eb/b9/63/ebb963ffe8c5f84caaadf36fb3470365.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Cha Sung-Hoon",
+        "aktor": "Kim Min-Gue",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/33/ca/07/33ca079fa8003f5237a9fe375de35671.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Jin Young-Seo",
+        "aktor": "Seol In-Ah",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/13/c9/80/13c980274ca9e922180d5a2f73679c98.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/mh4R-WXRhQo?si=F-AkwUbGXAxD7Zqv"
+  },
+  {
+    "id": "07",
+    "nama": "True Beauty",
+    "rilis": "2020",
+    "episode": "16",
+    "rating": "8.0/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Lim Ju-Kyung",
+        "aktor": "Moon Ga-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/21/ce/b4/21ceb4c42fb39da792de1d89a28c3ba1.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Lee Su-Ho",
+        "aktor": "Cha Eun-Woo",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/39/7f/b1/397fb16d891b0fa87fa15d2104f473a0.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Han Seo-Jun",
+        "aktor": "Hwang In-Youp",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/73/d5/e4/73d5e49fa1144865cd3dab7ae1d3584f.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Kang Su-Jin",
+        "aktor": "Park Yoo-Na",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/47/fa/98/47fa9827e50909a150d4438395797d86.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/BhP1eYQ5Pxk?si=eCJJiR6OZqGtePo-"
+  },
+  {
+    "id": "08",
+    "nama": "Hotel Del Luna",
+    "rilis": "2019",
+    "episode": "16",
+    "rating": "8.2/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Jang Man-Wol",
+        "aktor": "IU",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/bb/c8/46/bbc8467fe56ff704efa55577d688d6e5.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Goo Chan-Sung",
+        "aktor": "Yeo Jin-Goo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/63/6d/5a/636d5ae885d8dfe57ac5d320f697d626.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Yoo-Seob / Choi Seo-Hee",
+        "aktor": "Bae Hae-Sun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/f1/49/ef/f149ef2145b613133b35337355520192.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Ji Hyun-Joong",
+        "aktor": "P.O (Pyo Ji-Hoon)",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/e5/44/36/e5443686a5c4d87cad166b07be081e6c.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Kim Yoo-Na",
+        "aktor": "Kang Mi-Na",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/52/a5/0d/52a50d36280db27042ef1bef09db7c80.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/zMWpcJ_n3_o?si=favcixrvt2C6x8lC"
+  },
+  {
+    "id": "09",
+    "nama": "The Glory",
+    "rilis": "2022",
+    "episode": "16",
+    "rating": "8.1/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Moon Dong-Eun",
+        "aktor": "Song Hye-Kyo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/57/7b/bb/577bbb563efae4b68f2d717febbbc0c7.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Joo Yeo-Jeong",
+        "aktor": "Lee Do-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/97/cb/85/97cb85dd17e17dd7f204ddce5382865d.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Park Yeon-Jin",
+        "aktor": "Lim Ji-Yeon",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/b0/d7/5a/b0d75a67624102403830a60033962551.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Kang Hyeon-Nam",
+        "aktor": "Yeom Hye-Ran",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/f3/44/29/f344297202249aa2e18228b3d4edf66f.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Ha Do-Yeong",
+        "aktor": "Jung Sung-Il",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/79/8b/7f/798b7fe7d9f0e521af35c2bdaca19d77.jpg"] }
+      },
+      {
+        "no": "06",
+        "karakter": "Jeon Jae-Jun",
+        "aktor": "Park Sung-Hoon",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/85/45/62/854562b477ce5387d0fd22ca1ca377fc.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/tqVVrTvrI8U?si=R0wzUQFghL7KdhwY"
+  },
+  {
+    "id": "10",
+    "nama": "Queen of Tears",
+    "rilis": "2024",
+    "episode": "16",
+    "rating": "8.4/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Baek Hyun-Woo",
+        "aktor": "Kim Soo-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/15/1b/79/151b79d280a82b5b8cca6af48aa3fca7.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Hong Hae-In",
+        "aktor": "Kim Ji-Won",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/c4/cd/6f/c4cd6fd0e998094cec98793b411d3ac6.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Yoon Eun-Sung",
+        "aktor": "Park Sung-Hoon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/37/c2/40/37c240b4389b6ba0ba586eef94650106.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Hong Soo-Cheol",
+        "aktor": "Kwak Dong-Yeon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/02/20/1f/02201f64445f009b981386a3a966f908.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Cheon Da-Hye",
+        "aktor": "Lee Joo-Bin",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/eb/f7/ce/ebf7ce1d47ae5975510ff718fc46e1e0.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/Gg2D8zrzlOA?si=orcJkHOP6Ql-pnqx"
+  },
+  {
+    "id": "11",
+    "nama": "Mr. Queen",
+    "rilis": "2020",
+    "episode": "20",
+    "rating": "8.6/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Kim So-Yong / Ratu Cheorin",
+        "aktor": "Shin Hye-Sun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/3e/9e/6e/3e9e6e523675f6a0c113f9aabc0d92ca.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Raja Cheoljong",
+        "aktor": "Kim Jung-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/67/8d/ef/678defc601aa958c51c136bc3c375527.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Byeong-In",
+        "aktor": "Na In-Woo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e5/e7/87/e5e7877d71b1d90b3c735aea00c9314e.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Jo Hwa-Jin",
+        "aktor": "Seol In-Ah",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/13/c9/80/13c980274ca9e922180d5a2f73679c98.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/9r28BYYLa8g?si=qTtEWyGNHoh8DJWS"
+  },
+  {
+    "id": "12",
+    "nama": "Vincenzo",
+    "rilis": "2021",
+    "episode": "20",
+    "rating": "8.4/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Vincenzo Cassano",
+        "aktor": "Song Joong-Ki",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/5e/e6/de/5ee6de1187647c1d2b7ab62e4ce68f06.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Hong Cha-Young",
+        "aktor": "Jeon Yeo-Been",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/da/4a/38/da4a382757a70b67f2b231233212cb60.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Jang Jun-Woo / Jang Han-Seok",
+        "aktor": "Ok Taec-Yeon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e2/66/82/e266829591ed3a7f3225b6bd94f33423.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Choi Myung-Hee",
+        "aktor": "Kim Yeo-Jin",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/08/5c/6e/085c6e90efd0e5427b776e12f72d4cfa.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Jang Han-Seo",
+        "aktor": "Kwak Dong-Yeon",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/c0/a2/33/c0a2332974af2729d9ae7d998a046519.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/_J8tYmsC-fc"
+  },
+  {
+    "id": "13",
+    "nama": "Itaewon Class",
+    "rilis": "2020",
+    "episode": "16",
+    "rating": "8.2/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Park Sae-Ro-Yi",
+        "aktor": "Park Seo-Joon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/68/ae/f6/68aef6b3f052ec727f90a58c4f6457b6.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Jo Yi-Seo",
+        "aktor": "Kim Da-Mi",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/ee/c6/82/eec682175f33a39c2c33d1391596e85d.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Jang Dae-Hee",
+        "aktor": "Yoo Jae-Myung",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/23/93/86/2393868646bd7d20888c91471bff61ce.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Oh Soo-A",
+        "aktor": "Kwon Nara",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/fb/eb/81/fbeb813fdecaa42deaef7682c0a1d539.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Jang Geun-Won",
+        "aktor": "Ahn Bo-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/27/36/4e/27364e7c6af2132119bcb8edcbdd3e78.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/NhWG_d2GGe0"
+  },
+  {
+    "id": "14",
+    "nama": "Hometown Cha-Cha-Cha",
+    "rilis": "2021",
+    "episode": "16",
+    "rating": "8.4/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Yoon Hye-Jin",
+        "aktor": "Shin Min-A",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/75/cb/32/75cb321dad05ec0607d3a973db664b48.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Hong Du-Sik",
+        "aktor": "Kim Seon-Ho",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/f6/b0/d0/f6b0d0db7bc59bb480d85dfd51f54884.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Ji Seong-Hyun",
+        "aktor": "Lee Sang-Yi",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/d5/dc/87/d5dc8773d75e7854ed6b0af965410a55.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Pyo Mi-Seon",
+        "aktor": "Gong Min-Jung",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/b4/72/56/b47256e92423d80223d1bf6f40348c84.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/39-847kL160"
+  },
+  {
+    "id": "15",
+    "nama": "Descendants of the Sun",
+    "rilis": "2016",
+    "episode": "16",
+    "rating": "8.2/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Yoo Si-Jin",
+        "aktor": "Song Joong-Ki",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/92/ba/14/92ba1490661b13b039a5666151adae99.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Kang Mo-Yeon",
+        "aktor": "Song Hye-Kyo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/eb/92/b7/eb92b72daa279b3200729ff65142e337.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Seo Dae-Young",
+        "aktor": "Jin Goo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/fe/de/8a/fede8a7fd908654fd96cbc9c9eb1ae2b.jpgg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Yoon Myeong-Joo",
+        "aktor": "Kim Ji-Won",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/cb/fa/2b/cbfa2b3d2cd1770ba7e430db488bbaf0.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/WK6M3JgTf6U"
+  },
+  {
+    "id": "16",
+    "nama": "While You Were Sleeping",
+    "rilis": "2017",
+    "episode": "32",
+    "rating": "8.3/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Jung Jae-Chan",
+        "aktor": "Lee Jong-Suk",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/3d/76/e8/3d76e87d0ffa5a2df9d361bed0ee63f3.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Nam Hong-Joo",
+        "aktor": "Bae Suzy",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/b8/10/03/b810039490977391bf53dba47441bbd4.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Han Woo-Tak",
+        "aktor": "Jung Hae-In",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/9c/1d/ae/9c1dae1812e0bb2866f5843bd3093740.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Lee Yoo-Beom",
+        "aktor": "Lee Sang-Yeob",
+        "foto": { "potrait": ["https://i.pinimg.com/236x/7b/35/4c/7b354c76aeb4cd4b4d0ab135f65e9606.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/739H5A_oatU"
+  },
+  {
+    "id": "17",
+    "nama": "Weightlifting Fairy Kim Bok-Joo",
+    "rilis": "2016",
+    "episode": "16",
+    "rating": "8.3/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Kim Bok-Joo",
+        "aktor": "Lee Sung-Kyung",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/70/dd/86/70dd86fc90d437bdb262f8930e16322f.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Jung Joon-Hyung",
+        "aktor": "Nam Joo-Hyuk",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/78/04/12/780412edc41437ae4aa4fae15bbd4f6a.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Jung Jae-Yi",
+        "aktor": "Lee Jae-Yoon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/64/89/58/6489587ea9dfd9b172b271f87da5b736.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Song Shi-Ho",
+        "aktor": "Kyung Soo-Jin",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/4f/71/03/4f71034269e5d96deb3a34d33ab68489.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/u88I9gHlVwA"
+  },
+  {
+    "id": "18",
+    "nama": "Strong Girl Bong-Soon",
+    "rilis": "2017",
+    "episode": "16",
+    "rating": "8.2/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Do Bong-Soon",
+        "aktor": "Park Bo-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/67/0a/00/670a00650b07f5c0c562a1014bf128cc.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Ahn Min-Hyuk",
+        "aktor": "Park Hyung-Sik",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/bb/52/9e/bb529eb1536248f94e27e833cdf77ef4.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "In Guk-Doo",
+        "aktor": "Ji Soo",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/5c/71/1f/5c711fd5398f5be4a8318689a7ad6ca5.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/A2U2fA3k98U"
+  },
+  {
+    "id": "19",
+    "nama": "What's Wrong with Secretary Kim",
+    "rilis": "2018",
+    "episode": "16",
+    "rating": "8.1/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Lee Young-Joon",
+        "aktor": "Park Seo-Joon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/36/a7/b8/36a7b8b08b0b7c62af85291eb7c21813.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Kim Mi-So",
+        "aktor": "Park Min-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/31/56/2b/31562be5900dc40e94ca582f1cf8152c.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Lee Sung-Yeon",
+        "aktor": "Lee Tae-Hwan",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/4a/f4/05/4af405f12f8af232372e58d06e7b748c.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Park Yoo-Sik",
+        "aktor": "Kang Ki-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/2d/fa/3d/2dfa3d7bf1a01994a92cd46910864327.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/B42k3jE4Lms"
+  },
+  {
+    "id": "20",
+    "nama": "Squid Game",
+    "rilis": "2021",
+    "episode": "9",
+    "rating": "8.0/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Seong Gi-Hun",
+        "aktor": "Lee Jung-Jae",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/1f/d2/dc/1fd2dc2d970b89f673342c76911186fc.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Cho Sang-Woo",
+        "aktor": "Park Hae-Soo",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/8a/6e/6c/8a6e6ca333e6d4b248ebbaccc5e13224.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Hwang Jun-Ho",
+        "aktor": "Wi Ha-Joon",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/9d/89/89/9d8989c38a9db90f135a3a972e3171b3.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Kang Sae-Byeok",
+        "aktor": "Jung Ho-Yeon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/4b/29/58/4b2958a4c7da76074cdcbe33ad97144c.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Oh Il-Nam",
+        "aktor": "O Yeong-Su",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/79/e0/85/79e085fc9423f88f848eb648e436b775.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/oqxAJKy0ii4"
+  },
+  {
+    "id": "21",
+    "nama": "All of Us Are Dead",
+    "rilis": "2022",
+    "episode": "12",
+    "rating": "7.5/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Nam On-Jo",
+        "aktor": "Park Ji-Hu",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/8e/a9/36/8ea9360ded091292f324ee403a07e1db.jpgg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Lee Cheong-San",
+        "aktor": "Yoon Chan-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/ad/ef/16/adef160549f66d3893a9a4e7dba6608c.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Choi Nam-Ra",
+        "aktor": "Cho Yi-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/28/00/c2/2800c24356fb14f334882d62fd1f8a85.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Lee Su-Hyeok",
+        "aktor": "Lomon",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/4c/4b/8b/4c4b8bdda9a5d470518699f6ccb5c23e.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Yoon Gwi-Nam",
+        "aktor": "Yoo In-Soo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/6e/07/47/6e07471c5a40af05df9277eee11ede70.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/IN5TD4VRcSM"
+  },
+  {
+    "id": "22",
+    "nama": "Moving",
+    "rilis": "2023",
+    "episode": "20",
+    "rating": "8.5/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Jang Ju-Won",
+        "aktor": "Ryu Seung-Ryong",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/c6/01/9e/c6019e66329c5a0c93f1237e61aa1909.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Lee Mi-Hyun",
+        "aktor": "Han Hyo-Joo",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/e8/f9/14/e8f91496410d01f401b2ee11f61cd2e1.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Doo-Sik",
+        "aktor": "Zo In-Sung",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/55/48/3d/55483db75fc01a0e624a6a4939834fe7.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Kim Bong-Seok",
+        "aktor": "Lee Jung-Ha",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/f9/54/bc/f954bcdedb488e49452637701142aef5.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Jang Hui-Soo",
+        "aktor": "Go Youn-Jung",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/f8/86/38/f8863817d8964f444989e44c26232259.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/3T3h3mIuF0E"
+  },
+  {
+    "id": "23",
+    "nama": "Alchemy of Souls",
+    "rilis": "2022",
+    "episode": "20",
+    "rating": "8.8/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Jang Uk",
+        "aktor": "Lee Jae-Wook",
+        "foto": { "potrait": ["hhttps://i.pinimg.com/736x/da/48/5c/da485cb657fe7e26a71a5233f6018b22.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Mu-Deok / Nak-Su",
+        "aktor": "Jung So-Min",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/94/b3/e7/94b3e72dc9361c94652bd29736161741.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Nak-Su / Jin Bu-Yeon",
+        "aktor": "Go Youn-Jung",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/f8/86/38/f8863817d8964f444989e44c26232259.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Seo Yul",
+        "aktor": "Hwang Min-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/d4/81/b2/d481b2fc86645ebe06e45a49f235ec27.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Go Won",
+        "aktor": "Shin Seung-Ho",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/82/9a/2a/829a2a6dd7783d9853d64f84273a96a4.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/A2o4XbL30hA"
+  },
+  {
+    "id": "24",
+    "nama": "Signal",
+    "rilis": "2016",
+    "episode": "16",
+    "rating": "8.9/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Park Hae-Young",
+        "aktor": "Lee Je-Hoon",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/51/22/e4/5122e475d8fd2540c3af6101d4560100.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Cha Soo-Hyun",
+        "aktor": "Kim Hye-Soo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/b0/1b/c5/b01bc5b3d4c9cf9ef2e2af8bfa85a7fb.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Lee Jae-Han",
+        "aktor": "Cho Jin-Woong",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/bb/83/a9/bb83a918246228b4cc50ae9728f16997.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/S4o7_P9s7U4"
+  },
+  {
+    "id": "25",
+    "nama": "Stranger (Forest of Secrets)",
+    "rilis": "2017",
+    "episode": "16",
+    "rating": "8.5/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Hwang Shi-Mok",
+        "aktor": "Cho Seung-Woo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/99/5d/7d/995d7dc0181b407960aded642e6e39c3.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Han Yeo-Jin",
+        "aktor": "Bae Doona",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/ab/f8/5f/abf85f8868ecb73b8d400c0f244371fa.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Seo Dong-Jae",
+        "aktor": "Lee Joon-Hyuk",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/d4/7a/ea/d47aea35e61eab665e8367d6a1cb4162.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Young Eun-Soo",
+        "aktor": "Shin Hye-Sun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/3e/9e/6e/3e9e6e523675f6a0c113f9aabc0d92ca.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/4eE_JbS4WfE"
+  },
+  {
+    "id": "26",
+    "nama": "Hospital Playlist",
+    "rilis": "2020",
+    "episode": "12",
+    "rating": "8.8/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Lee Ik-Jun",
+        "aktor": "Jo Jung-Suk",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/4b/05/21/4b05210851513d7abe924c042eac7acd.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Ahn Jeong-Won",
+        "aktor": "Yoo Yeon-Seok",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/55/46/80/5546801333e5560172785429001c63e4.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Jun-Wan",
+        "aktor": "Jung Kyung-Ho",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/0a/05/a4/0a05a4a50bfad22f9e15c088a5e0e93f.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Yang Seok-Hyeong",
+        "aktor": "Kim Dae-Myung",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/dd/09/66/dd09666dbc6cce487b16af5ad1124247.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Chae Song-Hwa",
+        "aktor": "Jeon Mi-Do",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/49/3c/4a/493c4ae3af09f9b96e3bda4b7e4321f2.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/L8eT3O0H3O8"
+  },
+  {
+    "id": "27",
+    "nama": "Reply 1988",
+    "rilis": "2015",
+    "episode": "20",
+    "rating": "9.1/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Sung Deok-Sun",
+        "aktor": "Lee Hye-Ri",
+        "foto": { "potrait": ["hhttps://i.pinimg.com/736x/16/39/2f/16392f4f0b15f5c05f6c947163c31420.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Kim Jung-Hwan",
+        "aktor": "Ryu Jun-Yeol",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/c1/41/6a/c1416a30c5790878b68f2d1acb7f2fed.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Sung Sun-Woo",
+        "aktor": "Go Kyung-Pyo",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/52/bb/c1/52bbc14b146e0e9f2fa19c4c63b1f406.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Choi Taek",
+        "aktor": "Park Bo-Gum",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/21/7f/a6/217fa628ea10a4c390b87bc5040ef4a1.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Ryu Dong-Ryong",
+        "aktor": "Lee Dong-Hwi",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/70/f1/9f/70f19f156ab260d58ba7ccc00c4e4bbe.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/c-3k0k128Rk"
+  },
+  {
+    "id": "28",
+    "nama": "My Mister",
+    "rilis": "2018",
+    "episode": "16",
+    "rating": "9.1/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Park Dong-Hoon",
+        "aktor": "Lee Sun-Kyun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/ac/85/d8/ac85d86c9ae16b1c52dc8779ef80d434.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Lee Ji-An",
+        "aktor": "IU",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/62/b9/e4/62b9e48bb4f7700055b71858522975a3.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Park Sang-Hoon",
+        "aktor": "Park Ho-San",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/8e/b5/d7/8eb5d75cbb1edeae34d76af275096a22.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Park Ki-Hoon",
+        "aktor": "Song Sae-Byeok",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/94/ea/9d/94ea9dfda6c16996987d1e69b1ab0d28.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/SH2U_M89y4A"
+  },
+  {
+    "id": "29",
+    "nama": "Moon Lovers: Scarlet Heart Ryeo",
+    "rilis": "2016",
+    "episode": "20",
+    "rating": "8.7/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Wang So (Pangeran ke-4)",
+        "aktor": "Lee Joon-Gi",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/b7/31/d4/b731d42038d80cff81608504b466d584.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Hae Soo / Go Ha-Jin",
+        "aktor": "IU",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/62/b9/e4/62b9e48bb4f7700055b71858522975a3.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Wang Wook (Pangeran ke-8)",
+        "aktor": "Kang Ha-Neul",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/f0/b0/1e/f0b01e31b51d1adfa5d5229bb1f770f5.jpg"] }
+      },
+      {
+        "no": "04",
+        "karakter": "Wang Yo (Pangeran ke-3)",
+        "aktor": "Hong Jong-Hyun",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/ad/e7/97/ade797865ef0ce677bf75083c08852b3.jpg"] }
+      },
+      {
+        "no": "05",
+        "karakter": "Wang Eun (Pangeran ke-10)",
+        "aktor": "Baekhyun",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/a2/ea/e6/a2eae6ef822b9815aa724efb72a01ad9.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/3I_41B9sD9E"
+  },
+  {
+    "id": "30",
+    "nama": "Healer",
+    "rilis": "2014",
+    "episode": "20",
+    "rating": "8.5/10",
+    "pemain": [
+      {
+        "no": "01",
+        "karakter": "Seo Jung-Hoo / Healer",
+        "aktor": "Ji Chang-Wook",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/e2/cc/39/e2cc39ca0a2b10bc61151992adcf7075.jpg"] }
+      },
+      {
+        "no": "02",
+        "karakter": "Chae Young-Shin",
+        "aktor": "Park Min-Young",
+        "foto": { "potrait": ["https://i.pinimg.com/1200x/bd/49/93/bd4993a42b9353ca9f51cb613c38549b.jpg"] }
+      },
+      {
+        "no": "03",
+        "karakter": "Kim Moon-Ho",
+        "aktor": "Yoo Ji-Tae",
+        "foto": { "potrait": ["https://i.pinimg.com/736x/61/a6/c6/61a6c604b8d9bf1b86e2eae010072cb8.jpg"] }
+      }
+    ],
+    "trailer": "https://youtu.be/K-8y_a3wM1Q"
+  }
+]
