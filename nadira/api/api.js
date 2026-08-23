@@ -42,5 +42,5 @@ let galleryData = [
 ];
 
 export default function handler(req, res) {
-    res.status(200).json(products);
+    res.status(200).json(galleryData);
 }
