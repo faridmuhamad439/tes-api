@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Kemeja Oxford Slim Fit Putih Pria",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Pria",
     "price": 329000,
@@ -19,6 +20,7 @@
   {
     "id": 2,
     "name": "Hoodie Oversize Fleece Cream Wanita",
+    "rating": 4.5,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 289000,
@@ -36,6 +38,7 @@
   {
     "id": 3,
     "name": "Sepatu Sneakers Casual Putih Pria",
+    "rating": 4.2,
     "category": "sepatu",
     "gender": "Pria",
     "price": 429000,
@@ -54,6 +57,7 @@
   {
     "id": 4,
     "name": "Piyama Satin Lilac Wanita",
+    "rating": 4.9,
     "category": "piyama",
     "gender": "Wanita",
     "price": 239000,
@@ -71,6 +75,7 @@
   {
     "id": 5,
     "name": "Tas Crossbody Canvas Navy Pria",
+    "rating": 4.6,
     "category": "tas",
     "gender": "Pria",
     "price": 219000,
@@ -85,6 +90,7 @@
   {
     "id": 6,
     "name": "Sweater Knit Cable Olive Pria",
+    "rating": 4.3,
     "category": "sweater",
     "gender": "Pria",
     "price": 329000,
@@ -102,6 +108,7 @@
   {
     "id": 7,
     "name": "Kaos Oversize Basic Putih Wanita",
+    "rating": 5.0,
     "category": "kaos",
     "gender": "Wanita",
     "price": 129000,
@@ -119,6 +126,7 @@
   {
     "id": 8,
     "name": "Kebaya Brokat Modern Dusty Pink",
+    "rating": 4.7,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 675000,
@@ -136,6 +144,7 @@
   {
     "id": 9,
     "name": "Kemeja Linen Relaxed Fit Beige Wanita",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 289000,
@@ -153,6 +162,7 @@
   {
     "id": 10,
     "name": "Sepatu Running Mesh Abu-abu Wanita",
+    "rating": 4.1,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 389000,
@@ -171,6 +181,7 @@
   {
     "id": 11,
     "name": "Hoodie Zip Basic Hitam Pria",
+    "rating": 4.8,
     "category": "hoodie",
     "gender": "Pria",
     "price": 299000,
@@ -188,6 +199,7 @@
   {
     "id": 12,
     "name": "Kaos Graphic Navy Pria",
+    "rating": 4.5,
     "category": "kaos",
     "gender": "Pria",
     "price": 149000,
@@ -205,6 +217,7 @@
   {
     "id": 13,
     "name": "Kebaya Kutubaru Brokat Sage",
+    "rating": 4.2,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 745000,
@@ -222,6 +235,7 @@
   {
     "id": 14,
     "name": "Sweater Crewneck Cream Wanita",
+    "rating": 4.9,
     "category": "sweater",
     "gender": "Wanita",
     "price": 249000,
@@ -239,6 +253,7 @@
   {
     "id": 15,
     "name": "Piyama Katun Motif Biru Pria",
+    "rating": 4.6,
     "category": "piyama",
     "gender": "Pria",
     "price": 189000,
@@ -256,6 +271,7 @@
   {
     "id": 16,
     "name": "Tas Tote Kanvas Beige Wanita",
+    "rating": 4.3,
     "category": "tas",
     "gender": "Wanita",
     "price": 179000,
@@ -270,6 +286,7 @@
   {
     "id": 17,
     "name": "Kemeja Flannel Kotak Merah Pria",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Pria",
     "price": 239000,
@@ -287,6 +304,7 @@
   {
     "id": 18,
     "name": "Tas Shoulder Quilted Hitam Wanita",
+    "rating": 4.7,
     "category": "tas",
     "gender": "Wanita",
     "price": 329000,
@@ -301,6 +319,7 @@
   {
     "id": 19,
     "name": "Hoodie Pullover Graphic Abu-abu Pria",
+    "rating": 4.4,
     "category": "hoodie",
     "gender": "Pria",
     "price": 319000,
@@ -318,6 +337,7 @@
   {
     "id": 20,
     "name": "Kaos Ribbed Slim Fit Hitam Wanita",
+    "rating": 4.1,
     "category": "kaos",
     "gender": "Wanita",
     "price": 139000,
@@ -335,6 +355,7 @@
   {
     "id": 21,
     "name": "Piyama Rayon Sage Wanita",
+    "rating": 4.8,
     "category": "piyama",
     "gender": "Wanita",
     "price": 199000,
@@ -352,6 +373,7 @@
   {
     "id": 22,
     "name": "Sepatu Loafers Kulit Cokelat Pria",
+    "rating": 4.5,
     "category": "sepatu",
     "gender": "Pria",
     "price": 579000,
@@ -370,6 +392,7 @@
   {
     "id": 23,
     "name": "Sweater Half Zip Navy Pria",
+    "rating": 4.2,
     "category": "sweater",
     "gender": "Pria",
     "price": 339000,
@@ -387,6 +410,7 @@
   {
     "id": 24,
     "name": "Kebaya Encim Modern Ivory",
+    "rating": 4.9,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 715000,
@@ -404,6 +428,7 @@
   {
     "id": 25,
     "name": "Kaos Polo Cotton Navy Pria",
+    "rating": 4.6,
     "category": "kaos",
     "gender": "Pria",
     "price": 179000,
@@ -421,6 +446,7 @@
   {
     "id": 26,
     "name": "Hoodie Crop Fleece Dusty Pink Wanita",
+    "rating": 4.3,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 279000,
@@ -438,6 +464,7 @@
   {
     "id": 27,
     "name": "Kemeja Poplin Puff Sleeve Putih Wanita",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 259000,
@@ -455,6 +482,7 @@
   {
     "id": 28,
     "name": "Sepatu Mary Jane Flat Hitam Wanita",
+    "rating": 4.7,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 299000,
@@ -473,6 +501,7 @@
   {
     "id": 29,
     "name": "Sweater Waffle Cream Pria",
+    "rating": 4.4,
     "category": "sweater",
     "gender": "Pria",
     "price": 289000,
@@ -490,6 +519,7 @@
   {
     "id": 30,
     "name": "Tas Sling Bag Canvas Olive Pria",
+    "rating": 4.1,
     "category": "tas",
     "gender": "Pria",
     "price": 169000,
@@ -504,6 +534,7 @@
   {
     "id": 31,
     "name": "Piyama Satin Navy Wanita",
+    "rating": 4.8,
     "category": "piyama",
     "gender": "Wanita",
     "price": 259000,
@@ -521,6 +552,7 @@
   {
     "id": 32,
     "name": "Kemeja Linen Short Sleeve Sand Pria",
+    "rating": 4.5,
     "category": "kemeja",
     "gender": "Pria",
     "price": 269000,
@@ -538,6 +570,7 @@
   {
     "id": 33,
     "name": "Sepatu Slip On Knit Beige Wanita",
+    "rating": 4.2,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 329000,
@@ -556,6 +589,7 @@
   {
     "id": 34,
     "name": "Kaos Henley Cotton Olive Pria",
+    "rating": 4.9,
     "category": "kaos",
     "gender": "Pria",
     "price": 159000,
@@ -573,6 +607,7 @@
   {
     "id": 35,
     "name": "Kebaya Brokat Payet Champagne",
+    "rating": 4.6,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 895000,
@@ -590,6 +625,7 @@
   {
     "id": 36,
     "name": "Hoodie French Terry Navy Pria",
+    "rating": 4.3,
     "category": "hoodie",
     "gender": "Pria",
     "price": 309000,
@@ -607,6 +643,7 @@
   {
     "id": 37,
     "name": "Sweater Knit Striped Navy Wanita",
+    "rating": 5.0,
     "category": "sweater",
     "gender": "Wanita",
     "price": 299000,
@@ -624,6 +661,7 @@
   {
     "id": 38,
     "name": "Tas Hobo Soft Beige Wanita",
+    "rating": 4.7,
     "category": "tas",
     "gender": "Wanita",
     "price": 349000,
@@ -633,11 +671,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/61-TMfE-oyL._AC_UY1000_.jpg"
   },
   {
     "id": 39,
     "name": "Piyama Flannel Kotak Navy Pria",
+    "rating": 4.4,
     "category": "piyama",
     "gender": "Pria",
     "price": 219000,
@@ -650,11 +689,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfMqXEIHTDiKP2JlzsROjhkEOCVfSIyooqHPMP09S755k3AgZflAXCetn&s=10"
   },
   {
     "id": 40,
     "name": "Kaos Rib Cotton Mauve Wanita",
+    "rating": 4.1,
     "category": "kaos",
     "gender": "Wanita",
     "price": 129000,
@@ -667,11 +707,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFP68cjZ4gsSwuDx8DS3vEhj8vnUTGyMpvyWBE5R1p-Q&s"
   },
   {
     "id": 41,
     "name": "Kemeja Oxford Oversize Olive Pria",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Pria",
     "price": 289000,
@@ -684,11 +725,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdDXyxYGoWDOeAuV0jeAX-K6_kxlJ6tSLNjNXso-MYA&s"
   },
   {
     "id": 42,
     "name": "Sepatu Loafers Square Toe Tan Wanita",
+    "rating": 4.5,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 359000,
@@ -702,11 +744,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://www.jonak-paris.com/phototheque/jonak.fr/25750/prodfp/01W025500A.jpg"
   },
   {
     "id": 43,
     "name": "Hoodie Oversize Washed Green Pria",
+    "rating": 4.2,
     "category": "hoodie",
     "gender": "Pria",
     "price": 329000,
@@ -719,11 +762,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FmHng1hsWjt2CK7g_sommmuQfvzVhDRRArqvd9Tc9SEJn0QsQxuwgPg&s=10"
   },
   {
     "id": 44,
     "name": "Kebaya Modern Velvet Maroon",
+    "rating": 4.9,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 825000,
@@ -736,11 +780,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhsttvL8727lnvoBF5gn4-nW2tdpbTZ4sKXjt3Yuy2w&s=10"
   },
   {
     "id": 45,
     "name": "Sweater Quarter Zip Hitam Pria",
+    "rating": 4.6,
     "category": "sweater",
     "gender": "Pria",
     "price": 349000,
@@ -753,11 +798,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/81PolJzps2L._AC_UY1000_AIweblab1381794,T1_.jpg"
   },
   {
     "id": 46,
     "name": "Tas Mini Shoulder Chain Hitam Wanita",
+    "rating": 4.3,
     "category": "tas",
     "gender": "Wanita",
     "price": 289000,
@@ -767,11 +813,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmFnKdMRukBx6v5iBCGZoWet-6K-x-rVQeqOIV-GsCg&s"
   },
   {
     "id": 47,
     "name": "Piyama Jersey Sporty Hitam Pria",
+    "rating": 5.0,
     "category": "piyama",
     "gender": "Pria",
     "price": 169000,
@@ -784,11 +831,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIUei0XxDYz3PxUVJevmBCjZ3YUI7NfH77v6_VHSACfrt8iNGY1NtXMsR&s=10"
   },
   {
     "id": 48,
     "name": "Kaos V-Neck Basic Putih Wanita",
+    "rating": 4.7,
     "category": "kaos",
     "gender": "Wanita",
     "price": 119000,
@@ -801,11 +849,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://dynamic.zacdn.com/53Jf3gA9xhR2J1jmo1keopQBrvQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/executive-6534-7054933-1.jpg"
   },
   {
     "id": 49,
     "name": "Kemeja Satin Relaxed Cream Wanita",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 279000,
@@ -818,11 +867,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PwAa3FZ_h6_1z8wZ7BiKNyGtC4kVnkzCj6L_f9q3D74siumtOaq-0_mB&s=10"
   },
   {
     "id": 50,
     "name": "Sepatu Derby Kulit Hitam Pria",
+    "rating": 4.1,
     "category": "sepatu",
     "gender": "Pria",
     "price": 629000,
@@ -836,11 +886,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorZephGVlQSkwjo5izA75nSWTOwlkD8_mJdsWJ8oCLVI9JPD1Teg-v3Dy&s=10"
   },
   {
     "id": 51,
     "name": "Hoodie Crop Zip Cream Wanita",
+    "rating": 4.8,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 299000,
@@ -853,11 +904,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLR3TMKpnRAcJ0G2grVEfkqpqfMOh5bX03_kxBhupCJPcGgvhkHnGrvOm&s=10"
   },
   {
     "id": 52,
     "name": "Sweater Mock Neck Abu-abu Pria",
+    "rating": 4.5,
     "category": "sweater",
     "gender": "Pria",
     "price": 319000,
@@ -870,11 +922,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6MfNRzAv8tvNThGUNXmWz6GMvgxr-zDEGLz78LrWCTBMabhON7ibHVc&s=10"
   },
   {
     "id": 53,
     "name": "Tas Bucket Bag Brown Wanita",
+    "rating": 4.2,
     "category": "tas",
     "gender": "Wanita",
     "price": 359000,
@@ -884,11 +937,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://braunbuffel.co.id/cdn/shop/files/BB_0004_Braun-Buffel-GAB-32-Bran-M-Bucket-Bag-00112.jpg?v=1765788419"
   },
   {
     "id": 54,
     "name": "Kaos Heavy Cotton Hitam Pria",
+    "rating": 4.9,
     "category": "kaos",
     "gender": "Pria",
     "price": 169000,
@@ -901,11 +955,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/zoom/4442fbac4e3080ec20b2f14e353fea267249b0dd_xxl-1.jpg"
   },
   {
     "id": 55,
     "name": "Kebaya Brokat Floral Soft Pink",
+    "rating": 4.6,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 695000,
@@ -918,11 +973,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0eINWWkseskF2lONku1fWggbQQ0_v1JGrVFNDq6k7yXAVWBjjItLtK5aH&s=10"
   },
   {
     "id": 56,
     "name": "Kemeja Linen Cuban Collar Beige Pria",
+    "rating": 4.3,
     "category": "kemeja",
     "gender": "Pria",
     "price": 279000,
@@ -935,11 +991,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHahKMDRB134cIpCkuNoomDBkrPqHeQ6kDqouElsmsMGXcKou7erZjRU&s=10"
   },
   {
     "id": 57,
     "name": "Sepatu Platform Sneakers Cream Wanita",
+    "rating": 5.0,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 429000,
@@ -953,11 +1010,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg44B_R2kSDI-guIP3nXr1ZQV1fmclBhmjgL42-Gdt8WX_bFnxVgBHyDE&s=10"
   },
   {
     "id": 58,
     "name": "Piyama Katun Polkadot Pink Wanita",
+    "rating": 4.7,
     "category": "piyama",
     "gender": "Wanita",
     "price": 189000,
@@ -970,11 +1028,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP83VTEi-2v-Xu9fO4f3RRNd_SId3V5-Th_G0rhcKeMZrQs5JCVlQkV-Va&s=10"
   },
   {
     "id": 59,
     "name": "Hoodie Varsity Navy Pria",
+    "rating": 4.4,
     "category": "hoodie",
     "gender": "Pria",
     "price": 349000,
@@ -987,11 +1046,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Qs1qceC7Ajg6xCeg5xPvLNl_zQBNXu8QLJZptcBuwg&s"
   },
   {
     "id": 60,
     "name": "Sweater Cardigan Dusty Pink Wanita",
+    "rating": 4.1,
     "category": "sweater",
     "gender": "Wanita",
     "price": 339000,
@@ -1004,11 +1064,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqY_WmcrDfzH4hRDE1xaWDbQ3zO0U8wEqQjdPuizEZY3ng-OaZaci7JYA&s=10"
   },
   {
     "id": 61,
     "name": "Tas Messenger Compact Black Pria",
+    "rating": 4.8,
     "category": "tas",
     "gender": "Pria",
     "price": 249000,
@@ -1018,11 +1079,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvviHxjz0Swn5DMf5Z8cNrID_GvD92IBaCjH88fKsMaQ&s"
   },
   {
     "id": 62,
     "name": "Kaos Boxy Crop Lavender Wanita",
+    "rating": 4.5,
     "category": "kaos",
     "gender": "Wanita",
     "price": 139000,
@@ -1035,11 +1097,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://www.grindstore.com/cdn/shop/files/170199-front.jpg?v=1722349130&width=416"
   },
   {
     "id": 63,
     "name": "Kebaya Kutubaru Brokat Burgundy",
+    "rating": 4.2,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 785000,
@@ -1052,11 +1115,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuywktpED3rjy7p2-TTbrWr_vDOBeKmuY9pRRv9XlPoVFHQXX3Li4y5Y&s=10"
   },
   {
     "id": 64,
     "name": "Kemeja Flannel Check Green Pria",
+    "rating": 4.9,
     "category": "kemeja",
     "gender": "Pria",
     "price": 229000,
@@ -1069,11 +1133,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480769/sub/goods_480769_sub14_3x4.jpg?width=600"
   },
   {
     "id": 65,
     "name": "Sepatu Canvas High Top Hitam Pria",
+    "rating": 4.6,
     "category": "sepatu",
     "gender": "Pria",
     "price": 319000,
@@ -1087,11 +1152,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu6S6T1EQNfv0GsD9EpGc9U7W3IVswWfDo9tHq-DCDI10jLdhAAs8064A&s=10"
   },
   {
     "id": 66,
     "name": "Piyama Homewear Rayon Dusty Blue Wanita",
+    "rating": 4.3,
     "category": "piyama",
     "gender": "Wanita",
     "price": 209000,
@@ -1104,11 +1170,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROa_IB7AYErsB6cxIit19RfYRGtsnJAWbb_9yWruyaqYpIfEmm1E_jUdA&s=10"
   },
   {
     "id": 67,
     "name": "Hoodie Fleece Oversize Mauve Wanita",
+    "rating": 5.0,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 329000,
@@ -1121,11 +1188,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://images.asos-media.com/products/arrange-oversized-premium-heavy-weight-hoodie-in-soft-lilac/209420883-1-softlilac?$n_640w$&wid=513&fit=constrain"
   },
   {
     "id": 68,
     "name": "Sweater Knit Polo Collar Olive Pria",
+    "rating": 4.7,
     "category": "sweater",
     "gender": "Pria",
     "price": 329000,
@@ -1138,11 +1206,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4jcokiPu21ZAg3JmoGeQPEFfDMtXRA6V7dhXlVg3UgWi5kiV9isWQ84&s=10"
   },
   {
     "id": 69,
     "name": "Tas Ransel Mini Nylon Sage Wanita",
+    "rating": 4.4,
     "category": "tas",
     "gender": "Wanita",
     "price": 239000,
@@ -1152,11 +1221,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://freshlypicked.com/cdn/shop/files/DB_SeoulCollection_SageCityBackpack_6.jpg?v=1778281767&width=2000"
   },
   {
     "id": 70,
     "name": "Kaos Striped Cotton Navy Pria",
+    "rating": 4.1,
     "category": "kaos",
     "gender": "Pria",
     "price": 149000,
@@ -1169,11 +1239,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCx6vRlSlK_2dAl70Rh5GQJ1cLr0zRMoBsFPO6Zb5jj7NCNUUx39DSUAk&s=10"
   },
   {
     "id": 71,
     "name": "Kemeja Denim Light Blue Wanita",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 299000,
@@ -1186,11 +1257,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAPupg7X6gS9rJw7yyIm8PenjCBesroTXkI2yJlvBx1DADkFKQ8HhOcY&s=10"
   },
   {
     "id": 72,
     "name": "Sepatu Ballet Flat Nude Wanita",
+    "rating": 4.5,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 259000,
@@ -1204,11 +1276,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://funkyshoeslaurel.com/cdn/shop/files/IMG-9648.jpg?v=1742293466&width=1200"
   },
   {
     "id": 73,
     "name": "Piyama Modal Soft Grey Pria",
+    "rating": 4.2,
     "category": "piyama",
     "gender": "Pria",
     "price": 209000,
@@ -1221,11 +1294,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/61sSPbxBC3L._AC_UY1000_.jpg"
   },
   {
     "id": 74,
     "name": "Hoodie Basic Oversize Lilac Wanita",
+    "rating": 4.9,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 299000,
@@ -1238,11 +1312,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/61amJ6bW9uL._AC_UY1000_.jpg"
   },
   {
     "id": 75,
     "name": "Sweater Crewneck Fleece Navy Pria",
+    "rating": 4.6,
     "category": "sweater",
     "gender": "Pria",
     "price": 279000,
@@ -1255,11 +1330,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxt61k_79f86uw7a9y2rdwYTb1-plntbO8PrQn26Y2Q&s"
   },
   {
     "id": 76,
     "name": "Kebaya Modern Lace Ivory",
+    "rating": 4.3,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 765000,
@@ -1272,11 +1348,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://precms.ivorystudio.id/storage/products/jivva-arunika-kebaya-with-cascading-eclipse-torso-in-beige-cfMc7zaH.webp"
   },
   {
     "id": 77,
     "name": "Tas Tote Structured Cream Wanita",
+    "rating": 5.0,
     "category": "tas",
     "gender": "Wanita",
     "price": 379000,
@@ -1286,11 +1363,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zRNifNDBzJu9KFnMkSNM9LBJN7TGeZJx4TJJA6Hskg&s"
   },
   {
     "id": 78,
     "name": "Kaos Graphic Vintage Brown Pria",
+    "rating": 4.7,
     "category": "kaos",
     "gender": "Pria",
     "price": 159000,
@@ -1303,11 +1381,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/736x/b0/10/f6/b010f6fe7b9d49ced04beb2fd239234d.jpg"
   },
   {
     "id": 79,
     "name": "Kemeja Corduroy Overshirt Camel Pria",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Pria",
     "price": 339000,
@@ -1320,11 +1399,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJIUH1jvPRxGDBsAAkTvmJlwplJ2gBsxhE0wZquR306XsR6a5yuQYzBNj&s=10"
   },
   {
     "id": 80,
     "name": "Sepatu Sneakers Retro Beige Pria",
+    "rating": 4.1,
     "category": "sepatu",
     "gender": "Pria",
     "price": 429000,
@@ -1338,11 +1418,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDvh83gs-0pAtHO7BCjz81LiODaWjlUpEXptHmHujHw&s=10"
   },
   {
     "id": 81,
     "name": "Piyama Katun Stripe Blue Pria",
+    "rating": 4.8,
     "category": "piyama",
     "gender": "Pria",
     "price": 179000,
@@ -1355,11 +1436,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://i5.walmartimages.com/asr/c6995b7e-6f46-4b40-9469-baf1111d7a52.1238b499efa6c03b36de63d0f55049f8.jpeg?odnHeight=1067&odnWidth=800&odnBg=FFFFFF"
   },
   {
     "id": 82,
     "name": "Hoodie Zip Fleece Beige Wanita",
+    "rating": 4.5,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 319000,
@@ -1372,11 +1454,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR940UiluaiIUUwDzSwkbh6x5Q5MtZrD3ePfvoLUGijRQ&s=10"
   },
   {
     "id": 83,
     "name": "Sweater Turtleneck Knit Cream Wanita",
+    "rating": 4.2,
     "category": "sweater",
     "gender": "Wanita",
     "price": 359000,
@@ -1389,11 +1472,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/71HtM2gn4XL._AC_UY1000_.jpg"
   },
   {
     "id": 84,
     "name": "Tas Crossbody Leather Brown Pria",
+    "rating": 4.9,
     "category": "tas",
     "gender": "Pria",
     "price": 399000,
@@ -1403,11 +1487,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHMr4SeB7dtjzTkpp7EcNXqmWj0ZL0WgBUQztbpy4Nw&s"
   },
   {
     "id": 85,
     "name": "Kaos Boxy Basic Sage Wanita",
+    "rating": 4.6,
     "category": "kaos",
     "gender": "Wanita",
     "price": 139000,
@@ -1420,11 +1505,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/W14181s8.jpg?im=Resize,width=750"
   },
   {
     "id": 86,
     "name": "Kebaya Brokat Sequin Emerald",
+    "rating": 4.3,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 925000,
@@ -1437,11 +1523,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpadtfEkylQcsVRMUs53QJnaXvwHZg00fpsxLPTtufQTeGbwilRBmaoO0&s=10"
   },
   {
     "id": 87,
     "name": "Kemeja Oxford Slim Fit Biru Pria",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Pria",
     "price": 319000,
@@ -1454,11 +1541,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Cw2YPzPpr2mniBv0ZKSv6_wZLVBBPFp-3yhnHb6sQQ&s"
   },
   {
     "id": 88,
     "name": "Sepatu Running Lightweight Black Pria",
+    "rating": 4.7,
     "category": "sepatu",
     "gender": "Pria",
     "price": 419000,
@@ -1472,11 +1560,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyDkHTmAGoOeBajnHwMuAKnldAuavH2Zq0UnZiQpXvZw&s"
   },
   {
     "id": 89,
     "name": "Piyama Rayon Motif Daun Olive Wanita",
+    "rating": 4.4,
     "category": "piyama",
     "gender": "Wanita",
     "price": 219000,
@@ -1489,11 +1578,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0iP8eGiYOtwScj9Rv1AuCqh6rDyU0whg2MoA-GCyOwLpmF9e8ePCaKM&s=10"
   },
   {
     "id": 90,
     "name": "Hoodie Pullover French Terry Abu-abu Pria",
+    "rating": 4.1,
     "category": "hoodie",
     "gender": "Pria",
     "price": 299000,
@@ -1506,11 +1596,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUS_hIvWCTYIdDqEIw05GQf76Z2ar0no-vS1b7btyXSU1L6LSu0xzfZE&s=10"
   },
   {
     "id": 91,
     "name": "Sweater Cardigan Button Cream Wanita",
+    "rating": 4.8,
     "category": "sweater",
     "gender": "Wanita",
     "price": 319000,
@@ -1523,11 +1614,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5vIt_0vYZmEj0r50hxpKGzNKw6KD6dEKc1ilk0paOr821sCJSU9SlkI&s=10"
   },
   {
     "id": 92,
     "name": "Tas Backpack Urban Black Pria",
+    "rating": 4.5,
     "category": "tas",
     "gender": "Pria",
     "price": 329000,
@@ -1537,11 +1629,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfwsZLTkT432wpk7tVUjuGoQMSay-hwGxMgcF3xDK04ySnF7uglcCsbY&s=10"
   },
   {
     "id": 93,
     "name": "Kaos Polo Pique Hitam Pria",
+    "rating": 4.2,
     "category": "kaos",
     "gender": "Pria",
     "price": 189000,
@@ -1554,11 +1647,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXPDPkeTZb7p2xckXMnxEfSnL7oyFGjjJebxdtlGUdg&s"
   },
   {
     "id": 94,
     "name": "Kebaya Peplum Brokat Mauve",
+    "rating": 4.9,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 735000,
@@ -1571,11 +1665,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/736x/f7/11/45/f71145c1b2489b96438c6302c3512264.jpg"
   },
   {
     "id": 95,
     "name": "Kemeja Satin Oversize Sage Wanita",
+    "rating": 4.6,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 299000,
@@ -1588,11 +1683,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ECugPKxtrJMyBosZ5bEEeO9fHkYWHRDWrKNz6yFA2g&s"
   },
   {
     "id": 96,
     "name": "Sepatu Canvas Low Cut Putih Pria",
+    "rating": 4.3,
     "category": "sepatu",
     "gender": "Pria",
     "price": 279000,
@@ -1606,11 +1702,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UFb5b5jYe8SmFPQIv7bnXEJi26dvlasOHwcNlzYpUU7q37J23Y7cv9k&s=10"
   },
   {
     "id": 97,
     "name": "Piyama Homewear Katun Cream Wanita",
+    "rating": 5.0,
     "category": "piyama",
     "gender": "Wanita",
     "price": 179000,
@@ -1623,11 +1720,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-LXbzUHxrTTtGFv919ku3u5z0Z_1A2uQ49h0CQIBHYw&s"
   },
   {
     "id": 98,
     "name": "Hoodie Varsity Cream Pria",
+    "rating": 4.7,
     "category": "hoodie",
     "gender": "Pria",
     "price": 339000,
@@ -1640,11 +1738,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yb3VnZwksAXPT4J3cZzrl2pnkvEIQiEkVlzQ01ASXXKaYAVkqkdHKUHj&s=10"
   },
   {
     "id": 99,
     "name": "Sweater Knit Cable Cokelat Wanita",
+    "rating": 4.4,
     "category": "sweater",
     "gender": "Wanita",
     "price": 329000,
@@ -1657,11 +1756,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFF27A17cj1zV6cUFGMWbfvas74cO1VEJ87ffvML_4y6o9uVI8EO5W9sY&s=10"
   },
   {
     "id": 100,
     "name": "Tas Mini Top Handle Cream Wanita",
+    "rating": 4.1,
     "category": "tas",
     "gender": "Wanita",
     "price": 319000,
@@ -1671,11 +1771,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://images.voila.id/pr:sharp/rs:fit:2048:0/plain/https%3A%2F%2Fassets.voila.id%2Fvoila%2Fimages%2Fproduct%2Ffurla%2F1product-WB01032_BX2045_1007_4556S-Xms-2026-04-13T1308100700.png@webp"
   },
   {
     "id": 101,
     "name": "Kaos Basic Regular Fit Abu-abu Pria",
+    "rating": 4.8,
     "category": "kaos",
     "gender": "Pria",
     "price": 119000,
@@ -1688,11 +1789,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqo1L_qu6W3KQmGUP55MpPrlpHuqHIpQDZvhRlXNhvKT0pkoBH9yWz-W4o&s=10"
   },
   {
     "id": 102,
     "name": "Kemeja Poplin Relaxed Blue Wanita",
+    "rating": 4.5,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 249000,
@@ -1705,11 +1807,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJNDOb7lJaM_-JsMMh9PapD2Tmm1yyXwuo_8KA4gicdRZDVHyAOkVngVE&s=10"
   },
   {
     "id": 103,
     "name": "Sepatu Slip On Canvas Navy Pria",
+    "rating": 4.2,
     "category": "sepatu",
     "gender": "Pria",
     "price": 269000,
@@ -1723,11 +1826,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://assets.woodland.social/product/images/FGC031040191A/NAVY/FGC031040191A_030_1.webp"
   },
   {
     "id": 104,
     "name": "Piyama Satin Floral Champagne Wanita",
+    "rating": 4.9,
     "category": "piyama",
     "gender": "Wanita",
     "price": 249000,
@@ -1740,11 +1844,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWW33Fql_Pou1Qa8rlXcJuUOcJ6oSFAQBTxabG_rBEthHiE5BswFxvEhk&s=10"
   },
   {
     "id": 105,
     "name": "Hoodie Basic French Terry Black Pria",
+    "rating": 4.6,
     "category": "hoodie",
     "gender": "Pria",
     "price": 309000,
@@ -1757,11 +1862,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCmJ1jPUTfskkveppmfya_ONNpmd8C5DmRnvuaOTRK4Rf1Gb-TOMzWpGG&s=10"
   },
   {
     "id": 106,
     "name": "Sweater Knit Striped Cream Wanita",
+    "rating": 4.3,
     "category": "sweater",
     "gender": "Wanita",
     "price": 309000,
@@ -1774,11 +1880,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3wcFoH87m3VHt1BU2Xatj3KOgIx40an8WQ7psudU9g&s=10"
   },
   {
     "id": 107,
     "name": "Tas Tote Structured Black Pria",
+    "rating": 5.0,
     "category": "tas",
     "gender": "Pria",
     "price": 349000,
@@ -1788,11 +1895,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIP2J3bzRpW-vppA7lvw6O4o8cyPjBUy_tuEY5q2-3VBMavZtO4h4WTPB&s=10"
   },
   {
     "id": 108,
     "name": "Kaos Oversize Pocket Cream Pria",
+    "rating": 4.7,
     "category": "kaos",
     "gender": "Pria",
     "price": 139000,
@@ -1805,11 +1913,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxXJGaxiNh8y0xSmOFqyXVBJo0OS-Je5p-ov9EMC7UfqoYBT8Evs7A5c&s=10"
   },
   {
     "id": 109,
     "name": "Kebaya Brokat Floral Dusty Rose",
+    "rating": 4.4,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 795000,
@@ -1822,11 +1931,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://precms.ivorystudio.id/storage/products/anyaman-hikayat-kisah-keong-mas-kebaya-in-dusty-pink-bV7ZOhEo.webp"
   },
   {
     "id": 110,
     "name": "Kemeja Oxford Stripe Blue Pria",
+    "rating": 4.1,
     "category": "kemeja",
     "gender": "Pria",
     "price": 309000,
@@ -1839,11 +1949,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTUW6Dt2rM4d0a5tLTLk_65lh6OAPpsIjYqloglyj9A&s"
   },
   {
     "id": 111,
     "name": "Sepatu Mary Jane Strap Cream Wanita",
+    "rating": 4.8,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 329000,
@@ -1857,11 +1968,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAp5Eob-4aSeCL31DjyR3lqCKNVCgcus5v98wj_x_ey2G_JAeQ78n9g8U&s=10"
   },
   {
     "id": 112,
     "name": "Piyama Modal Relaxed Navy Pria",
+    "rating": 4.5,
     "category": "piyama",
     "gender": "Pria",
     "price": 219000,
@@ -1874,11 +1986,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPSSo12opdPXtEEWeR3WFyoOYi2yZ6A3BxROnhAMtl_7BXkk0DigKlys&s=10"
   },
   {
     "id": 113,
     "name": "Hoodie Minimalist Sage Wanita",
+    "rating": 4.2,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 289000,
@@ -1891,11 +2004,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsEwdsgh0ujrTxtOC2slTwPKfnXWWfK_yF5w6XCRTrw&s"
   },
   {
     "id": 114,
     "name": "Sweater Crewneck Charcoal Pria",
+    "rating": 4.9,
     "category": "sweater",
     "gender": "Pria",
     "price": 269000,
@@ -1908,11 +2022,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIGppYCv2R3F5zyfyiRIBkR61MYkQ1-3JvNZzjzj1t5WgGCgAnNqlduEU&s=10"
   },
   {
     "id": 115,
     "name": "Tas Shoulder Soft Pink Wanita",
+    "rating": 4.6,
     "category": "tas",
     "gender": "Wanita",
     "price": 299000,
@@ -1922,11 +2037,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMOtiVkQaxOjYEkEzREq3fUu7zuxgwIuNtCSek3P_HFsyaslUPrmc2Yo&s=10"
   },
   {
     "id": 116,
     "name": "Kaos Polo Cotton Maroon Pria",
+    "rating": 4.3,
     "category": "kaos",
     "gender": "Pria",
     "price": 179000,
@@ -1939,11 +2055,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://cdn.store-assets.com/s/1088274/i/98452862.jpeg"
   },
   {
     "id": 117,
     "name": "Kemeja Linen Puff Sleeve Beige Wanita",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 289000,
@@ -1956,11 +2073,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoXwtipOK0Dx_U0AZUmTwvwhVWnby2je57TCITgq9yw&s"
   },
   {
     "id": 118,
     "name": "Kebaya Modern Bordir Sage Green",
+    "rating": 4.7,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 725000,
@@ -1973,11 +2091,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/736x/1b/a6/5e/1ba65e63eaad790790d322490558b7ea.jpg"
   },
   {
     "id": 119,
     "name": "Sepatu Sneakers Casual Beige Wanita",
+    "rating": 4.4,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 399000,
@@ -1991,11 +2110,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLPGNRE4EBQoNLeU2DGBHpmbVjjAzptE8g9iizEquzQ&s"
   },
   {
     "id": 120,
     "name": "Piyama Rayon Motif Floral Pink Wanita",
+    "rating": 4.1,
     "category": "piyama",
     "gender": "Wanita",
     "price": 219000,
@@ -2008,11 +2128,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/69a73b4150d4422e88290ea03360530c~tplv-aphluv4xwc-crop-webp:896:896.webp?dr=15592&t=555f072d&ps=933b5bde&shp=8dbd94bf&shcp=e1be8f53&idc=my&from=2378011839"
   },
   {
     "id": 121,
     "name": "Kemeja Flannel Kotak Navy Wanita",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 239000,
@@ -2025,11 +2146,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9rqSB617xz8kWXDRPplChUpHDXl_EirUtYekznSAHGAYP2nenIch7o2h&s=10"
   },
   {
     "id": 122,
     "name": "Hoodie Pullover Cream Pria",
+    "rating": 4.5,
     "category": "hoodie",
     "gender": "Pria",
     "price": 299000,
@@ -2042,11 +2164,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrtso-l2cwwi3aP35CYRj6onXIefHoZjyA7cqcE6ABssfgrHozjEEyGo&s=10"
   },
   {
     "id": 123,
     "name": "Sepatu Running Mesh Pink Wanita",
+    "rating": 4.2,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 389000,
@@ -2060,11 +2183,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://img.ltwebstatic.com/v4/j/spmp/2026/06/08/19/178090356861237e6b129ccedc98951af814565c3e_thumbnail_750x999.jpg"
   },
   {
     "id": 124,
     "name": "Piyama Satin Emerald Wanita",
+    "rating": 4.9,
     "category": "piyama",
     "gender": "Wanita",
     "price": 259000,
@@ -2077,11 +2201,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/71yga8YNSZL._AC_UY1000_.jpg"
   },
   {
     "id": 125,
     "name": "Tas Sling Bag Nylon Black Pria",
+    "rating": 4.6,
     "category": "tas",
     "gender": "Pria",
     "price": 189000,
@@ -2091,11 +2216,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://www.samsonite.co.id/dw/image/v2/AAWQ_PRD/on/demandware.static/-/Sites-Samsonite/default/dw532d514b/images/urban-eye-dlx-sling-bag-m/hi-res/153602_1041_hi-res_FRONT34_1.jpg?sw=400&sh=600"
   },
   {
     "id": 126,
     "name": "Sweater Knit V-Neck Beige Wanita",
+    "rating": 4.3,
     "category": "sweater",
     "gender": "Wanita",
     "price": 299000,
@@ -2108,11 +2234,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://image.hm.com/assets/hm/8f/b3/8fb3e17bc54da2c5c83624e5f9429330ec3e6b43.jpg?imwidth=768"
   },
   {
     "id": 127,
     "name": "Kaos Graphic Vintage Cream Pria",
+    "rating": 5.0,
     "category": "kaos",
     "gender": "Pria",
     "price": 159000,
@@ -2125,11 +2252,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnacgkjfbA65PAxDqnr-g2RWyYxZEhTQgL3MB1YeHUcA&s"
   },
   {
     "id": 128,
     "name": "Kebaya Brokat Modern Dusty Blue",
+    "rating": 4.7,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 695000,
@@ -2142,11 +2270,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/736x/ac/a3/a2/aca3a29411aad2eeb7f28e5370e922cb.jpg"
   },
   {
     "id": 129,
     "name": "Kemeja Linen Short Sleeve Olive Pria",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Pria",
     "price": 269000,
@@ -2159,11 +2288,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN2VbXDwZJh0DsUENvzNYHuOU9KMSh1N9e4XhdTZVR69NIq7UIfbhYIo&s=10"
   },
   {
     "id": 130,
     "name": "Hoodie Oversize Dusty Blue Wanita",
+    "rating": 4.1,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 309000,
@@ -2176,11 +2306,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6ua2BD0RM8MNsLgohqHl02_H0YLsBfeOdu3cg_X2HA&s=10"
   },
   {
     "id": 131,
     "name": "Sepatu Loafers Leather Tan Pria",
+    "rating": 4.8,
     "category": "sepatu",
     "gender": "Pria",
     "price": 549000,
@@ -2194,11 +2325,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpqJ67M0-_F-GG7CduRnavS_lU3_qZgNpKbRlUzhFusrLTKZpR0GRlbsY&s=10"
   },
   {
     "id": 132,
     "name": "Piyama Katun Stripe Pink Wanita",
+    "rating": 4.5,
     "category": "piyama",
     "gender": "Wanita",
     "price": 189000,
@@ -2211,11 +2343,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtXfe3shCKWzJ0gmTxo031WG7LHyObXPiUyRMpVVpC4dz3dz0wJwKWkeLB&s=10"
   },
   {
     "id": 133,
     "name": "Tas Tote Canvas Black Pria",
+    "rating": 4.2,
     "category": "tas",
     "gender": "Pria",
     "price": 199000,
@@ -2225,11 +2358,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://i5.walmartimages.com/seo/WANDF-Tote-Bag-Women-Men-Compartments-Large-Canvas-Laptop-Totes-Multi-Pockets-Collegers-Teacher-Nuser-Doctor-Durable-Beach-Bag-Travel-Work-Gym-Black_9c874083-5f5f-4bc8-a474-06b2d5f2d18e.64c52c7e21bdb60db719c77151358cef.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
   },
   {
     "id": 134,
     "name": "Sweater Crewneck Burgundy Wanita",
+    "rating": 4.9,
     "category": "sweater",
     "gender": "Wanita",
     "price": 279000,
@@ -2242,11 +2376,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWCFgq2_etp85vCShBcuIF_vRIHEzBEFigdz3y69HyU3LzwRTWh_BUsg&s=10"
   },
   {
     "id": 135,
     "name": "Kaos Oversize Washed Black Pria",
+    "rating": 4.6,
     "category": "kaos",
     "gender": "Pria",
     "price": 169000,
@@ -2259,11 +2394,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQAjJsi138XqCaexGJeT-gH8ZvYC_cdKdwSIaZSteMm3JWPy1CJ6shA&s=10"
   },
   {
     "id": 136,
     "name": "Kebaya Kutubaru Brokat Navy",
+    "rating": 4.3,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 765000,
@@ -2276,11 +2412,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisyA9ZDi42SRjQBQOsbPtiKcKFk4vCpD47kMbqBbn_ngmP_SZuchab54&s=10"
   },
   {
     "id": 137,
     "name": "Kemeja Oxford Regular Fit Cream Pria",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Pria",
     "price": 309000,
@@ -2293,11 +2430,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLjTThEPwKk9GEqCeqMk0gEhyBTSxXsZs0fcoU0TNxA&s"
   },
   {
     "id": 138,
     "name": "Hoodie Zip Oversize Charcoal Pria",
+    "rating": 4.7,
     "category": "hoodie",
     "gender": "Pria",
     "price": 319000,
@@ -2310,11 +2448,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://plussize.pk/cdn/shop/files/Charcoal-Fleece-Big-_-Tall-Size-Zipper-Hoodie.jpg?v=1768982689&width=1024"
   },
   {
     "id": 139,
     "name": "Sepatu Ballet Flat Black Wanita",
+    "rating": 4.4,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 249000,
@@ -2328,11 +2467,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg9f4EPKRMS_t3vVIfQbVJZRH5pULeK_TZ5CbmHHvnojEPEy-xghhYOgw&s=10"
   },
   {
     "id": 140,
     "name": "Piyama Rayon Stripe Sage Wanita",
+    "rating": 4.1,
     "category": "piyama",
     "gender": "Wanita",
     "price": 209000,
@@ -2345,11 +2485,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/51I8JuRZZ7L._AC_UF894,1000_QL80_.jpg"
   },
   {
     "id": 141,
     "name": "Tas Crossbody Leather Black Wanita",
+    "rating": 4.8,
     "category": "tas",
     "gender": "Wanita",
     "price": 369000,
@@ -2359,11 +2500,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-T9fIBaq6fneNXNshhJ_p3ae5rrKhp6K0_BkCkFxxA&s=10"
   },
   {
     "id": 142,
     "name": "Sweater Half Zip Grey Pria",
+    "rating": 4.5,
     "category": "sweater",
     "gender": "Pria",
     "price": 339000,
@@ -2376,11 +2518,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbICER8KzXZpY-gvrjFmNzGA9-Q1HnDkZ6GDbyqLmdoA&s=10"
   },
   {
     "id": 143,
     "name": "Kaos Ribbed Slim Fit White Wanita",
+    "rating": 4.2,
     "category": "kaos",
     "gender": "Wanita",
     "price": 129000,
@@ -2393,11 +2536,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMHuuQ7GIhl39bYC6UeFI71b2nD3CpatY2XjJkT9sjLFL2an6NyZDIlY&s=10"
   },
   {
     "id": 144,
     "name": "Kebaya Modern Brokat Black",
+    "rating": 4.9,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 795000,
@@ -2410,11 +2554,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/236x/e4/ee/73/e4ee733ea4c613c2e10fd62e0e9da765.jpg"
   },
   {
     "id": 145,
     "name": "Kemeja Denim Oversize Blue Wanita",
+    "rating": 4.6,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 319000,
@@ -2427,11 +2572,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.pinimg.com/236x/e4/ee/73/e4ee733ea4c613c2e10fd62e0e9da765.jpg"
   },
   {
     "id": 146,
     "name": "Hoodie Graphic Black Wanita",
+    "rating": 4.3,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 319000,
@@ -2444,11 +2590,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkFzwNIFMVCzsEFCbYd1ugJGhJl1Sd3_flPLQDsdv-A&s"
   },
   {
     "id": 147,
     "name": "Sepatu Sneakers Retro White Green Pria",
+    "rating": 5.0,
     "category": "sepatu",
     "gender": "Pria",
     "price": 449000,
@@ -2462,11 +2609,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsiv8rRYCphf40hvM6n7YgbeauxyGiSvF3py6_NieEOw&s"
   },
   {
     "id": 148,
     "name": "Piyama Satin Dusty Rose Wanita",
+    "rating": 4.7,
     "category": "piyama",
     "gender": "Wanita",
     "price": 249000,
@@ -2479,11 +2627,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTS-X93R55iBXNEBwyZrQOuoUMgMTjLIAgsbr9mgzTQ&s"
   },
   {
     "id": 149,
     "name": "Tas Messenger Canvas Olive Pria",
+    "rating": 4.4,
     "category": "tas",
     "gender": "Pria",
     "price": 229000,
@@ -2493,11 +2642,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXnwcU--I-lb7kOLqsmGDD26Q9dVtSEZLHsCx10w-dGJFtGTt46dEjNA&s=10"
   },
   {
     "id": 150,
     "name": "Sweater Cable Knit Navy Wanita",
+    "rating": 4.1,
     "category": "sweater",
     "gender": "Wanita",
     "price": 329000,
@@ -2510,11 +2660,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5X14EeSRr42C3tFAt7Dkrv1AoEU8kJN3gP65kKDe7yYlmHc6VwlxB5qB2&s=10"
   },
   {
     "id": 151,
     "name": "Kaos Basic Cotton Beige Pria",
+    "rating": 4.8,
     "category": "kaos",
     "gender": "Pria",
     "price": 119000,
@@ -2527,11 +2678,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNI0Wav2zyhpR-NFUbT-Tsqgm-OI5uwcMnKv_2ta6ikeY4kTzba-7aJYG&s=10"
   },
   {
     "id": 152,
     "name": "Kemeja Poplin Puff Sleeve Blue Wanita",
+    "rating": 4.5,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 269000,
@@ -2544,11 +2696,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEQEtv5fz16DP1kkSan1Fs_KcLw5lXa9KIcVch7O8BmK4BYmLomoq-kQ&s=10"
   },
   {
     "id": 153,
     "name": "Sepatu Loafers Suede Brown Pria",
+    "rating": 4.2,
     "category": "sepatu",
     "gender": "Pria",
     "price": 499000,
@@ -2562,11 +2715,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://www.barcastores.com/media/catalog/product/cache/e658f239f2a32c1e7c51d6794c452389/3/9/39_6551ctm.jpg"
   },
   {
     "id": 154,
     "name": "Piyama Katun Floral Blue Wanita",
+    "rating": 4.9,
     "category": "piyama",
     "gender": "Wanita",
     "price": 199000,
@@ -2579,11 +2733,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScMWcaQ--hzl-FPzLCB5giCVChJlmKmPFVhwsnTyKKU140HpPQev53cyNQ&s=10"
   },
   {
     "id": 155,
     "name": "Hoodie Pullover Washed Grey Pria",
+    "rating": 4.6,
     "category": "hoodie",
     "gender": "Pria",
     "price": 329000,
@@ -2596,11 +2751,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxpVwfmsOo1kz3wb8zBLezQkvwlOPn7-wYTEWzIf1Ug&s=10"
   },
   {
     "id": 156,
     "name": "Sweater Cardigan Knit Brown Wanita",
+    "rating": 4.3,
     "category": "sweater",
     "gender": "Wanita",
     "price": 339000,
@@ -2613,11 +2769,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://media2.newlookassets.com/i/newlook/951768727M6/womens/clothing/knitwear/dark-brown-midweight-knit-collared-button-front-cardigan.jpg?strip=true&qlt=50&w=720"
   },
   {
     "id": 157,
     "name": "Tas Tote Nylon Navy Wanita",
+    "rating": 5.0,
     "category": "tas",
     "gender": "Wanita",
     "price": 219000,
@@ -2627,11 +2784,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEzY6U8umrVtNaXmoNGk5a5tcqza1RSso55cuo2EKCaWcpB9Ig7L0_bEv&s=10"
   },
   {
     "id": 158,
     "name": "Kaos Graphic Minimalist Olive Wanita",
+    "rating": 4.7,
     "category": "kaos",
     "gender": "Wanita",
     "price": 149000,
@@ -2644,11 +2802,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWmA92z0juJs-m-nfEcXZGyGynqTqWE3p_-k3Iwelnw&s"
   },
   {
     "id": 159,
     "name": "Kebaya Brokat Payet Dusty Purple",
+    "rating": 4.4,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 875000,
@@ -2661,11 +2820,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://precms.ivorystudio.id/storage/products/deep-purple-kebaya-with-front-crystal-button-cFCXzhkF.webp"
   },
   {
     "id": 160,
     "name": "Kemeja Linen Camp Collar White Pria",
+    "rating": 4.1,
     "category": "kemeja",
     "gender": "Pria",
     "price": 279000,
@@ -2678,11 +2838,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLWmJ8mSGJelFc8yfDkliG-mS95E1FqQ0Dbr9_9mdITia83RgfCmRLi8&s=10"
   },
   {
     "id": 161,
     "name": "Sepatu Slip On Knit Black Wanita",
+    "rating": 4.8,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 319000,
@@ -2696,11 +2857,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6Io3s7yvKYRmrV9-lNc2zrQYwxqmNulmORHbQ2S6J9fjd6NDV75A2Ew&s=10"
   },
   {
     "id": 162,
     "name": "Piyama Flannel Check Brown Pria",
+    "rating": 4.5,
     "category": "piyama",
     "gender": "Pria",
     "price": 219000,
@@ -2713,11 +2875,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3d0KRP_tV1hC42aK-slj1qHP1QpZkpzzZMQEYB8NN12r9ecmBAUOIQ4&s=10"
   },
   {
     "id": 163,
     "name": "Hoodie Zip Minimalist Grey Wanita",
+    "rating": 4.2,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 299000,
@@ -2730,11 +2893,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkCJpqsIMeiegylWjQmjXfGRkwRpE8Ai8dRc6A_LmIc0gXA2EqQ3BH2-x8&s=10"
   },
   {
     "id": 164,
     "name": "Sweater Quarter Zip Olive Pria",
+    "rating": 4.9,
     "category": "sweater",
     "gender": "Pria",
     "price": 349000,
@@ -2747,11 +2911,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeCnAtU_OMfPaTq51Ac7BMReGb9dljvVWUFHO1gOBdA&s=10"
   },
   {
     "id": 165,
     "name": "Tas Shoulder Quilted Cream Wanita",
+    "rating": 4.6,
     "category": "tas",
     "gender": "Wanita",
     "price": 329000,
@@ -2761,11 +2926,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovM8N8a32tl8iWhkODVWYBYKr5kwZH-LMpZDK8Gvhpich4pYcb5frlCm5&s=10"
   },
   {
     "id": 166,
     "name": "Kaos V-Neck Cotton Navy Pria",
+    "rating": 4.3,
     "category": "kaos",
     "gender": "Pria",
     "price": 129000,
@@ -2778,11 +2944,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5WGIm6lWt7yAbJcqMdlb2nR8hl2DW2uDb1jzfDQBJnKnDPzMjRZdR9GL&s=10"
   },
   {
     "id": 167,
     "name": "Kebaya Encim Brokat Ivory",
+    "rating": 5.0,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 735000,
@@ -2795,11 +2962,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://precms.ivorystudio.id/storage/products/through-the-ages-seroja-kebaya-encim-beige-o91S4MVy.webp"
   },
   {
     "id": 168,
     "name": "Kemeja Corduroy Overshirt Brown Pria",
+    "rating": 4.7,
     "category": "kemeja",
     "gender": "Pria",
     "price": 339000,
@@ -2812,11 +2980,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuHZnk-96-bPobvE1D05K0CUA1u1vsIH-YOvo8uqApQ&s=10"
   },
   {
     "id": 169,
     "name": "Sepatu Sneakers Platform White Wanita",
+    "rating": 4.4,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 419000,
@@ -2830,11 +2999,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHI1XUz-Q4Q_xdPqXWBwxMu03IupISE1KsffG4-6XLOw&s=10"
   },
   {
     "id": 170,
     "name": "Piyama Satin Navy Pria",
+    "rating": 4.1,
     "category": "piyama",
     "gender": "Pria",
     "price": 229000,
@@ -2847,11 +3017,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5eCCC653kc18j5L3wCOniuydR2mQwZtCjdwxbryjwh5vZJ0IS_fxunj2&s=10"
   },
   {
     "id": 171,
     "name": "Hoodie Fleece Basic Beige Pria",
+    "rating": 4.8,
     "category": "hoodie",
     "gender": "Pria",
     "price": 299000,
@@ -2864,11 +3035,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://images.tokopedia.net/img/cache/700/aphluv/1997/1/1/beae2dab8c84432387199f95f79e503d~.jpeg.webp"
   },
   {
     "id": 172,
     "name": "Sweater Turtleneck Knit Black Wanita",
+    "rating": 4.5,
     "category": "sweater",
     "gender": "Wanita",
     "price": 359000,
@@ -2881,11 +3053,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcL3NrIuEzDAfxqJIUW9T_tGXIYyhU9G2IWAIjILByX2HrSdjzYzw-ons&s=10"
   },
   {
     "id": 173,
     "name": "Tas Bucket Bag Black Wanita",
+    "rating": 4.2,
     "category": "tas",
     "gender": "Wanita",
     "price": 349000,
@@ -2895,11 +3068,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaKvYJphvt_H_cI1oiVnTdrsMNqVGv14L6u0X2_CMujgP2Oh97uRhvqEf&s=10"
   },
   {
     "id": 174,
     "name": "Kaos Heavy Cotton White Pria",
+    "rating": 4.9,
     "category": "kaos",
     "gender": "Pria",
     "price": 169000,
@@ -2912,11 +3086,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDIDyaapOqqzh-vUyOuFuHf8WvdXY95U11o1YWLZrBymQRCaQ-mvlI-Z8&s=10"
   },
   {
     "id": 175,
     "name": "Kebaya Modern Lace Dusty Pink",
+    "rating": 4.6,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 785000,
@@ -2929,11 +3104,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHl84utxayVNuaxxDSNbbw7mCY-v5smVvgjEUTnYG_6gE2As5dF6iHmIO6&s=10"
   },
   {
     "id": 176,
     "name": "Kemeja Flannel Check Brown Pria",
+    "rating": 4.3,
     "category": "kemeja",
     "gender": "Pria",
     "price": 239000,
@@ -2946,11 +3122,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC00VTfSzKOwHdjD6qo8igdgnSMdIPpLbmC8nErg8uUM-jgXcgmk1IEb9K&s=10"
   },
   {
     "id": 177,
     "name": "Sepatu Derby Leather Brown Pria",
+    "rating": 5.0,
     "category": "sepatu",
     "gender": "Pria",
     "price": 619000,
@@ -2964,11 +3141,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFk8AgVfSBD8DdSfnPFvs8avqSP1YkNr5DAh2fVALQYlIbFsPHTd7-bY-9&s=10"
   },
   {
     "id": 178,
     "name": "Piyama Modal Soft Pink Wanita",
+    "rating": 4.7,
     "category": "piyama",
     "gender": "Wanita",
     "price": 209000,
@@ -2981,11 +3159,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvbYHO1jDhXzyyEukBeeDNmmP2a-L9YW4kA7sQlu6yA&s"
   },
   {
     "id": 179,
     "name": "Hoodie Crop Fleece Black Wanita",
+    "rating": 4.4,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 289000,
@@ -2998,11 +3177,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://media.subtypestore.com/cdn-cgi/image/fit=scale-down,f=auto,w=1200/products/18bb99ea-a3d6-4d88-bbc9-63428b2777e9/99f9f5f1/192bt247350fw_blk_2.jpg"
   },
   {
     "id": 180,
     "name": "Sweater Waffle Knit Grey Pria",
+    "rating": 4.1,
     "category": "sweater",
     "gender": "Pria",
     "price": 289000,
@@ -3015,11 +3195,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRlRoZDSbcS01sgKRjckhCmogRe0Sx68yU6jk9RUIsFcbxLlukJ8U93lK&s=10"
   },
   {
     "id": 181,
     "name": "Tas Backpack Mini Sage Wanita",
+    "rating": 4.8,
     "category": "tas",
     "gender": "Wanita",
     "price": 239000,
@@ -3029,11 +3210,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://i.ebayimg.com/images/g/V2cAAOSwqI5nkAZP/s-l1200.png"
   },
   {
     "id": 182,
     "name": "Kaos Striped Cotton Green Wanita",
+    "rating": 4.5,
     "category": "kaos",
     "gender": "Wanita",
     "price": 149000,
@@ -3046,11 +3228,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7oh4x11-50ROX6lefOoOCOV8uJj5KGDtEz9Zf1AjXKKUfsK1kEFpBbzgH&s=10"
   },
   {
     "id": 183,
     "name": "Kebaya Brokat Emerald Modern",
+    "rating": 4.2,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 845000,
@@ -3063,11 +3246,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://id-live-01.slatic.net/p/688d61f5cce51c19d2391c40f5b73a08.jpg"
   },
   {
     "id": 184,
     "name": "Kemeja Oxford Stripe Grey Pria",
+    "rating": 4.9,
     "category": "kemeja",
     "gender": "Pria",
     "price": 299000,
@@ -3080,11 +3264,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMkIe4HxVLnliLjBp5dtliT1eJ28xZEhtmmS9HxUWbg&s"
   },
   {
     "id": 185,
     "name": "Sepatu Mary Jane Flat Brown Wanita",
+    "rating": 4.6,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 299000,
@@ -3098,11 +3283,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAzpABWg2y5upPa8GjKE2WjbVLGL3H4-jqkqJ8Pv73O1ERk5JvZ8SeiPV&s=10"
   },
   {
     "id": 186,
     "name": "Piyama Katun Check Green Pria",
+    "rating": 4.3,
     "category": "piyama",
     "gender": "Pria",
     "price": 189000,
@@ -3115,11 +3301,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqoQDARzfVWnQNrjmruWWBWP6sysp8sluKzPt93nkr4T2Scp56VVwD3E&s=10"
   },
   {
     "id": 187,
     "name": "Hoodie Oversize Washed Brown Pria",
+    "rating": 5.0,
     "category": "hoodie",
     "gender": "Pria",
     "price": 329000,
@@ -3132,11 +3319,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_VI13l8zhyFdpQeePWVEdnwNokycMV2jtlui3adP6gKxzfMI3L2sR-I&s=10"
   },
   {
     "id": 188,
     "name": "Sweater Knit Polo Collar Cream Wanita",
+    "rating": 4.7,
     "category": "sweater",
     "gender": "Wanita",
     "price": 329000,
@@ -3149,11 +3337,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaFuMO2-4AU23eJRRA3dRxavOCTFYT2oQW1Qz3sxykijAo-9zHWzHfS2t&s=10"
   },
   {
     "id": 189,
     "name": "Tas Hobo Soft Black Wanita",
+    "rating": 4.4,
     "category": "tas",
     "gender": "Wanita",
     "price": 359000,
@@ -3163,11 +3352,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO9mbbLdkvLBNJnc6qbjdwrFNz7e3UcUBnXcSW7y8D9pCH9HSv5W9lYY4&s=10"
   },
   {
     "id": 190,
     "name": "Kaos Boxy Graphic Navy Pria",
+    "rating": 4.1,
     "category": "kaos",
     "gender": "Pria",
     "price": 159000,
@@ -3180,11 +3370,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkh7ynei9urDKLsJQMb1FAMa0BxMVmOHCyARElMEBK4Q&s"
   },
   {
     "id": 191,
     "name": "Kemeja Satin Relaxed Black Wanita",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 289000,
@@ -3197,11 +3388,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBT0yHJcvOYUXC96IKTzqaH4X8AlOwfgSEkxxEEwZ8j8TCzYXWj5TU4QI&s=10"
   },
   {
     "id": 192,
     "name": "Sepatu Sneakers Canvas Beige Wanita",
+    "rating": 4.5,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 289000,
@@ -3215,11 +3407,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://www.breakwalk.com/cdn/shop/files/BWSH409002-BEIG-20_1125x.jpg?v=1770372155"
   },
   {
     "id": 193,
     "name": "Piyama Rayon Floral Lavender Wanita",
+    "rating": 4.2,
     "category": "piyama",
     "gender": "Wanita",
     "price": 219000,
@@ -3232,11 +3425,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i.etsystatic.com/60457211/r/il/13b828/7230623757/il_300x300.7230623757_7nbj.jpg"
   },
   {
     "id": 194,
     "name": "Hoodie Graphic Charcoal Pria",
+    "rating": 4.9,
     "category": "hoodie",
     "gender": "Pria",
     "price": 319000,
@@ -3249,11 +3443,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://deuscustoms.co.id/cdn/shop/files/D261UHD210-DoodleDyedHoodie-Charcoal-02.jpg?v=1780382066&width=640"
   },
   {
     "id": 195,
     "name": "Sweater Crewneck Soft Blue Wanita",
+    "rating": 4.6,
     "category": "sweater",
     "gender": "Wanita",
     "price": 279000,
@@ -3266,11 +3461,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4rdlm5hONhArcd1EPoCVIbWcwsv-IhwC-mKLrxZASN2hUmx--XdLYs4&s=10"
   },
   {
     "id": 196,
     "name": "Tas Messenger Nylon Grey Pria",
+    "rating": 4.3,
     "category": "tas",
     "gender": "Pria",
     "price": 219000,
@@ -3280,11 +3476,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://9to9.co.id/cdn/shop/files/HPG50140GRY_1.jpg?v=1771518000&width=650"
   },
   {
     "id": 197,
     "name": "Kaos Ribbed Slim Fit Brown Wanita",
+    "rating": 5.0,
     "category": "kaos",
     "gender": "Wanita",
     "price": 139000,
@@ -3297,11 +3494,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnIPHiS8lcszBrd3dzON4x9YZNMMl8as_16oo_Pm9w6mmfzTsm2zYtDY&s=10"
   },
   {
     "id": 198,
     "name": "Kebaya Kutubaru Brokat Maroon",
+    "rating": 4.7,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 775000,
@@ -3314,11 +3512,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtps2vV_GQyIEeCSdRAmQJ8Macz0j1EAaWk1OIR4ipNMLap5pUpccVbrRi&s=10"
   },
   {
     "id": 199,
     "name": "Kemeja Linen Oversize Sand Wanita",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 279000,
@@ -3331,11 +3530,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://images.asket.com/pim-images/1778165633-asket_lsh-ah-san_thumbnail.jpg"
   },
   {
     "id": 200,
     "name": "Sepatu Running Lightweight Grey Pria",
+    "rating": 4.1,
     "category": "sepatu",
     "gender": "Pria",
     "price": 409000,
@@ -3349,11 +3549,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT46YeZHPBxPAG7UmmxEDzixf-wUVzvRw9SFgNPHEdooSC-Xv4UMVw49zW-&s=10"
   },
   {
     "id": 201,
     "name": "Piyama Satin Burgundy Wanita",
+    "rating": 4.8,
     "category": "piyama",
     "gender": "Wanita",
     "price": 259000,
@@ -3366,11 +3567,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://i5.walmartimages.com/asr/9fcba828-6b94-484d-8c4a-652f3774596c.ec2a4ba62f9c31de64b8af5853739a90.jpeg?odnHeight=1067&odnWidth=800&odnBg=FFFFFF"
   },
   {
     "id": 202,
     "name": "Hoodie Basic Navy Wanita",
+    "rating": 4.5,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 289000,
@@ -3383,11 +3585,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYpI_upP46rGxpdBzPzXJNAXK11_5p_nliZ0N_q9-JldstwYz_0xH2G4&s=10"
   },
   {
     "id": 203,
     "name": "Sweater Mock Neck Brown Pria",
+    "rating": 4.2,
     "category": "sweater",
     "gender": "Pria",
     "price": 319000,
@@ -3400,11 +3603,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQJiZ-afHRdC6-0c6xIWkBXRIHBQm7ZeMRlNi_EnuC3sYNFNi09ZrsjvA&s=10"
   },
   {
     "id": 204,
     "name": "Tas Tote Canvas Sage Wanita",
+    "rating": 4.9,
     "category": "tas",
     "gender": "Wanita",
     "price": 189000,
@@ -3414,11 +3618,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC71KMTfiCb5SrHQshvS-eUncVOPDGE6IqJ83cSXggjfSrHd1ixT59hRE&s=10"
   },
   {
     "id": 205,
     "name": "Kaos Polo Pique White Pria",
+    "rating": 4.6,
     "category": "kaos",
     "gender": "Pria",
     "price": 179000,
@@ -3431,11 +3636,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2GB88l-OPhs8gX92vAHvSfd5UDzoe4rQt1TcCNzFzg&s"
   },
   {
     "id": 206,
     "name": "Kebaya Modern Peplum Ivory",
+    "rating": 4.3,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 745000,
@@ -3448,11 +3654,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsfHYs_jrOk5HDV5TnR-FfCGF0Sa8B63894I1LrG_UbwRihr4UGuoOk16&s=10"
   },
   {
     "id": 207,
     "name": "Kemeja Denim Light Blue Pria",
+    "rating": 5.0,
     "category": "kemeja",
     "gender": "Pria",
     "price": 299000,
@@ -3465,11 +3672,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://media.soliver.com/i/soliver/2164699.52Y7_flat?$ai$&fmt=auto&qlt=default&scale=clamp&w=2260"
   },
   {
     "id": 208,
     "name": "Sepatu Slip On Canvas Black Pria",
+    "rating": 4.7,
     "category": "sepatu",
     "gender": "Pria",
     "price": 279000,
@@ -3483,11 +3691,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmUpjf-zV-J5TSvOIbP9PHUU6LT08h5i6hjAwfWcgxktLk5WM2ifuaVRy&s=10"
   },
   {
     "id": 209,
     "name": "Piyama Katun Basic Dusty Blue Wanita",
+    "rating": 4.4,
     "category": "piyama",
     "gender": "Wanita",
     "price": 179000,
@@ -3500,11 +3709,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtgqkCEpJJi6oNiKO3vRaVjx7kr4kUpO2AGZN4ODxzDh-CHr99iO2ixgx&s=10"
   },
   {
     "id": 210,
     "name": "Hoodie Half Zip Black Pria",
+    "rating": 4.1,
     "category": "hoodie",
     "gender": "Pria",
     "price": 329000,
@@ -3517,11 +3727,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaifbKd_g2YtKP3VZ2d-dbpLxqh00kM_-04YUeL8NJ8SUdhyJE7OZ9KM&s=10"
   },
   {
     "id": 211,
     "name": "Sweater Cardigan Soft Pink Wanita",
+    "rating": 4.8,
     "category": "sweater",
     "gender": "Wanita",
     "price": 319000,
@@ -3534,11 +3745,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5a9fImrkT5lw1RR5QRvedbdfeS99aCmo86pE8Fbx7cpCxugGsHyxU6M&s=10"
   },
   {
     "id": 212,
     "name": "Tas Crossbody Canvas Black Pria",
+    "rating": 4.5,
     "category": "tas",
     "gender": "Pria",
     "price": 199000,
@@ -3548,11 +3760,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsge5HlW42dR0vAvOlCX7OuHvFUuNCUAxquJeEifyyUg&s"
   },
   {
     "id": 213,
     "name": "Kaos Oversize Washed Green Wanita",
+    "rating": 4.2,
     "category": "kaos",
     "gender": "Wanita",
     "price": 159000,
@@ -3565,11 +3778,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjpHbYAPyx0AEkbQbTv4vXYKjis6W7vAxDF4x5iK4ow&s"
   },
   {
     "id": 214,
     "name": "Kebaya Brokat Champagne Modern",
+    "rating": 4.9,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 895000,
@@ -3582,11 +3796,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0P0DDv33mHvu2LctT8rMux8JS2KJK2fOJlQUVZKlMoTqvHxem0MJ01Ps&s=10"
   },
   {
     "id": 215,
     "name": "Kemeja Oxford Slim Fit Grey Pria",
+    "rating": 4.6,
     "category": "kemeja",
     "gender": "Pria",
     "price": 319000,
@@ -3599,11 +3814,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeP9c05759jzMl-2FJbtkmu2wbk6mi8yW1PAGRo2awNg&s=10"
   },
   {
     "id": 216,
     "name": "Sepatu Sneakers Retro Beige Wanita",
+    "rating": 4.3,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 419000,
@@ -3617,11 +3833,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShzixocqjXJF2Tdm_IPHuMUEZ7D-vp2R5doMTGbW6gupBzKtx2QxpPKm2&s=10"
   },
   {
     "id": 217,
     "name": "Piyama Rayon Motif Daun Green Pria",
+    "rating": 5.0,
     "category": "piyama",
     "gender": "Pria",
     "price": 209000,
@@ -3634,11 +3851,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://m.media-amazon.com/images/I/71p-xLOokUL._AC_UY350_.jpg"
   },
   {
     "id": 218,
     "name": "Hoodie Oversize Charcoal Wanita",
+    "rating": 4.7,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 309000,
@@ -3651,11 +3869,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwt4O6kEaj8BLMOhRWRmiMmJiEdSK5cLrfYdB53Ji-xr-h1_ahDtnk1zID&s=10"
   },
   {
     "id": 219,
     "name": "Sweater Crewneck Olive Pria",
+    "rating": 4.4,
     "category": "sweater",
     "gender": "Pria",
     "price": 289000,
@@ -3668,11 +3887,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPOgLSjE0pO7YsTRPLwDjU7Xii9SoCOiWDLd1brkV3Q&s=10"
   },
   {
     "id": 220,
     "name": "Tas Shoulder Chain Burgundy Wanita",
+    "rating": 4.1,
     "category": "tas",
     "gender": "Wanita",
     "price": 329000,
@@ -3682,11 +3902,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFVPT1WXoiJ_hYH_60yM5HpQn4C1sXtI6G_cC-wOaJg&s"
   },
   {
     "id": 221,
     "name": "Kaos Henley Cotton Cream Pria",
+    "rating": 4.8,
     "category": "kaos",
     "gender": "Pria",
     "price": 159000,
@@ -3699,11 +3920,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzb5EjpMVPsX4DoAo5VZx0t6tVaHR_SmdsbcJdGNjJsA&s=10"
   },
   {
     "id": 222,
     "name": "Kebaya Lace Modern Black",
+    "rating": 4.5,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 815000,
@@ -3716,11 +3938,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqmmEeA3Pi0tjshwfLWNFjFCmYhMFZHHu2DRRsVVebw&s"
   },
   {
     "id": 223,
     "name": "Kemeja Flannel Kotak Green Pria",
+    "rating": 4.2,
     "category": "kemeja",
     "gender": "Pria",
     "price": 229000,
@@ -3733,11 +3956,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480769/sub/goods_480769_sub15_3x4.jpg?width=600"
   },
   {
     "id": 224,
     "name": "Sepatu Ballet Flat Nude Wanita",
+    "rating": 4.9,
     "category": "sepatu",
     "gender": "Wanita",
     "price": 259000,
@@ -3751,11 +3975,12 @@
       "39",
       "40"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9hXrTCtXLw5VhsFzLgUr_ga9z3G1j77UpLA_MRyo74NrrZRh0CzZXMBo&s=10"
   },
   {
     "id": 225,
     "name": "Piyama Satin Black Pria",
+    "rating": 4.6,
     "category": "piyama",
     "gender": "Pria",
     "price": 239000,
@@ -3768,11 +3993,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYZRcqDLgkTnDXlb1lEZVFnLjskxp2_m04nd2uv0GBA&s=10"
   },
   {
     "id": 226,
     "name": "Hoodie Zip Basic Beige Wanita",
+    "rating": 4.3,
     "category": "hoodie",
     "gender": "Wanita",
     "price": 299000,
@@ -3785,11 +4011,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxmO6SimmD6bMvxPNDMNBO-FlGv6BPnSYDyD5Ge9UrQ&s"
   },
   {
     "id": 227,
     "name": "Sweater Knit Cable Cream Pria",
+    "rating": 5.0,
     "category": "sweater",
     "gender": "Pria",
     "price": 329000,
@@ -3802,11 +4029,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8YUA_64ljS01YCfTT3P5EzH2-vZA0daD8nfIG6tM0hh41yuQ0kJ5hOV0&s=10"
   },
   {
     "id": 228,
     "name": "Tas Tote Leather Brown Wanita",
+    "rating": 4.7,
     "category": "tas",
     "gender": "Wanita",
     "price": 459000,
@@ -3816,11 +4044,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjv7eRFwXNbHAwrLpRQKl1ZAvC8R0PWl77dCsYR75KA&s"
   },
   {
     "id": 229,
     "name": "Kaos Graphic Retro Brown Wanita",
+    "rating": 4.4,
     "category": "kaos",
     "gender": "Wanita",
     "price": 159000,
@@ -3833,11 +4062,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://down-id.img.susercontent.com/file/sg-11134201-7qvcw-lk89x93j4od2c4"
   },
   {
     "id": 230,
     "name": "Kebaya Brokat Floral Soft Lilac",
+    "rating": 4.1,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 735000,
@@ -3850,11 +4080,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnWXv0PhOkhhOxOjAM_tdzupAfZiJnxUzN2YH1eMrlmkbXA4q2adb_Lo&s=10"
   },
   {
     "id": 231,
     "name": "Kemeja Linen Cuban Collar Olive Wanita",
+    "rating": 4.8,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 279000,
@@ -3867,11 +4098,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://img01.ztat.net/article/spp-media-p1/f8366c7f4b744fd9b7bfbf05251237e6/76ba1874370342ef85ae17a5c52cc707.jpg?imwidth=1800&filter=packshot"
   },
   {
     "id": 232,
     "name": "Sepatu Sneakers White Navy Pria",
+    "rating": 4.5,
     "category": "sepatu",
     "gender": "Pria",
     "price": 399000,
@@ -3885,11 +4117,12 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAC6nSZEXs48495_oQRrenT-1bvONtJSeOXGmUA2Uj9gZCWcb2SWnLfLQ&s=10"
   },
   {
     "id": 233,
     "name": "Piyama Katun Stripe Grey Wanita",
+    "rating": 4.2,
     "category": "piyama",
     "gender": "Wanita",
     "price": 189000,
@@ -3902,11 +4135,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtwj_PL8p2HJN42qWXsvDOkqVtUA8_5pRX4GohdFn5RkSEpBUeVbKG2s3&s=10"
   },
   {
     "id": 234,
     "name": "Hoodie Pullover Fleece Navy Pria",
+    "rating": 4.9,
     "category": "hoodie",
     "gender": "Pria",
     "price": 309000,
@@ -3919,11 +4153,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTRbnh8T1HQSLdU9qrMT39rPnzOz_-uNCanSNJNh0Sg&s=10"
   },
   {
     "id": 235,
     "name": "Sweater V-Neck Knit Dusty Pink Wanita",
+    "rating": 4.6,
     "category": "sweater",
     "gender": "Wanita",
     "price": 299000,
@@ -3936,11 +4171,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9FAYVDeqd0YQ4J6uZo9lLVE3NbuipBKQxbeTcCM5-A&s=10"
   },
   {
     "id": 236,
     "name": "Tas Crossbody Nylon Navy Pria",
+    "rating": 4.3,
     "category": "tas",
     "gender": "Pria",
     "price": 189000,
@@ -3950,11 +4186,12 @@
     "size": [
       "All Size"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR126P_Qskhr_E4kk6FhDha8Z9fyWGmafOxYofXEp2ygRpU3gKOaka754Q&s=10"
   },
   {
     "id": 237,
     "name": "Kaos Oversize Pocket Grey Pria",
+    "rating": 5.0,
     "category": "kaos",
     "gender": "Pria",
     "price": 139000,
@@ -3967,11 +4204,12 @@
       "XL",
       "XXL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJhwZRgS5RNukBXZYd0XCR7JD6d1QL2HCzabf-hPkoFmh5Zp4ypJwJsq4&s=10"
   },
   {
     "id": 238,
     "name": "Kebaya Modern Velvet Navy",
+    "rating": 4.7,
     "category": "kebaya",
     "gender": "Wanita",
     "price": 845000,
@@ -3984,11 +4222,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrc8rcLQ4gsfhPrJpa2Gxt7TT4fZnNxVWBXOm1IROlvImNy5EJdC3dsQ&s=10"
   },
   {
     "id": 239,
     "name": "Kemeja Satin Oversize Burgundy Wanita",
+    "rating": 4.4,
     "category": "kemeja",
     "gender": "Wanita",
     "price": 299000,
@@ -4001,11 +4240,12 @@
       "L",
       "XL"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9L06eDGn5tShKqL9mcA_57IRuHjGmO6wn7BTAxbnrag&s"
   },
   {
     "id": 240,
     "name": "Sepatu Canvas High Top White Pria",
+    "rating": 4.1,
     "category": "sepatu",
     "gender": "Pria",
     "price": 329000,
@@ -4019,6 +4259,6 @@
       "42",
       "43"
     ],
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRELPTlmtSJHxVf1lVrvsoHOKPf1QaiosmLadV0Qr6oSCyLUaoT3ulgZH&s=10"
   }
 ]
