@@ -7,7 +7,7 @@
       {
         "temperature": "hot",
         "size": "S",
-        "price": 19000
+        "price": 10000
       }
     ],
     "stock": {
@@ -17,7 +17,7 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Espresso"
+    "image": "https://files.catbox.moe/brlh7x.png"
   },
   {
     "id": 2,
@@ -52,11 +52,11 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Americano"
+    "image": "https://files.catbox.moe/zxqqq9.png"
   },
   {
-    "id": 4,
-    "name": "Café Latte",
+    "id": 3,
+    "name": "Cafe Latte",
     "category": "coffee",
     "variants": [
       {
@@ -87,10 +87,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caf%C3%A9%20Latte"
+    "image": "https://files.catbox.moe/wre6d4.png"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Cappuccino",
     "category": "coffee",
     "variants": [
@@ -122,10 +122,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Cappuccino"
+    "image": "https://files.catbox.moe/syfon7.png"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Flat White",
     "category": "coffee",
     "variants": [
@@ -147,10 +147,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Flat%20White"
+    "image": "https://files.catbox.moe/os32vq.png"
   },
   {
-    "id": 8,
+    "id": 6,
     "name": "Mocha",
     "category": "coffee",
     "variants": [
@@ -182,10 +182,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Mocha"
+    "image": "https://files.catbox.moe/zy3tb9.png"
   },
   {
-    "id": 9,
+    "id": 7,
     "name": "Caramel Latte",
     "category": "coffee",
     "variants": [
@@ -217,10 +217,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caramel%20Latte"
+    "image": "https://files.catbox.moe/5aswki.png"
   },
   {
-    "id": 11,
+    "id": 8,
     "name": "Vanilla Latte",
     "category": "coffee",
     "variants": [
@@ -252,10 +252,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Vanilla%20Latte"
+    "image": "https://files.catbox.moe/chg0b2.png"
   },
   {
-    "id": 12,
+    "id": 9,
     "name": "Caramel Macchiato",
     "category": "coffee",
     "variants": [
@@ -287,10 +287,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Caramel%20Macchiato"
+    "image": "https://files.catbox.moe/g6hqoa.png"
   },
   {
-    "id": 13,
+    "id": 10,
     "name": "Palm Sugar Latte",
     "category": "coffee",
     "variants": [
@@ -322,10 +322,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Palm%20Sugar%20Latte"
+    "image": "https://files.catbox.moe/6e7ctu.png"
   },
   {
-    "id": 25,
+    "id": 11,
     "name": "Kopi Susu Black Aren",
     "category": "coffee",
     "variants": [
@@ -347,10 +347,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Kopi%20Susu%20Black%20Aren"
+    "image": "https://files.catbox.moe/c3w5dr.png"
   },
   {
-    "id": 26,
+    "id": 12,
     "name": "Kopi Klasik",
     "category": "coffee",
     "variants": [
@@ -382,10 +382,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6F4E37/FFFFFF?text=Kopi%20Klasik"
+    "image": "https://files.catbox.moe/omk3b9.png"
   },
   {
-    "id": 35,
+    "id": 13,
     "name": "Cookies & Cream Frappe",
     "category": "frappe-blended",
     "variants": [
@@ -407,10 +407,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Cookies%20%26%20Cream%20Frappe"
+    "image": "https://files.catbox.moe/he5ga0.png"
   },
   {
-    "id": 36,
+    "id": 14,
     "name": "Mysterious Green Frappe",
     "category": "frappe-blended",
     "variants": [
@@ -432,10 +432,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Mysterious%20Green%20Frappe"
+    "image": "https://files.catbox.moe/hxrb46.png"
   },
   {
-    "id": 42,
+    "id": 15,
     "name": "Chocolate Frappe",
     "category": "frappe-blended",
     "variants": [
@@ -457,10 +457,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Chocolate%20Frappe"
+    "image": "https://files.catbox.moe/lu4813.png"
   },
   {
-    "id": 43,
+    "id": 16,
     "name": "Matcha Frappe",
     "category": "frappe-blended",
     "variants": [
@@ -482,10 +482,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/8E7CC3/FFFFFF?text=Matcha%20Frappe"
+    "image": "https://files.catbox.moe/s793qm.png"
   },
   {
-    "id": 44,
+    "id": 17,
     "name": "Black Tea",
     "category": "tea",
     "variants": [
@@ -517,10 +517,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Black%20Tea"
+    "image": "https://files.catbox.moe/u6r27i.png"
   },
   {
-    "id": 45,
+    "id": 18,
     "name": "Lemon Tea",
     "category": "tea",
     "variants": [
@@ -552,10 +552,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Lemon%20Tea"
+    "image": "https://files.catbox.moe/8f025p.png"
   },
   {
-    "id": 46,
+    "id": 19,
     "name": "Earl Grey Tea",
     "category": "tea",
     "variants": [
@@ -587,10 +587,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Earl%20Grey%20Tea"
+    "image": "https://files.catbox.moe/z9be0z.png"
   },
   {
-    "id": 50,
+    "id": 20,
     "name": "Peach Tea",
     "category": "tea",
     "variants": [
@@ -612,10 +612,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Peach%20Tea"
+    "image": "https://files.catbox.moe/wft9bu.png"
   },
   {
-    "id": 51,
+    "id": 21,
     "name": "Lychee Tea",
     "category": "tea",
     "variants": [
@@ -637,10 +637,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Lychee%20Tea"
+    "image": "https://files.catbox.moe/k7wzps.png"
   },
   {
-    "id": 55,
+    "id": 22,
     "name": "Jasmine Tea",
     "category": "tea",
     "variants": [
@@ -672,10 +672,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Jasmine%20Tea"
+    "image": "https://files.catbox.moe/x8rfo2.png"
   },
   {
-    "id": 57,
+    "id": 23,
     "name": "Raspberry Hibiscus",
     "category": "tea",
     "variants": [
@@ -697,10 +697,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/2E8B57/FFFFFF?text=Raspberry%20Hibiscus"
+    "image": "https://files.catbox.moe/qa4yxr.png"
   },
   {
-    "id": 61,
+    "id": 24,
     "name": "Matcha Latte",
     "category": "matcha",
     "variants": [
@@ -732,10 +732,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Latte"
+    "image": "https://files.catbox.moe/dycvbq.png"
   },
   {
-    "id": 62,
+    "id": 25,
     "name": "Matcha Espresso",
     "category": "matcha",
     "variants": [
@@ -757,10 +757,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Espresso"
+    "image": "https://files.catbox.moe/tzu0u9.png" 
   },
   {
-    "id": 63,
+    "id": 26,
     "name": "Matcha Kelapa",
     "category": "matcha",
     "variants": [
@@ -782,10 +782,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Matcha%20Kelapa"
+    "image": "https://files.catbox.moe/enpxy4.png"
   },
   {
-    "id": 64,
+    "id": 27,
     "name": "Creamy Matchachio",
     "category": "matcha",
     "variants": [
@@ -807,10 +807,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/3D8B37/FFFFFF?text=Creamy%20Matchachio"
+    "image": "https://files.catbox.moe/d5amgp.png"
   },
   {
-    "id": 65,
+    "id": 28,
     "name": "Signature Chocolate",
     "category": "chocolate-milk",
     "variants": [
@@ -842,10 +842,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Signature%20Chocolate"
+    "image": "https://files.catbox.moe/g9hdor.png"
   },
   {
-    "id": 66,
+    "id": 29,
     "name": "Dutch Chocolate",
     "category": "chocolate-milk",
     "variants": [
@@ -877,10 +877,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Dutch%20Chocolate"
+    "image": "https://files.catbox.moe/e45mlc.png"
   },
   {
-    "id": 67,
+    "id": 30,
     "name": "Almond Choco",
     "category": "chocolate-milk",
     "variants": [
@@ -912,10 +912,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Almond%20Choco"
+    "image": "https://files.catbox.moe/03ywsz.png"
   },
   {
-    "id": 68,
+    "id": 31,
     "name": "Milo Dinosaurus",
     "category": "chocolate-milk",
     "variants": [
@@ -937,10 +937,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Milo%20Dinosaurus"
+    "image": "https://files.catbox.moe/x28kcz.png"
   },
   {
-    "id": 69,
+    "id": 32,
     "name": "Classic Milo",
     "category": "chocolate-milk",
     "variants": [
@@ -972,10 +972,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Classic%20Milo"
+    "image": "https://files.catbox.moe/vpbhkg.png"
   },
   {
-    "id": 70,
+    "id": 33,
     "name": "Chocolate Milk",
     "category": "chocolate-milk",
     "variants": [
@@ -1007,10 +1007,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Chocolate%20Milk"
+    "image": "https://files.catbox.moe/jqwkze.png"
   },
   {
-    "id": 74,
+    "id": 34,
     "name": "Oatside Latte",
     "category": "chocolate-milk",
     "variants": [
@@ -1032,10 +1032,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/6B3E26/FFFFFF?text=Oatside%20Latte"
+    "image": "https://files.catbox.moe/fta5r1.png"
   },
   {
-    "id": 77,
+    "id": 35,
     "name": "Chicken Teriyaki Rice",
     "category": "rice-meal",
     "variants": [
@@ -1055,10 +1055,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Chicken%20Teriyaki%20Rice"
+    "image": "https://files.catbox.moe/2lv3ci.png"
   },
   {
-    "id": 79,
+    "id": 36,
     "name": "Chicken Bento",
     "category": "rice-meal",
     "variants": [
@@ -1078,10 +1078,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Chicken%20Bento"
+    "image": "https://files.catbox.moe/nviik8.png"
   },
   {
-    "id": 82,
+    "id": 37,
     "name": "Japanese Rice Bowl",
     "category": "rice-meal",
     "variants": [
@@ -1101,10 +1101,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/D68910/FFFFFF?text=Japanese%20Rice%20Bowl"
+    "image": "https://files.catbox.moe/5if2x1.png"
   },
   {
-    "id": 85,
+    "id": 38,
     "name": "Tuna Mayo Onigiri",
     "category": "japanese-korean",
     "variants": [
@@ -1120,10 +1120,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Tuna%20Mayo%20Onigiri"
+    "image": "https://files.catbox.moe/rry4yr.png"
   },
   {
-    "id": 104,
+    "id": 39,
     "name": "Gyoza",
     "category": "japanese-korean",
     "variants": [
@@ -1139,10 +1139,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Gyoza"
+    "image": "https://files.catbox.moe/o4fwft.png"
   },
   {
-    "id": 105,
+    "id": 40,
     "name": "Takoyaki",
     "category": "japanese-korean",
     "variants": [
@@ -1158,10 +1158,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Takoyaki"
+    "image": "https://files.catbox.moe/outzor.png"
   },
   {
-    "id": 106,
+    "id": 41,
     "name": "Tteokbokki",
     "category": "japanese-korean",
     "variants": [
@@ -1181,10 +1181,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C0392B/FFFFFF?text=Tteokbokki"
+    "image": "https://files.catbox.moe/7rfr9j.png"
   },
   {
-    "id": 112,
+    "id": 42,
     "name": "Ena Chicken Original",
     "category": "fried-savory",
     "variants": [
@@ -1200,10 +1200,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Ena%20Chicken%20Original"
+    "image": "https://files.catbox.moe/0ap81i.png"
   },
   {
-    "id": 115,
+    "id": 43,
     "name": "Karaage Stick Spicy",
     "category": "fried-savory",
     "variants": [
@@ -1219,10 +1219,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Karaage%20Stick%20Spicy"
+    "image": "https://files.catbox.moe/c4es7l.png"
   },
   {
-    "id": 119,
+    "id": 44,
     "name": "Siomay Ayam",
     "category": "fried-savory",
     "variants": [
@@ -1238,11 +1238,11 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Siomay%20Ayam"
+    "image": "https://files.catbox.moe/q9zrcu.png"
   },
   {
-    "id": 123,
-    "name": "Martabak Telur",
+    "id": 45,
+    "name": "Risol Mayo",
     "category": "fried-savory",
     "variants": [
       {
@@ -1257,10 +1257,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/B7410E/FFFFFF?text=Martabak%20Telur"
+    "image": "https://files.catbox.moe/nl8o50.png"
   },
   {
-    "id": 130,
+    "id": 46,
     "name": "Egg Sandwich",
     "category": "sandwich-toast",
     "variants": [
@@ -1276,10 +1276,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Egg%20Sandwich"
+    "image": "https://files.catbox.moe/cpdu16.png"
   },
   {
-    "id": 134,
+    "id": 47,
     "name": "Chicken Toast",
     "category": "sandwich-toast",
     "variants": [
@@ -1295,10 +1295,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Chicken%20Toast"
+    "image": ""
   },
   {
-    "id": 141,
+    "id": 48,
     "name": "Beef & Omelette Toast",
     "category": "sandwich-toast",
     "variants": [
@@ -1314,10 +1314,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/CA8A04/FFFFFF?text=Beef%20%26%20Omelette%20Toast"
+    "image": "https://files.catbox.moe/upvy0o.png"
   },
   {
-    "id": 142,
+    "id": 49,
     "name": "Butter Croissant",
     "category": "bakery-pastry",
     "variants": [
@@ -1333,10 +1333,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Butter%20Croissant"
+    "image": "https://files.catbox.moe/jbjt1z.png"
   },
   {
-    "id": 143,
+    "id": 50,
     "name": "Chocolate Croissant",
     "category": "bakery-pastry",
     "variants": [
@@ -1352,10 +1352,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Chocolate%20Croissant"
+    "image": "https://files.catbox.moe/izsc80.png"
   },
   {
-    "id": 151,
+    "id": 51,
     "name": "Donut",
     "category": "bakery-pastry",
     "variants": [
@@ -1371,10 +1371,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Donut"
+    "image": "https://files.catbox.moe/x6te7g.png"
   },
   {
-    "id": 154,
+    "id": 52,
     "name": "Chocolate Cake",
     "category": "bakery-pastry",
     "variants": [
@@ -1390,10 +1390,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/C9A227/FFFFFF?text=Chocolate%20Cake"
+    "image": "https://files.catbox.moe/annllh.png"
   },
   {
-    "id": 158,
+    "id": 53,
     "name": "Coffee Break",
     "category": "combo-package",
     "items": [
@@ -1408,10 +1408,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Coffee%20Break"
+    "image": "https://files.catbox.moe/758ro2.png"
   },
   {
-    "id": 160,
+    "id": 54,
     "name": "Japanese Set",
     "category": "combo-package",
     "items": [
@@ -1426,10 +1426,10 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Japanese%20Set"
+    "image": "https://files.catbox.moe/2krkl6.png"
   },
   {
-    "id": 166,
+    "id": 55,
     "name": "Breakfast Set",
     "category": "combo-package",
     "items": [
@@ -1445,6 +1445,6 @@
       "resetTimezone": "Asia/Jakarta",
       "lastResetDate": null
     },
-    "image": "https://placehold.co/600x400/16A085/FFFFFF?text=Breakfast%20Set"
+    "image": "https://files.catbox.moe/914qvl.png"
   }
 ]

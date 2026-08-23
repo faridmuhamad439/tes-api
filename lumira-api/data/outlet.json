@@ -39,6 +39,30 @@
         "number": "C02",
         "capacity": 2,
         "status": "available"
+      },
+      {
+        "id": 7,
+        "number": "D01",
+        "capacity": 4,
+        "status": "available"
+      },
+      {
+        "id": 8,
+        "number": "D02",
+        "capacity": 6,
+        "status": "available"
+      },
+      {
+        "id": 9,
+        "number": "E01",
+        "capacity": 2,
+        "status": "available"
+      },
+      {
+        "id": 10,
+        "number": "E02",
+        "capacity": 8,
+        "status": "available"
       }
     ]
   }
