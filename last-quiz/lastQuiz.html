@@ -1,0 +1,1611 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kesan Pelatihan Web · Kelompok 4</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #38bdf8;
+            --primary-glow: rgba(56, 189, 248, 0.5);
+            --accent-purple: #c084fc;
+            --accent-amber: #fbbf24;
+            --accent-emerald: #34d399;
+            --accent-rose: #fb7185;
+            --bg-color: #030712;
+            --card-bg: rgba(13, 20, 36, 0.88);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: var(--bg-color);
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            color: #fff;
+            user-select: none;
+        }
+
+        /* ─── Latar Belakang Luar Angkasa & Nebula ─── */
+        .bg-nebula {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 50% 50%, rgba(15, 23, 42, 0.85) 0%, #030712 100%),
+                radial-gradient(circle at 15% 25%, rgba(56, 189, 248, 0.22) 0%, transparent 55%),
+                radial-gradient(circle at 85% 75%, rgba(192, 132, 252, 0.22) 0%, transparent 55%),
+                radial-gradient(circle at 50% 85%, rgba(52, 211, 153, 0.15) 0%, transparent 50%);
+            z-index: 1;
+            pointer-events: none;
+        }
+
+        #starfield-canvas, #sparkle-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+
+        #starfield-canvas { z-index: 2; }
+        #sparkle-canvas { z-index: 50; }
+
+        /* ─── Panggung 3D Foto Meluncur Maju ─── */
+        #scene-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            perspective: 1000px;
+            perspective-origin: 50% 50%;
+            overflow: hidden;
+            z-index: 10;
+            pointer-events: none;
+        }
+
+        #world {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            transform-style: preserve-3d;
+            transform: translateZ(0);
+            pointer-events: none;
+            transition: transform 0.12s ease-out;
+        }
+
+        /* ─── Kartu Polaroid 3D Meluncur ke Depan ─── */
+        .fly-card {
+            position: absolute;
+            top: -140px;
+            left: -105px;
+            width: 210px;
+            height: 275px;
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 16px;
+            padding: 9px 9px 34px 9px;
+            box-shadow: 
+                0 25px 50px rgba(0, 0, 0, 0.75),
+                0 0 35px rgba(56, 189, 248, 0.4),
+                inset 0 0 0 1px rgba(255, 255, 255, 0.95);
+            transform-style: preserve-3d;
+            cursor: pointer;
+            will-change: transform, opacity;
+            transition: box-shadow 0.3s ease, filter 0.3s ease;
+            pointer-events: auto !important;
+            z-index: 15;
+        }
+
+        .fly-card::before {
+            content: '';
+            position: absolute;
+            top: -9px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 46px;
+            height: 16px;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(6px);
+            border-radius: 2px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.25);
+            z-index: 20;
+        }
+
+        .fly-card .img-box {
+            width: 100%;
+            height: 195px;
+            border-radius: 10px;
+            overflow: hidden;
+            background: #0f172a;
+            position: relative;
+        }
+
+        .fly-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            pointer-events: none;
+            transition: transform 0.4s ease;
+        }
+
+        .fly-card .card-label {
+            position: absolute;
+            bottom: 10px;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 0.82rem;
+            font-weight: 800;
+            color: #0f172a;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .fly-card:hover {
+            box-shadow: 
+                0 40px 90px rgba(0, 0, 0, 0.95),
+                0 0 60px rgba(56, 189, 248, 0.9),
+                inset 0 0 0 2px #38bdf8 !important;
+            filter: brightness(1.1);
+            z-index: 99999 !important;
+        }
+
+        .fly-card:hover img {
+            transform: scale(1.08);
+        }
+
+        /* ─── Kartu Pertanyaan Kaca di Tengah ─── */
+        .center-stage {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 30;
+            max-width: 900px;
+            width: calc(100% - 36px);
+            pointer-events: none;
+        }
+
+        .question-card {
+            pointer-events: auto;
+            position: relative;
+            background: var(--card-bg);
+            backdrop-filter: blur(36px) saturate(2);
+            -webkit-backdrop-filter: blur(36px) saturate(2);
+            border-radius: 38px;
+            padding: 38px 40px 40px;
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            box-shadow: 
+                0 35px 85px rgba(0, 0, 0, 0.88),
+                0 0 50px rgba(56, 189, 248, 0.28),
+                inset 0 1px 2px rgba(255, 255, 255, 0.35);
+            text-align: center;
+            overflow: hidden;
+            animation: cardFloatZeroG 6.5s ease-in-out infinite alternate;
+        }
+
+        @keyframes cardFloatZeroG {
+            0% {
+                transform: translateY(0px) rotate(0deg);
+            }
+            50% {
+                transform: translateY(-8px) rotate(0.4deg);
+            }
+            100% {
+                transform: translateY(4px) rotate(-0.4deg);
+            }
+        }
+
+        .question-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: conic-gradient(from 0deg at 50% 50%, rgba(56, 189, 248, 0.2), rgba(192, 132, 252, 0.25), rgba(251, 113, 133, 0.2), rgba(56, 189, 248, 0.2));
+            pointer-events: none;
+            animation: rotateGlow 14s linear infinite;
+        }
+
+        @keyframes rotateGlow {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .card-header {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+
+        .badge-team {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 22px;
+            border-radius: 999px;
+            background: linear-gradient(135deg, rgba(56, 189, 248, 0.3), rgba(192, 132, 252, 0.3));
+            border: 1px solid rgba(56, 189, 248, 0.5);
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 800;
+            letter-spacing: 2.5px;
+            text-transform: uppercase;
+            color: #7dd3fc;
+            box-shadow: 0 0 22px rgba(56, 189, 248, 0.4);
+            animation: pulseBadge 3s ease-in-out infinite alternate;
+        }
+
+        @keyframes pulseBadge {
+            0% { box-shadow: 0 0 15px rgba(56, 189, 248, 0.3); border-color: rgba(56, 189, 248, 0.5); }
+            100% { box-shadow: 0 0 28px rgba(192, 132, 252, 0.6); border-color: rgba(192, 132, 252, 0.7); }
+        }
+
+        .card-title {
+            font-size: 0.82rem;
+            font-weight: 600;
+            letter-spacing: 3.5px;
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .card-title span {
+            background: linear-gradient(135deg, #f8fafc, #94a3b8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .text-container {
+            position: relative;
+            z-index: 2;
+            min-height: 170px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 8px 10px 18px;
+        }
+
+        #typewriter-text {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: clamp(1.22rem, 3.1vw, 1.88rem);
+            font-weight: 600;
+            line-height: 1.75;
+            color: #ffffff;
+            text-align: center;
+            width: 100%;
+            word-wrap: break-word;
+            text-shadow: 0 2px 20px rgba(0, 0, 0, 0.8);
+        }
+
+        .word {
+            display: inline-block;
+            white-space: nowrap;
+            margin: 0 4px;
+        }
+
+        .char {
+            display: inline-block;
+            opacity: 0;
+            transform: translateY(24px) scale(0.6);
+            filter: blur(4px);
+            transition: opacity 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), 
+                        transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), 
+                        filter 0.35s ease,
+                        color 0.25s ease, 
+                        text-shadow 0.25s ease;
+            position: relative;
+            color: #ffffff;
+        }
+
+        .char.visible {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+            filter: blur(0px);
+            text-shadow: 0 2px 14px rgba(0, 0, 0, 0.7);
+        }
+
+        .char.visible:hover {
+            transform: translateY(-9px) scale(1.35) !important;
+            color: #38bdf8 !important;
+            text-shadow: 0 0 25px #38bdf8, 0 0 50px rgba(56, 189, 248, 0.8) !important;
+            z-index: 100;
+            animation: none !important;
+        }
+
+        .laser-cursor {
+            display: inline-block;
+            width: 4px;
+            height: 1.2em;
+            background: linear-gradient(to bottom, #38bdf8, #c084fc);
+            margin-left: 4px;
+            vertical-align: text-bottom;
+            border-radius: 3px;
+            box-shadow: 0 0 15px #38bdf8, 0 0 30px #c084fc;
+            animation: laserBlink 0.7s ease-in-out infinite alternate;
+        }
+
+        @keyframes laserBlink {
+            0% { opacity: 1; transform: scaleY(1); }
+            100% { opacity: 0.2; transform: scaleY(0.8); }
+        }
+
+        .char.hl-blue {
+            color: #38bdf8 !important;
+            font-weight: 700;
+            text-shadow: 0 0 22px rgba(56, 189, 248, 0.75), 0 0 40px rgba(56, 189, 248, 0.4) !important;
+        }
+
+        .char.hl-purple {
+            color: #c084fc !important;
+            font-weight: 700;
+            text-shadow: 0 0 22px rgba(192, 132, 252, 0.75), 0 0 40px rgba(192, 132, 252, 0.4) !important;
+        }
+
+        .char.hl-amber {
+            color: #fbbf24 !important;
+            font-weight: 700;
+            text-shadow: 0 0 22px rgba(251, 191, 36, 0.75), 0 0 40px rgba(251, 191, 36, 0.4) !important;
+        }
+
+        .char.hl-emerald {
+            color: #34d399 !important;
+            font-weight: 700;
+            text-shadow: 0 0 22px rgba(52, 211, 153, 0.75), 0 0 40px rgba(52, 211, 153, 0.4) !important;
+        }
+
+        .char.hl-rose {
+            color: #fb7185 !important;
+            font-weight: 700;
+            text-shadow: 0 0 22px rgba(251, 113, 133, 0.75), 0 0 40px rgba(251, 113, 133, 0.4) !important;
+        }
+
+        /* ── Gerak Mengambang Bergelombang (Idle Floating Wave) ── */
+        .typing-finished .char.visible {
+            display: inline-block;
+            animation: idleFloatingWave 3s ease-in-out infinite alternate;
+            animation-delay: calc(var(--i, 0) * 0.045s);
+        }
+
+        @keyframes idleFloatingWave {
+            0% {
+                transform: translateY(0px) scale(1) rotate(0deg);
+            }
+            35% {
+                transform: translateY(-6px) scale(1.03) rotate(-0.8deg);
+            }
+            70% {
+                transform: translateY(2.5px) scale(0.98) rotate(0.6deg);
+            }
+            100% {
+                transform: translateY(-4px) scale(1.02) rotate(0deg);
+                text-shadow: 0 4px 18px rgba(56, 189, 248, 0.5), 0 0 10px rgba(192, 132, 252, 0.35);
+            }
+        }
+
+        .card-footer {
+            position: relative;
+            z-index: 2;
+            margin-top: 10px;
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.5);
+            letter-spacing: 1px;
+            font-weight: 400;
+        }
+
+        .card-footer span {
+            color: #38bdf8;
+            font-weight: 600;
+        }
+
+        /* ─── Dock Navigasi & Kontrol Bawah ─── */
+        .bottom-dock {
+            position: fixed;
+            bottom: 18px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 99999 !important;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 18px;
+            background: rgba(15, 23, 42, 0.92);
+            backdrop-filter: blur(24px);
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            border-radius: 999px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.85), 0 0 35px rgba(56, 189, 248, 0.35);
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 96vw;
+            pointer-events: auto !important;
+        }
+
+        .dock-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .dock-divider {
+            width: 1px;
+            height: 20px;
+            background: rgba(255, 255, 255, 0.25);
+            margin: 0 2px;
+        }
+
+        .dock-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            color: #f1f5f9;
+            padding: 8px 15px;
+            border-radius: 999px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+            font-family: 'Outfit', sans-serif;
+            white-space: nowrap;
+            pointer-events: auto !important;
+        }
+
+        .dock-btn:hover {
+            background: rgba(56, 189, 248, 0.3);
+            border-color: #38bdf8;
+            color: #fff;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(56, 189, 248, 0.5);
+        }
+
+        .dock-btn:active {
+            transform: translateY(1px) scale(0.96);
+        }
+
+        .dock-btn.active {
+            background: linear-gradient(135deg, rgba(56, 189, 248, 0.4), rgba(192, 132, 252, 0.4));
+            border-color: #38bdf8;
+            color: #7dd3fc;
+            box-shadow: 0 0 18px rgba(56, 189, 248, 0.4);
+        }
+
+        .dock-btn.btn-text-ctrl {
+            background: linear-gradient(135deg, rgba(192, 132, 252, 0.25), rgba(56, 189, 248, 0.25));
+            border-color: rgba(192, 132, 252, 0.4);
+        }
+
+        .dock-btn.btn-text-ctrl:hover {
+            background: linear-gradient(135deg, rgba(192, 132, 252, 0.4), rgba(56, 189, 248, 0.4));
+            border-color: #c084fc;
+        }
+
+        .dock-btn.btn-photo-speed {
+            background: linear-gradient(135deg, rgba(52, 211, 153, 0.2), rgba(56, 189, 248, 0.2));
+            border-color: rgba(52, 211, 153, 0.4);
+        }
+
+        .dock-btn.btn-photo-speed:hover {
+            background: linear-gradient(135deg, rgba(52, 211, 153, 0.35), rgba(56, 189, 248, 0.35));
+            border-color: #34d399;
+        }
+
+        /* ─── Lightbox Modal Fullscreen ─── */
+        .lightbox {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(3, 7, 18, 0.95);
+            backdrop-filter: blur(24px);
+            z-index: 999999 !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            padding: 24px;
+        }
+
+        .lightbox.open {
+            opacity: 1;
+            pointer-events: auto !important;
+        }
+
+        .lightbox-card {
+            position: relative;
+            background: #fff;
+            padding: 14px 14px 44px 14px;
+            border-radius: 24px;
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.95), 0 0 60px rgba(56, 189, 248, 0.5);
+            transform: scale(0.85) rotate(-2deg);
+            transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+            max-width: 90vw;
+            max-height: 85vh;
+            text-align: center;
+            pointer-events: auto !important;
+        }
+
+        .lightbox.open .lightbox-card {
+            transform: scale(1) rotate(0deg);
+        }
+
+        .lightbox-img {
+            max-width: 100%;
+            max-height: 70vh;
+            border-radius: 16px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .lightbox-caption {
+            margin-top: 14px;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: #0f172a;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+        }
+
+        .lightbox-close {
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            width: 48px;
+            height: 48px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            color: #fff;
+            border-radius: 50%;
+            font-size: 1.6rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            pointer-events: auto !important;
+            z-index: 1000000;
+        }
+
+        .lightbox-close:hover {
+            background: #ef4444;
+            transform: scale(1.1) rotate(90deg);
+        }
+
+        /* ─── Responsivitas Lengkap (Desktop, Tablet, HP, Layar Kecil) ─── */
+        @media (max-width: 768px) {
+            .center-stage {
+                width: calc(100% - 24px);
+                max-width: 560px;
+                top: 47%;
+            }
+
+            .question-card {
+                padding: 24px 20px 22px;
+                border-radius: 26px;
+            }
+
+            .badge-team {
+                padding: 5px 16px;
+                font-size: 0.76rem;
+                letter-spacing: 2px;
+            }
+
+            .card-title {
+                font-size: 0.72rem;
+                letter-spacing: 2.2px;
+            }
+
+            .text-container {
+                min-height: 130px;
+                padding: 6px 6px 12px;
+            }
+
+            #typewriter-text {
+                font-size: clamp(1.02rem, 3.8vw, 1.45rem);
+                line-height: 1.62;
+            }
+
+            .bottom-dock {
+                bottom: 12px;
+                padding: 6px 12px;
+                gap: 6px;
+                max-width: calc(100vw - 20px);
+                overflow-x: auto;
+                flex-wrap: nowrap;
+                justify-content: flex-start;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+            }
+
+            .bottom-dock::-webkit-scrollbar {
+                display: none;
+            }
+
+            .dock-group {
+                gap: 6px;
+                flex-shrink: 0;
+            }
+
+            .dock-btn {
+                padding: 6px 11px;
+                font-size: 0.74rem;
+                gap: 4px;
+                flex-shrink: 0;
+            }
+
+            .dock-divider {
+                height: 18px;
+                margin: 0 2px;
+                flex-shrink: 0;
+            }
+
+            .fly-card {
+                width: 140px;
+                height: 185px;
+                top: -95px;
+                left: -70px;
+                padding: 6px 6px 22px 6px;
+                border-radius: 12px;
+            }
+
+            .fly-card::before {
+                width: 34px;
+                height: 12px;
+                top: -6px;
+            }
+
+            .fly-card .img-box {
+                height: 130px;
+                border-radius: 8px;
+            }
+
+            .fly-card .card-label {
+                font-size: 0.68rem;
+                bottom: 5px;
+            }
+
+            .lightbox {
+                padding: 16px;
+            }
+
+            .lightbox-card {
+                padding: 12px 12px 34px 12px;
+                border-radius: 20px;
+                max-width: 94vw;
+            }
+
+            .lightbox-img {
+                max-height: 62vh;
+                border-radius: 14px;
+            }
+
+            .lightbox-caption {
+                font-size: 1.05rem;
+                margin-top: 10px;
+            }
+
+            .lightbox-close {
+                top: 16px;
+                right: 16px;
+                width: 42px;
+                height: 42px;
+                font-size: 1.4rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .center-stage {
+                width: calc(100% - 16px);
+                top: 45%;
+            }
+
+            .question-card {
+                padding: 18px 14px 18px;
+                border-radius: 22px;
+                backdrop-filter: blur(24px) saturate(1.8);
+                -webkit-backdrop-filter: blur(24px) saturate(1.8);
+            }
+
+            .card-header {
+                gap: 5px;
+                margin-bottom: 12px;
+            }
+
+            .badge-team {
+                padding: 4px 12px;
+                font-size: 0.68rem;
+                letter-spacing: 1.5px;
+                gap: 4px;
+            }
+
+            .card-title {
+                font-size: 0.64rem;
+                letter-spacing: 1.6px;
+            }
+
+            .text-container {
+                min-height: 100px;
+                padding: 2px 4px 8px;
+            }
+
+            #typewriter-text {
+                font-size: clamp(0.92rem, 4vw, 1.18rem);
+                line-height: 1.55;
+            }
+
+            .word {
+                margin: 0 2.5px;
+            }
+
+            .card-footer {
+                font-size: 0.68rem;
+                margin-top: 4px;
+                line-height: 1.4;
+            }
+
+            .bottom-dock {
+                bottom: 8px;
+                padding: 5px 10px;
+                gap: 5px;
+                max-width: calc(100vw - 12px);
+                border-radius: 20px;
+            }
+
+            .dock-btn {
+                padding: 5px 8px;
+                font-size: 0.68rem;
+                gap: 3px;
+            }
+
+            .fly-card {
+                width: 108px;
+                height: 144px;
+                top: -72px;
+                left: -54px;
+                padding: 5px 5px 18px 5px;
+                border-radius: 10px;
+            }
+
+            .fly-card::before {
+                width: 28px;
+                height: 9px;
+                top: -5px;
+            }
+
+            .fly-card .img-box {
+                height: 100px;
+                border-radius: 6px;
+            }
+
+            .fly-card .card-label {
+                font-size: 0.56rem;
+                bottom: 3px;
+                letter-spacing: 0.4px;
+            }
+
+            .lightbox {
+                padding: 10px;
+            }
+
+            .lightbox-card {
+                padding: 8px 8px 26px 8px;
+                border-radius: 16px;
+                max-width: 96vw;
+            }
+
+            .lightbox-img {
+                max-height: 55vh;
+                border-radius: 10px;
+            }
+
+            .lightbox-caption {
+                font-size: 0.88rem;
+                margin-top: 8px;
+            }
+
+            .lightbox-close {
+                top: 12px;
+                right: 12px;
+                width: 36px;
+                height: 36px;
+                font-size: 1.3rem;
+            }
+        }
+
+        @media (max-width: 360px) {
+            .center-stage {
+                width: calc(100% - 10px);
+                top: 44%;
+            }
+
+            .question-card {
+                padding: 14px 10px 14px;
+                border-radius: 18px;
+            }
+
+            #typewriter-text {
+                font-size: 0.85rem;
+                line-height: 1.5;
+            }
+
+            .badge-team {
+                font-size: 0.62rem;
+                padding: 3px 10px;
+            }
+
+            .card-title {
+                font-size: 0.58rem;
+            }
+
+            .dock-btn {
+                padding: 4px 7px;
+                font-size: 0.62rem;
+            }
+
+            .fly-card {
+                width: 92px;
+                height: 124px;
+                top: -62px;
+                left: -46px;
+            }
+
+            .fly-card .img-box {
+                height: 86px;
+            }
+
+            .fly-card .card-label {
+                font-size: 0.5rem;
+            }
+        }
+
+        /* Penyesuaian untuk Layar Pendek / Landscape HP */
+        @media (max-height: 640px) {
+            .center-stage {
+                top: 44%;
+            }
+
+            .question-card {
+                padding: 14px 16px 14px;
+            }
+
+            .text-container {
+                min-height: 80px;
+                padding: 2px 4px 6px;
+            }
+
+            #typewriter-text {
+                font-size: 0.95rem;
+                line-height: 1.45;
+            }
+
+            .card-header {
+                margin-bottom: 6px;
+            }
+
+            .bottom-dock {
+                bottom: 5px;
+                padding: 4px 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Latar Belakang Luar Angkasa & Warp Bintang -->
+    <div class="bg-nebula"></div>
+    <canvas id="starfield-canvas"></canvas>
+    <canvas id="sparkle-canvas"></canvas>
+
+    <!-- Panggung 3D Foto Meluncur Maju -->
+    <div id="scene-container">
+        <div id="world"></div>
+    </div>
+
+    <!-- Kartu Pertanyaan di Tengah -->
+    <div class="center-stage">
+        <div class="question-card" id="questionCard">
+            
+            <div class="card-header">
+                <div class="badge-team">
+                    <span>✨</span> KELOMPOK EMPAT <span>✨</span>
+                </div>
+                <div class="card-title">✦ <span>KESAN DAN PESAN PELATIHAN</span> ✦</div>
+            </div>
+
+            <div class="text-container">
+                <div id="typewriter-text">
+                    <!-- Teks pertanyaan dirender oleh JS -->
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <span>“</span> Setiap baris kode & kenangan adalah langkah bersama <span>”</span>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Dock Navigasi & Kontrol Bawah -->
+    <div class="bottom-dock">
+        <!-- Kontrol Teks (Putar Ulang, Berhenti/Lanjut, Kecepatan Teks) -->
+        <div class="dock-group">
+            <button class="dock-btn btn-text-ctrl" id="btnReplayText" onclick="handleReplayText()" type="button">
+                <span>⟳</span> Putar Ulang Teks
+            </button>
+            <button class="dock-btn btn-text-ctrl active" id="btnPauseText" onclick="handleTogglePauseText()" type="button">
+                <span id="textPauseIcon">⏸</span> <span id="textPauseLabel">Jeda Teks</span>
+            </button>
+            <button class="dock-btn btn-text-ctrl" id="btnTextSpeed" onclick="handleChangeTextSpeed()" type="button">
+                <span>⚡</span> Kecepatan Teks: <span id="textSpeedLabel">Normal</span>
+            </button>
+        </div>
+
+        <div class="dock-divider"></div>
+
+        <!-- Kontrol Foto (Jeda/Lanjut, Kecepatan Gambar, Semburan, Audio) -->
+        <div class="dock-group">
+            <button class="dock-btn active" id="btnPlayPausePhoto" onclick="handleTogglePhotoMove()" type="button">
+                <span id="photoPlayIcon">⏸</span> <span>Foto 3D</span>
+            </button>
+            <button class="dock-btn btn-photo-speed" id="btnPhotoSpeed" onclick="handleChangePhotoSpeed()" type="button">
+                <span>⚡</span> Kecepatan Gambar: <span id="photoSpeedLabel">1x</span>
+            </button>
+            <button class="dock-btn" id="btnBurst" onclick="handlePhotoBurst()" type="button">
+                <span>🚀</span> Semburan Foto
+            </button>
+            <button class="dock-btn" id="btnAudio" onclick="handleToggleAudio()" type="button">
+                <span>🎵</span> Audio Ambient
+            </button>
+        </div>
+    </div>
+
+    <!-- Lightbox Modal Fullscreen -->
+    <div class="lightbox" id="lightbox" onclick="handleBackdropClick(event)">
+        <button class="lightbox-close" id="btnCloseLightbox" onclick="closeLightbox()" type="button">&times;</button>
+        <div class="lightbox-card" onclick="event.stopPropagation()">
+            <img src="" alt="Kelompok Empat" class="lightbox-img" id="lightboxImg">
+            <div class="lightbox-caption" id="lightboxCaption">✨ KELOMPOK EMPAT ✨</div>
+        </div>
+    </div>
+
+    <script>
+        // ═══════════════════════════════════════════════════════
+        //  1. DAFTAR FOTO DARI FOLDER kelompokEmpat
+        // ═══════════════════════════════════════════════════════
+        const photos = [
+            { src: 'kelompokEmpat/a.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/d.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/e.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/f.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/g.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/h.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/i.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/j.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/o.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/p.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/r.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/s.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/t.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/u.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/w.jpeg', title: 'Kelompok Empat' },
+            { src: 'kelompokEmpat/y.jpeg', title: 'Kelompok Empat' }
+        ];
+
+        // ═══════════════════════════════════════════════════════
+        //  2. 3D WARP STARFIELD & SPARKLE CANVAS
+        // ═══════════════════════════════════════════════════════
+        const starCanvas = document.getElementById('starfield-canvas');
+        const starCtx = starCanvas.getContext('2d');
+        const sparkCanvas = document.getElementById('sparkle-canvas');
+        const sparkCtx = sparkCanvas.getContext('2d');
+        let width, height, centerX, centerY;
+        const starCount = 260;
+        const stars = [];
+        const sparkles = [];
+
+        function resizeCanvases() {
+            width = starCanvas.width = sparkCanvas.width = window.innerWidth;
+            height = starCanvas.height = sparkCanvas.height = window.innerHeight;
+            centerX = width / 2;
+            centerY = height / 2;
+        }
+        window.addEventListener('resize', resizeCanvases);
+        resizeCanvases();
+
+        for (let i = 0; i < starCount; i++) {
+            stars.push({
+                x: (Math.random() - 0.5) * width * 2,
+                y: (Math.random() - 0.5) * height * 2,
+                z: Math.random() * 1000,
+                color: Math.random() > 0.6 ? '#38bdf8' : (Math.random() > 0.5 ? '#c084fc' : '#ffffff')
+            });
+        }
+
+        let isPhotoMoving = true;
+        let photoSpeedMultiplier = 1.0; // Multiplier Kecepatan Foto / Gambar
+        const photoSpeedLevels = [
+            { label: '0.5x', val: 0.5 },
+            { label: '1x', val: 1.0 },
+            { label: '1.75x', val: 1.75 },
+            { label: '2.5x', val: 2.5 }
+        ];
+        let photoSpeedIdx = 1; // Default 1x
+
+        window.triggerSparkle = function(x, y, colorHue = 195, count = 8) {
+            for (let i = 0; i < count; i++) {
+                const angle = Math.random() * Math.PI * 2;
+                const speed = 1.2 + Math.random() * 3.5;
+                sparkles.push({
+                    x: x + (Math.random() - 0.5) * 8,
+                    y: y + (Math.random() - 0.5) * 8,
+                    vx: Math.cos(angle) * speed,
+                    vy: Math.sin(angle) * speed - 0.8,
+                    size: 2 + Math.random() * 3.5,
+                    life: 0.8 + Math.random() * 0.6,
+                    maxLife: 1.4,
+                    hue: colorHue
+                });
+            }
+        };
+
+        function renderStarsAndSparkles() {
+            starCtx.clearRect(0, 0, width, height);
+            sparkCtx.clearRect(0, 0, width, height);
+
+            const starSpeed = isPhotoMoving ? (2.4 * photoSpeedMultiplier) : 0.4;
+
+            for (let i = 0; i < starCount; i++) {
+                const s = stars[i];
+                s.z -= starSpeed;
+
+                if (s.z <= 0) {
+                    s.z = 1000;
+                    s.x = (Math.random() - 0.5) * width * 2;
+                    s.y = (Math.random() - 0.5) * height * 2;
+                }
+
+                const k = 280 / s.z;
+                const px = s.x * k + centerX;
+                const py = s.y * k + centerY;
+
+                if (px >= 0 && px <= width && py >= 0 && py <= height) {
+                    const size = Math.max(0.4, (1 - s.z / 1000) * 3);
+                    const alpha = Math.min(1, Math.max(0.1, (1 - s.z / 1000) * 1.2));
+
+                    starCtx.beginPath();
+                    starCtx.arc(px, py, size, 0, Math.PI * 2);
+                    starCtx.fillStyle = s.color;
+                    starCtx.globalAlpha = alpha;
+                    starCtx.fill();
+                    starCtx.globalAlpha = 1.0;
+                }
+            }
+
+            for (let i = sparkles.length - 1; i >= 0; i--) {
+                const sp = sparkles[i];
+                sp.x += sp.vx;
+                sp.y += sp.vy;
+                sp.vy += 0.05;
+                sp.life -= 0.02;
+
+                if (sp.life <= 0) {
+                    sparkles.splice(i, 1);
+                    continue;
+                }
+
+                const alpha = sp.life / sp.maxLife;
+                sparkCtx.beginPath();
+                sparkCtx.arc(sp.x, sp.y, sp.size * alpha, 0, Math.PI * 2);
+                sparkCtx.fillStyle = `hsla(${sp.hue}, 90%, 65%, ${alpha})`;
+                sparkCtx.shadowColor = `hsla(${sp.hue}, 100%, 75%, ${alpha})`;
+                sparkCtx.shadowBlur = 10;
+                sparkCtx.fill();
+                sparkCtx.shadowBlur = 0;
+            }
+
+            requestAnimationFrame(renderStarsAndSparkles);
+        }
+        renderStarsAndSparkles();
+
+
+        // ═══════════════════════════════════════════════════════
+        //  3. 3D FLYING FORWARD PHOTO ENGINE
+        // ═══════════════════════════════════════════════════════
+        const world = document.getElementById('world');
+        const activeCards = [];
+        const SPAWN_Z = -2400;
+        const DESPAWN_Z = 650;
+        let photoIndex = 0;
+        let mouseX = 0, mouseY = 0;
+        let targetRotX = 0, targetRotY = 0;
+        let currentRotX = 0, currentRotY = 0;
+
+        function getNextPhotoData() {
+            const item = photos[photoIndex % photos.length];
+            photoIndex++;
+            return item;
+        }
+
+        function createFlyCard(customZ, customAngle) {
+            const photoData = getNextPhotoData();
+            const el = document.createElement('div');
+            el.className = 'fly-card';
+
+            el.innerHTML = `
+                <div class="img-box">
+                    <img src="${photoData.src}" alt="Kelompok Empat" loading="lazy" />
+                </div>
+                <div class="card-label">✨ KELOMPOK EMPAT</div>
+            `;
+
+            const isMobile = window.innerWidth <= 768;
+            const angle = customAngle !== undefined ? customAngle : Math.random() * Math.PI * 2;
+            const baseDist = isMobile ? 150 : 280;
+            const randDist = isMobile ? 170 : 320;
+            const distance = baseDist + Math.random() * randDist;
+            const posX = Math.cos(angle) * distance;
+            const posY = Math.sin(angle) * (distance * (isMobile ? 0.85 : 0.72));
+            const rotZ = (Math.random() * 26 - 13);
+            const rotY = (Math.random() * 18 - 9);
+            const rotX = (Math.random() * 18 - 9);
+
+            const cardObj = {
+                el: el,
+                x: posX,
+                y: posY,
+                z: customZ !== undefined ? customZ : SPAWN_Z,
+                rotX: rotX,
+                rotY: rotY,
+                rotZ: rotZ,
+                isHovered: false,
+                photoData: photoData
+            };
+
+            el.addEventListener('mouseenter', () => {
+                cardObj.isHovered = true;
+                if (window.audioSynth) window.audioSynth.playHover();
+            });
+
+            el.addEventListener('mouseleave', () => {
+                cardObj.isHovered = false;
+            });
+
+            const handleClick = (e) => {
+                e.stopPropagation();
+                openLightbox(photoData.src, '✨ KELOMPOK EMPAT ✨');
+                if (window.audioSynth) window.audioSynth.playPop();
+            };
+
+            el.addEventListener('click', handleClick);
+            el.addEventListener('pointerdown', (e) => e.stopPropagation());
+
+            world.appendChild(el);
+            activeCards.push(cardObj);
+            return cardObj;
+        }
+
+        function initInitialStream() {
+            const initialCount = 12;
+            const step = (DESPAWN_Z - SPAWN_Z) / initialCount;
+            for (let i = 0; i < initialCount; i++) {
+                const z = SPAWN_Z + i * step;
+                createFlyCard(z);
+            }
+        }
+        initInitialStream();
+
+        function animate3DScene() {
+            currentRotX += (targetRotX - currentRotX) * 0.05;
+            currentRotY += (targetRotY - currentRotY) * 0.05;
+            world.style.transform = `rotateX(${currentRotX}deg) rotateY(${currentRotY}deg)`;
+
+            const baseSpeed = 4.0 * photoSpeedMultiplier;
+
+            if (isPhotoMoving) {
+                for (let i = activeCards.length - 1; i >= 0; i--) {
+                    const c = activeCards[i];
+
+                    if (!c.isHovered) {
+                        c.z += baseSpeed;
+                    }
+
+                    const progress = (c.z - SPAWN_Z) / (DESPAWN_Z - SPAWN_Z);
+                    let opacity = 1;
+                    if (progress < 0.18) {
+                        opacity = progress / 0.18;
+                    } else if (c.z > 350) {
+                        opacity = Math.max(0, 1 - (c.z - 350) / (DESPAWN_Z - 350));
+                    }
+
+                    c.el.style.opacity = opacity;
+                    c.el.style.transform = `
+                        translate3d(${c.x}px, ${c.y}px, ${c.z}px)
+                        rotateX(${c.rotX}deg)
+                        rotateY(${c.rotY}deg)
+                        rotateZ(${c.rotZ}deg)
+                    `;
+
+                    if (c.z >= DESPAWN_Z) {
+                        c.el.remove();
+                        activeCards.splice(i, 1);
+                        createFlyCard(SPAWN_Z);
+                    }
+                }
+            }
+
+            requestAnimationFrame(animate3DScene);
+        }
+        animate3DScene();
+
+        function updatePointerPosition(clientX, clientY) {
+            mouseX = (clientX / window.innerWidth) - 0.5;
+            mouseY = (clientY / window.innerHeight) - 0.5;
+            targetRotY = mouseX * 16;
+            targetRotX = -mouseY * 16;
+        }
+
+        window.addEventListener('mousemove', (e) => {
+            updatePointerPosition(e.clientX, e.clientY);
+        });
+
+        window.addEventListener('touchmove', (e) => {
+            if (e.touches && e.touches.length > 0) {
+                updatePointerPosition(e.touches[0].clientX, e.touches[0].clientY);
+            }
+        }, { passive: true });
+
+        window.addEventListener('touchstart', (e) => {
+            if (e.touches && e.touches.length > 0) {
+                const t = e.touches[0];
+                updatePointerPosition(t.clientX, t.clientY);
+                if (window.triggerSparkle) {
+                    window.triggerSparkle(t.clientX, t.clientY, Math.random() * 360, 6);
+                }
+            }
+        }, { passive: true });
+
+
+        // ═══════════════════════════════════════════════════════
+        //  4. SISTEM PENGETIKAN TEKS & KONTROL LENGKAP
+        // ═══════════════════════════════════════════════════════
+        const questionText = "Setelah lewatin masa-masa belajar HTML, CSS, dan JavaScript bareng, gimana nih kesan kalian tentang Pelatihan Web ini? Apa hal yang paling berkesan, seru, atau bermanfaat yang kamu dapet dari perjalanan ini?";
+        const textContainer = document.getElementById('typewriter-text');
+        const questionCard = document.getElementById('questionCard');
+
+        // State Pengetikan
+        let isTextPaused = false;
+        let textSpeedMode = 1; // 0: Lambat (50ms), 1: Normal (28ms), 2: Cepat (14ms), 3: Kilat (5ms)
+        const textSpeeds = [
+            { label: 'Lambat', ms: 50 },
+            { label: 'Normal', ms: 28 },
+            { label: 'Cepat', ms: 14 },
+            { label: 'Kilat', ms: 5 }
+        ];
+
+        let typeIntervalTimer = null;
+        let charElementsList = [];
+        let currentCharIndex = 0;
+        let isTypingFinished = false;
+
+        function getHighlightClass(wordStr) {
+            const clean = wordStr.toLowerCase().replace(/[^a-z]/g, '');
+            if (['html', 'css', 'javascript', 'pelatihan', 'web'].includes(clean)) return 'hl-blue';
+            if (['kesan', 'berkesan'].includes(clean)) return 'hl-purple';
+            if (['seru', 'bermanfaat'].includes(clean)) return 'hl-amber';
+            if (['perjalanan', 'bareng'].includes(clean)) return 'hl-emerald';
+            if (['kamu', 'dapet'].includes(clean)) return 'hl-rose';
+            return '';
+        }
+
+        function buildTextDOM(text) {
+            textContainer.innerHTML = '';
+            charElementsList = [];
+            currentCharIndex = 0;
+            isTypingFinished = false;
+            questionCard.classList.remove('typing-finished');
+
+            const words = text.split(' ');
+            let globalCharIdx = 0;
+
+            words.forEach((wordStr) => {
+                const wordSpan = document.createElement('span');
+                wordSpan.className = 'word';
+
+                const hlClass = getHighlightClass(wordStr);
+                const chars = wordStr.split('');
+
+                chars.forEach((ch) => {
+                    const charSpan = document.createElement('span');
+                    charSpan.className = 'char' + (hlClass ? ` ${hlClass}` : '');
+                    charSpan.textContent = ch;
+                    charSpan.style.setProperty('--i', globalCharIdx);
+
+                    charSpan.addEventListener('mouseenter', () => {
+                        if (charSpan.classList.contains('visible')) {
+                            const rect = charSpan.getBoundingClientRect();
+                            window.triggerSparkle(rect.left + rect.width/2, rect.top + rect.height/2, Math.random() * 360, 8);
+                            if (window.audioSynth) window.audioSynth.playType(520 + (globalCharIdx * 6));
+                        }
+                    });
+
+                    wordSpan.appendChild(charSpan);
+                    charElementsList.push(charSpan);
+                    globalCharIdx++;
+                });
+
+                textContainer.appendChild(wordSpan);
+            });
+
+            const laserCursor = document.createElement('span');
+            laserCursor.className = 'laser-cursor';
+            laserCursor.id = 'laserCursor';
+            textContainer.appendChild(laserCursor);
+        }
+
+        function runTypewriterLoop() {
+            if (typeIntervalTimer) clearInterval(typeIntervalTimer);
+
+            const speedMs = textSpeeds[textSpeedMode].ms;
+
+            typeIntervalTimer = setInterval(() => {
+                if (isTextPaused) return;
+
+                if (currentCharIndex < charElementsList.length) {
+                    const charEl = charElementsList[currentCharIndex];
+                    charEl.classList.add('visible');
+
+                    if (currentCharIndex % 3 === 0) {
+                        const rect = charEl.getBoundingClientRect();
+                        window.triggerSparkle(rect.left + rect.width / 2, rect.top + rect.height / 2, 195 + (currentCharIndex % 60), 3);
+                        if (window.audioSynth) window.audioSynth.playType(420 + (currentCharIndex % 12) * 18);
+                    }
+
+                    currentCharIndex++;
+                } else {
+                    clearInterval(typeIntervalTimer);
+                    typeIntervalTimer = null;
+                    isTypingFinished = true;
+
+                    const laser = document.getElementById('laserCursor');
+                    if (laser) laser.remove();
+
+                    questionCard.classList.add('typing-finished');
+
+                    const cardRect = questionCard.getBoundingClientRect();
+                    window.triggerSparkle(cardRect.left + cardRect.width / 2, cardRect.top + cardRect.height / 2, 210, 40);
+                    if (window.audioSynth) window.audioSynth.playPop(660);
+                }
+            }, speedMs);
+        }
+
+        function startTypewriter() {
+            buildTextDOM(questionText);
+            isTextPaused = false;
+            updatePauseButtonUI();
+            runTypewriterLoop();
+        }
+
+        startTypewriter();
+
+
+        // ═══════════════════════════════════════════════════════
+        //  5. FUNGSI HANDLER TOMBOL KONTROL
+        // ═══════════════════════════════════════════════════════
+        function updatePauseButtonUI() {
+            const btn = document.getElementById('btnPauseText');
+            const icon = document.getElementById('textPauseIcon');
+            const label = document.getElementById('textPauseLabel');
+            if (isTextPaused) {
+                btn.classList.remove('active');
+                icon.textContent = '▶';
+                label.textContent = 'Lanjut Teks';
+            } else {
+                btn.classList.add('active');
+                icon.textContent = '⏸';
+                label.textContent = 'Jeda Teks';
+            }
+        }
+
+        function handleReplayText() {
+            startTypewriter();
+            if (window.audioSynth) window.audioSynth.playPop(620);
+        }
+
+        function handleTogglePauseText() {
+            if (isTypingFinished) {
+                startTypewriter();
+                return;
+            }
+            isTextPaused = !isTextPaused;
+            updatePauseButtonUI();
+            if (window.audioSynth) window.audioSynth.playPop(480);
+        }
+
+        // Ubah Kecepatan Teks (Lambat -> Normal -> Cepat -> Kilat)
+        function handleChangeTextSpeed() {
+            textSpeedMode = (textSpeedMode + 1) % textSpeeds.length;
+            document.getElementById('textSpeedLabel').textContent = textSpeeds[textSpeedMode].label;
+            
+            if (!isTypingFinished && !isTextPaused) {
+                runTypewriterLoop();
+            }
+            if (window.audioSynth) window.audioSynth.playPop(540);
+        }
+
+        // Jeda / Lanjut Foto 3D
+        function handleTogglePhotoMove() {
+            isPhotoMoving = !isPhotoMoving;
+            const btn = document.getElementById('btnPlayPausePhoto');
+            const icon = document.getElementById('photoPlayIcon');
+            if (isPhotoMoving) {
+                btn.classList.add('active');
+                icon.textContent = '⏸';
+            } else {
+                btn.classList.remove('active');
+                icon.textContent = '▶';
+            }
+            if (window.audioSynth) window.audioSynth.playPop(480);
+        }
+
+        // Ubah Kecepatan Gambar / Foto (0.5x -> 1x -> 1.75x -> 2.5x)
+        function handleChangePhotoSpeed() {
+            photoSpeedIdx = (photoSpeedIdx + 1) % photoSpeedLevels.length;
+            photoSpeedMultiplier = photoSpeedLevels[photoSpeedIdx].val;
+            document.getElementById('photoSpeedLabel').textContent = photoSpeedLevels[photoSpeedIdx].label;
+            if (window.audioSynth) window.audioSynth.playPop(560);
+        }
+
+        // Semburan Foto
+        function handlePhotoBurst() {
+            for (let i = 0; i < 6; i++) {
+                setTimeout(() => {
+                    const angle = (i / 6) * Math.PI * 2 + (Math.random() * 0.3);
+                    createFlyCard(-2000 - (i * 150), angle);
+                }, i * 80);
+            }
+            if (window.audioSynth) window.audioSynth.playPop(720);
+        }
+
+
+        // ═══════════════════════════════════════════════════════
+        //  6. AUDIO SYNTHESIZER (Web Audio API)
+        // ═══════════════════════════════════════════════════════
+        let audioCtx = null;
+        let isAudioOn = false;
+        let ambientLoop = null;
+        const chords = [
+            [261.63, 329.63, 392.00, 523.25],
+            [220.00, 261.63, 329.63, 440.00],
+            [174.61, 220.00, 261.63, 349.23],
+            [196.00, 246.94, 293.66, 392.00]
+        ];
+        let chordIdx = 0;
+
+        function getAudioCtx() {
+            try {
+                if (!audioCtx) {
+                    audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                }
+                if (audioCtx.state === 'suspended') {
+                    audioCtx.resume();
+                }
+                return audioCtx;
+            } catch(e) {
+                return null;
+            }
+        }
+
+        function playSynthTone(freq, dur = 0.5, type = 'sine', gainVal = 0.05) {
+            if (!isAudioOn && dur > 0.3) return;
+            const ctx = getAudioCtx();
+            if (!ctx) return;
+            try {
+                const osc = ctx.createOscillator();
+                const gain = ctx.createGain();
+                osc.type = type;
+                osc.frequency.setValueAtTime(freq, ctx.currentTime);
+                gain.gain.setValueAtTime(gainVal, ctx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + dur);
+                osc.connect(gain);
+                gain.connect(ctx.destination);
+                osc.start();
+                osc.stop(ctx.currentTime + dur);
+            } catch(e) {}
+        }
+
+        window.audioSynth = {
+            playPop: (f = 500) => playSynthTone(f, 0.22, 'sine', 0.08),
+            playType: (f = 440) => playSynthTone(f, 0.08, 'triangle', 0.02),
+            playHover: () => playSynthTone(380, 0.15, 'sine', 0.03)
+        };
+
+        function startAmbientMusic() {
+            getAudioCtx();
+            ambientLoop = setInterval(() => {
+                const chord = chords[chordIdx % chords.length];
+                chordIdx++;
+                chord.forEach((note, i) => {
+                    setTimeout(() => {
+                        playSynthTone(note, 2.2, 'sine', 0.025);
+                    }, i * 320);
+                });
+            }, 2200);
+        }
+
+        function stopAmbientMusic() {
+            if (ambientLoop) clearInterval(ambientLoop);
+            ambientLoop = null;
+        }
+
+        function handleToggleAudio() {
+            getAudioCtx();
+            isAudioOn = !isAudioOn;
+            const btn = document.getElementById('btnAudio');
+            if (isAudioOn) {
+                btn.classList.add('active');
+                btn.innerHTML = '<span>🔊</span> Audio: Aktif';
+                startAmbientMusic();
+            } else {
+                btn.classList.remove('active');
+                btn.innerHTML = '<span>🎵</span> Audio Ambient';
+                stopAmbientMusic();
+            }
+        }
+
+
+        // ═══════════════════════════════════════════════════════
+        //  7. LIGHTBOX PREVIEW
+        // ═══════════════════════════════════════════════════════
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightboxImg');
+        const lightboxCaption = document.getElementById('lightboxCaption');
+
+        function openLightbox(src, title) {
+            lightboxImg.src = src;
+            lightboxCaption.textContent = title;
+            lightbox.classList.add('open');
+        }
+
+        function closeLightbox() {
+            lightbox.classList.remove('open');
+        }
+
+        function handleBackdropClick(e) {
+            if (e.target === lightbox) {
+                closeLightbox();
+            }
+        }
+
+        window.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeLightbox();
+        });
+    </script>
+</body>
+</html>
