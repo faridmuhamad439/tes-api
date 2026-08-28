@@ -5,7 +5,7 @@
     "label": "Dark",
     "judul": "Dark Street",
     "deskripsi": "Gaya serba gelap yang bold.",
-    "gambar": "https://i.pinimg.com/736x/ea/09/c0/ea09c0aab622f720bc875b4af564ae90.jpg"
+    "gambar": "https://i.pinimg.com/736x/6f/e9/5a/6fe95a6d8937d064060fc6ffe779bc87.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "label": "Jersey",
     "judul": "Jersey Style",
     "deskripsi": "Topi buat look sporty.",
-    "gambar": "https://i.pinimg.com/736x/d0/c0/29/d0c029567f1ec5159750acd0d22496ff.jpg"
+    "gambar": "https://i.pinimg.com/736x/7f/10/e1/7f10e1c7d4e3579a4ea49dbc8f136627.jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "label": "Layered",
     "judul": "Layered Street",
     "deskripsi": "Tumpuk jaket dan hoodie ala jalanan.",
-    "gambar": "https://i.pinimg.com/736x/6b/8e/9a/6b8e9a7012a1c55090c7f3cdd7ed3419.jpg"
+    "gambar": "https://i.pinimg.com/736x/b6/1b/0f/b61b0f584fd75d9ea33942bbdd257cdd.jpg"
   },
   {
     "id": 7,
@@ -57,6 +57,190 @@
   },
   {
     "id": 8,
+    "style": "Streetwear",
+    "label": "Oversized",
+    "judul": "Oversized Street",
+    "deskripsi": "Outfit oversized khas streetwear.",
+    "gambar": "https://i.pinimg.com/736x/fd/22/c0/fd22c0027c7def48cf40a96b98e72a57.jpg"
+  },
+  {
+    "id": 9,
+    "style": "Streetwear",
+    "label": "Hoodie",
+    "judul": "Hoodie Street",
+    "deskripsi": "Hoodie dengan gaya urban.",
+    "gambar": "https://i.pinimg.com/736x/3f/90/79/3f9079c346e3e1829176da3f92871cf2.jpg"
+  },
+  {
+    "id": 10,
+    "style": "Streetwear",
+    "label": "Cargo",
+    "judul": "Cargo Street",
+    "deskripsi": "Celana cargo untuk gaya jalanan.",
+    "gambar": "https://i.pinimg.com/1200x/35/cd/0b/35cd0b3aa16820efe95a1e99f592fa96.jpg"
+  },
+  {
+    "id": 11,
+    "style": "Streetwear",
+    "label": "Denim",
+    "judul": "Denim Street",
+    "deskripsi": "Denim dengan sentuhan streetwear.",
+    "gambar": "https://i.pinimg.com/736x/94/1a/16/941a16c06c0cd334a0b69114612476c2.jpg"
+  },
+  {
+    "id": 12,
+    "style": "Streetwear",
+    "label": "Layer",
+    "judul": "Street Layer",
+    "deskripsi": "Perpaduan beberapa layer outfit.",
+    "gambar": "https://i.pinimg.com/736x/32/ea/9d/32ea9df5ccbd1151f93e06e84c0bbdc4.jpg"
+  },
+  {
+    "id": 13,
+    "style": "Streetwear",
+    "label": "Black",
+    "judul": "Black Street",
+    "deskripsi": "Dominasi warna hitam.",
+    "gambar": "https://i.pinimg.com/736x/3b/a1/4b/3ba14bd3db99906257f26a6829b90979.jpg"
+  },
+  {
+    "id": 14,
+    "style": "Streetwear",
+    "label": "White",
+    "judul": "White Street",
+    "deskripsi": "Streetwear dengan warna putih.",
+    "gambar": "https://i.pinimg.com/736x/13/18/42/131842d786001d3f21096088297e8df3.jpg"
+  },
+  {
+    "id": 15,
+    "style": "Streetwear",
+    "label": "Graphic",
+    "judul": "Graphic Street",
+    "deskripsi": "Kaos graphic untuk tampilan urban.",
+    "gambar": "https://i.pinimg.com/736x/83/10/c4/8310c4792fd98167cc9f1b4f732b6a4b.jpg"
+  },
+  {
+    "id": 16,
+    "style": "Streetwear",
+    "label": "Skate",
+    "judul": "Skate Street",
+    "deskripsi": "Gaya terinspirasi skateboard.",
+    "gambar": "https://i.pinimg.com/1200x/66/0c/c2/660cc2dbe92a3a558e5aad6b7b237f65.jpg"
+  },
+  {
+    "id": 17,
+    "style": "Streetwear",
+    "label": "Urban",
+    "judul": "Urban Look",
+    "deskripsi": "Look modern ala perkotaan.",
+    "gambar": "https://i.pinimg.com/736x/32/35/41/32354146834ee71c1c15f36855adf982.jpg"
+  },
+  {
+    "id": 18,
+    "style": "Streetwear",
+    "label": "Relaxed",
+    "judul": "Relaxed Street",
+    "deskripsi": "Potongan santai dan nyaman.",
+    "gambar": "https://i.pinimg.com/736x/18/72/42/18724245987a7ef6c23958be870e8795.jpg"
+  },
+  {
+    "id": 19,
+    "style": "Streetwear",
+    "label": "Sport",
+    "judul": "Sport Street",
+    "deskripsi": "Streetwear dengan nuansa sporty.",
+    "gambar": "https://i.pinimg.com/736x/ea/09/c0/ea09c0aab622f720bc875b4af564ae90.jpg"
+  },
+  {
+    "id": 20,
+    "style": "Streetwear",
+    "label": "Bold",
+    "judul": "Bold Urban",
+    "deskripsi": "Tampilan urban yang berani.",
+    "gambar": "https://i.pinimg.com/736x/d0/c0/29/d0c029567f1ec5159750acd0d22496ff.jpg"
+  },
+  {
+    "id": 21,
+    "style": "Streetwear",
+    "label": "Casual",
+    "judul": "Street Casual",
+    "deskripsi": "Casual dengan sentuhan streetwear.",
+    "gambar": "https://i.pinimg.com/736x/00/7d/89/007d89b86f156a539e51a1ac660b99d6.jpg"
+  },
+  {
+    "id": 22,
+    "style": "Streetwear",
+    "label": "Baggy",
+    "judul": "Baggy Street",
+    "deskripsi": "Celana baggy khas streetwear.",
+    "gambar": "https://i.pinimg.com/1200x/21/97/96/219796be721806421ec22332e0998cb9.jpg"
+  },
+  {
+    "id": 23,
+    "style": "Streetwear",
+    "label": "Sneaker",
+    "judul": "Sneaker Street",
+    "deskripsi": "Look dengan sneakers sebagai fokus.",
+    "gambar": "https://i.pinimg.com/736x/4d/f5/ef/4df5eff01a0d857803208294518c4d86.jpg"
+  },
+  {
+    "id": 24,
+    "style": "Streetwear",
+    "label": "Jacket",
+    "judul": "Street Jacket",
+    "deskripsi": "Jaket sebagai bagian utama outfit.",
+    "gambar": "https://i.pinimg.com/1200x/36/47/9d/36479da72322fe47bf61ced5b154d708.jpg"
+  },
+  {
+    "id": 25,
+    "style": "Streetwear",
+    "label": "Minimal",
+    "judul": "Minimal Street",
+    "deskripsi": "Streetwear dengan warna sederhana.",
+    "gambar": "https://i.pinimg.com/736x/0f/60/47/0f6047638699422c0b14f2185e9b6852.jpg"
+  },
+  {
+    "id": 26,
+    "style": "Streetwear",
+    "label": "Vintage",
+    "judul": "Vintage Street",
+    "deskripsi": "Perpaduan vintage dan streetwear.",
+    "gambar": "https://i.pinimg.com/736x/d6/55/8e/d6558e335d415a7cb9d7e94da5c7556a.jpg"
+  },
+  {
+    "id": 27,
+    "style": "Streetwear",
+    "label": "Layered",
+    "judul": "Layered Urban",
+    "deskripsi": "Layering dengan nuansa perkotaan.",
+    "gambar": "https://i.pinimg.com/736x/f6/58/15/f65815f3cfe1411ca5514779fe0a5e32.jpg"
+  },
+  {
+    "id": 28,
+    "style": "Streetwear",
+    "label": "Graphic",
+    "judul": "Graphic Urban",
+    "deskripsi": "Graphic outfit untuk gaya kasual.",
+    "gambar": "https://i.pinimg.com/736x/be/2c/c4/be2cc456529c9cb41bd498f01aa03bc9.jpg"
+  },
+  {
+    "id": 29,
+    "style": "Streetwear",
+    "label": "Dark",
+    "judul": "Dark Urban",
+    "deskripsi": "Gaya urban dengan warna gelap.",
+    "gambar": "https://i.pinimg.com/736x/ab/ae/cc/abaecc5de095fe53d8132d760e62b480.jpg"
+  },
+  {
+    "id": 30,
+    "style": "Streetwear",
+    "label": "Modern",
+    "judul": "Modern Street",
+    "deskripsi": "Streetwear modern dan stylish.",
+    "gambar": "https://i.pinimg.com/736x/2a/d6/a3/2ad6a3fd99c48fedc1737df3629342fd.jpg"
+  },
+  {
+    "id": 31,
     "style": "Vintage",
     "label": "Vintage",
     "judul": "Vintage Mood",
@@ -64,7 +248,7 @@
     "gambar": "https://i.pinimg.com/736x/26/9e/a6/269ea691ae0e213940af9514cda30307.jpg"
   },
   {
-    "id": 9,
+    "id": 32,
     "style": "Vintage",
     "label": "Classic",
     "judul": "Classic Outfit",
@@ -72,7 +256,7 @@
     "gambar": "https://i.pinimg.com/736x/dd/3d/b6/dd3db6c97debb5b0fb93b9a348a6f7cf.jpg"
   },
   {
-    "id": 10,
+    "id": 33,
     "style": "Vintage",
     "label": "Vintage",
     "judul": "Vintage Dress",
@@ -80,7 +264,7 @@
     "gambar": "https://i.pinimg.com/736x/b1/e1/7d/b1e17da30d236e31524a26ae9ff589fd.jpg"
   },
   {
-    "id": 11,
+    "id": 34,
     "style": "Vintage",
     "label": "Old",
     "judul": "Old School",
@@ -88,7 +272,143 @@
     "gambar": "https://i.pinimg.com/1200x/a0/c9/c7/a0c9c7def5b456ccde00c794cb57fd79.jpg"
   },
   {
-    "id": 12,
+    "id": 35,
+    "style": "Vintage",
+    "label": "Retro",
+    "judul": "Vintage Retro",
+    "deskripsi": "Gaya retro dengan nuansa vintage.",
+    "gambar": "https://i.pinimg.com/736x/e3/cb/66/e3cb66326127541dae8111f196eb7e17.jpg"
+  },
+  {
+    "id": 36,
+    "style": "Vintage",
+    "label": "Classic",
+    "judul": "Classic Vintage",
+    "deskripsi": "Outfit klasik yang elegan.",
+    "gambar": "https://i.pinimg.com/1200x/40/6c/9c/406c9c1f41adcbe5ab13cab18180a594.jpg"
+  },
+  {
+    "id": 37,
+    "style": "Vintage",
+    "label": "Brown",
+    "judul": "Brown Vintage",
+    "deskripsi": "Palet coklat khas vintage.",
+    "gambar": "https://i.pinimg.com/736x/18/3b/23/183b234fb8ad41bd0e5a3a1015cd16de.jpg"
+  },
+  {
+    "id": 38,
+    "style": "Vintage",
+    "label": "Denim",
+    "judul": "Vintage Denim",
+    "deskripsi": "Denim dengan nuansa lawas.",
+    "gambar": "https://i.pinimg.com/1200x/1e/fa/a9/1efaa91e6aeb62bbebe01df2343145df.jpg"
+  },
+  {
+    "id": 39,
+    "style": "Vintage",
+    "label": "70s",
+    "judul": "Vintage 70s",
+    "deskripsi": "Fashion khas tahun 70-an.",
+    "gambar": "https://i.pinimg.com/1200x/57/e6/af/57e6af89c4e368cb5fa44f53bb7641b2.jpg"
+  },
+  {
+    "id": 40,
+    "style": "Vintage",
+    "label": "80s",
+    "judul": "Vintage 80s",
+    "deskripsi": "Gaya klasik tahun 80-an.",
+    "gambar": "https://i.pinimg.com/736x/a2/d3/69/a2d3690d673cd201dc45c9e3a1d9de98.jpg"
+  },
+  {
+    "id": 41,
+    "style": "Vintage",
+    "label": "90s",
+    "judul": "Vintage 90s",
+    "deskripsi": "Outfit khas tahun 90-an.",
+    "gambar": "https://i.pinimg.com/736x/b7/b2/e3/b7b2e3fc4e1f8e9a6181cb18adc36c78.jpg"
+  },
+  {
+    "id": 42,
+    "style": "Vintage",
+    "label": "Retro",
+    "judul": "Retro Vintage",
+    "deskripsi": "Perpaduan retro dan vintage.",
+    "gambar": "https://i.pinimg.com/736x/33/ec/20/33ec2081cf103ba5764f197d71ff19ad.jpg"
+  },
+  {
+    "id": 43,
+    "style": "Vintage",
+    "label": "Classic",
+    "judul": "Classic Brown",
+    "deskripsi": "Warna earth tone klasik.",
+    "gambar": "https://i.pinimg.com/736x/0d/b9/e2/0db9e27c27e14655dc8af1cc0bfa061a.jpg"
+  },
+  {
+    "id": 44,
+    "style": "Vintage",
+    "label": "Old",
+    "judul": "Old Fashion",
+    "deskripsi": "Fashion bernuansa masa lalu.",
+    "gambar": "https://i.pinimg.com/736x/91/c2/22/91c2227f1b698f8915444563d2dd5aa8.jpg"
+  },
+  {
+    "id": 45,
+    "style": "Vintage",
+    "label": "Elegant",
+    "judul": "Vintage Elegant",
+    "deskripsi": "Vintage dengan kesan elegan.",
+    "gambar": "https://i.pinimg.com/736x/68/f5/0c/68f50c91eb8b3384f9a9689f98345684.jpg"
+  },
+  {
+    "id": 46,
+    "style": "Vintage",
+    "label": "Dress",
+    "judul": "Vintage Dress Look",
+    "deskripsi": "Dress klasik untuk tampilan feminin.",
+    "gambar": "https://i.pinimg.com/1200x/1a/cc/46/1acc4616acfdff5f44a672bc18183723.jpg"
+  },
+  {
+    "id": 47,
+    "style": "Vintage",
+    "label": "Retro",
+    "judul": "Retro Dress",
+    "deskripsi": "Dress dengan sentuhan retro.",
+    "gambar": "https://i.pinimg.com/1200x/f6/8b/08/f68b0829a46391c948df1961c1cd1ae4.jpg"
+  },
+  {
+    "id": 48,
+    "style": "Vintage",
+    "label": "Casual",
+    "judul": "Vintage Casual",
+    "deskripsi": "Vintage yang cocok untuk sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/c5/2f/01/c52f017b604d4de51225dc5dbfe77ca6.jpg"
+  },
+  {
+    "id": 49,
+    "style": "Vintage",
+    "label": "Cozy",
+    "judul": "Cozy Vintage",
+    "deskripsi": "Look vintage yang nyaman.",
+    "gambar": "https://i.pinimg.com/736x/b0/75/29/b075294dd67e1b2cf254960b149ea844.jpg"
+  },
+  {
+    "id": 50,
+    "style": "Vintage",
+    "label": "Neutral",
+    "judul": "Neutral Vintage",
+    "deskripsi": "Vintage dengan warna netral.",
+    "gambar": "https://i.pinimg.com/1200x/df/64/20/df64203f8111813de15758a2fdef6445.jpg"
+  },
+  {
+    "id": 51,
+    "style": "Vintage",
+    "label": "Skirt",
+    "judul": "Vintage Skirt",
+    "deskripsi": "Rok klasik dengan nuansa vintage.",
+    "gambar": "https://i.pinimg.com/736x/90/4a/4d/904a4dee205106a6c25fa096b36f924d.jpg"
+  },
+  {
+    "id": 61,
     "style": "Y2K",
     "label": "Y2K",
     "judul": "Y2K Girl",
@@ -96,31 +416,119 @@
     "gambar": "https://i.pinimg.com/736x/04/b9/c5/04b9c53b32cbc33ba229f3fd6cbe3f37.jpg"
   },
   {
-    "id": 13,
+    "id": 62,
     "style": "Y2K",
     "label": "Y2K",
     "judul": "Y2K Boy",
     "deskripsi": "Style Y2K look santai.",
-    "gambar": "https://i.pinimg.com/736x/52/37/1f/52371ff8ad03d0b80573a4e763e2e099.jpg"
+    "gambar": "https://i.pinimg.com/736x/01/65/eb/0165ebc6294d2f2bd11168dcb5f22f66.jpg"
   },
   {
-    "id": 14,
+    "id": 63,
     "style": "Y2K",
-    "label": "Y2K",
+    "label": "Denim",
     "judul": "Y2K Denim",
     "deskripsi": "Denim dengan nuansa fashion tahun 2000-an.",
     "gambar": "https://i.pinimg.com/736x/31/2b/44/312b447eb1774761bea52865c2e2b7d6.jpg"
   },
   {
-    "id": 15,
+    "id": 64,
     "style": "Y2K",
-    "label": "Y2K",
+    "label": "Street",
     "judul": "Y2K Street",
     "deskripsi": "Gaya dengan sentuhan Y2K.",
     "gambar": "https://i.pinimg.com/1200x/20/08/4f/20084f6218d1fe6c36a0263febf9d513.jpg"
   },
   {
-    "id": 16,
+    "id": 65,
+    "style": "Y2K",
+    "label": "Pink",
+    "judul": "Pink Y2K",
+    "deskripsi": "Y2K dengan warna pink.",
+    "gambar": "https://i.pinimg.com/736x/30/76/7b/30767b1bdfcfabfab62244d773e69e81.jpg"
+  },
+  {
+    "id": 66,
+    "style": "Y2K",
+    "label": "Colorful",
+    "judul": "Colorful Y2K",
+    "deskripsi": "Warna cerah khas Y2K.",
+    "gambar": "https://i.pinimg.com/1200x/e4/f3/91/e4f391c5f8302db605cf255717ced514.jpg"
+  },
+  {
+    "id": 67,
+    "style": "Y2K",
+    "label": "Denim",
+    "judul": "Double Denim",
+    "deskripsi": "Perpaduan denim khas era 2000.",
+    "gambar": "https://i.pinimg.com/736x/ff/68/b2/ff68b251b8d278ef0d0a642b44b476f2.jpg"
+  },
+  {
+    "id": 68,
+    "style": "Y2K",
+    "label": "Baby Tee",
+    "judul": "Baby Tee Y2K",
+    "deskripsi": "Baby tee dengan gaya Y2K.",
+    "gambar": "https://i.pinimg.com/736x/4f/0f/12/4f0f127ed595bd4e854cb735396cf4b8.jpg"
+  },
+  {
+    "id": 69,
+    "style": "Y2K",
+    "label": "Cargo",
+    "judul": "Y2K Cargo",
+    "deskripsi": "Cargo pants dengan nuansa Y2K.",
+    "gambar": "https://i.pinimg.com/736x/de/e7/84/dee78481bb91c4656dc532ea1cfdef1a.jpg"
+  },
+  {
+    "id": 70,
+    "style": "Y2K",
+    "label": "Mini",
+    "judul": "Y2K Mini",
+    "deskripsi": "Mini skirt khas Y2K.",
+    "gambar": "https://i.pinimg.com/736x/d5/49/ab/d549ab4f46b48df7bfdb9b2df6d4858b.jpg"
+  },
+  {
+    "id": 71,
+    "style": "Y2K",
+    "label": "Butterfly",
+    "judul": "Butterfly Y2K",
+    "deskripsi": "Motif butterfly yang ikonik.",
+    "gambar": "https://i.pinimg.com/736x/ec/27/fa/ec27faeec0bb68c962ea929eb429849f.jpg"
+  },
+  {
+    "id": 72,
+    "style": "Y2K",
+    "label": "Glitter",
+    "judul": "Glitter Y2K",
+    "deskripsi": "Detail glitter untuk look Y2K.",
+    "gambar": "https://i.pinimg.com/736x/dd/fc/d0/ddfcd0caab9dc599d95a0bd194a83768.jpg"
+  },
+  {
+    "id": 73,
+    "style": "Y2K",
+    "label": "Sporty",
+    "judul": "Sporty Y2K",
+    "deskripsi": "Y2K dengan sentuhan sporty.",
+    "gambar": "https://i.pinimg.com/736x/0a/19/7e/0a197ef01da6c24746724431f093e0bc.jpg"
+  },
+  {
+    "id": 74,
+    "style": "Y2K",
+    "label": "Retro",
+    "judul": "Retro Y2K",
+    "deskripsi": "Perpaduan retro dan Y2K.",
+    "gambar": "https://i.pinimg.com/736x/08/2a/59/082a598191908e396380082a1090b81e.jpg"
+  },
+  {
+    "id": 75,
+    "style": "Y2K",
+    "label": "Black",
+    "judul": "Black Y2K",
+    "deskripsi": "Y2K dengan dominasi hitam.",
+    "gambar": "https://i.pinimg.com/736x/d9/0f/84/d90f8489f0b413078437a71398c52980.jpg"
+  },
+  {
+    "id": 91,
     "style": "Retro",
     "label": "Retro",
     "judul": "Retro Classic",
@@ -128,7 +536,7 @@
     "gambar": "https://i.pinimg.com/736x/4c/ed/de/4cedde5d6d9a52964f2e6be044d300bb.jpg"
   },
   {
-    "id": 17,
+    "id": 92,
     "style": "Retro",
     "label": "70s",
     "judul": "70s Retro",
@@ -136,7 +544,7 @@
     "gambar": "https://i.pinimg.com/1200x/cc/ff/69/ccff690c9dbdca105e0a08fc658ad08d.jpg"
   },
   {
-    "id": 18,
+    "id": 93,
     "style": "Retro",
     "label": "80s",
     "judul": "80s Retro",
@@ -144,7 +552,7 @@
     "gambar": "https://i.pinimg.com/1200x/a9/0a/75/a90a75f229e6e2f98f199a9cfa78ca70.jpg"
   },
   {
-    "id": 19,
+    "id": 94,
     "style": "Retro",
     "label": "90s",
     "judul": "90s Retro",
@@ -152,7 +560,135 @@
     "gambar": "https://i.pinimg.com/1200x/c0/4b/eb/c04beb8a9a617260fd3318289ed8e325.jpg"
   },
   {
-    "id": 20,
+    "id": 95,
+    "style": "Retro",
+    "label": "70s",
+    "judul": "Retro 70s 2",
+    "deskripsi": "Nuansa fashion tahun 70-an.",
+    "gambar": "https://i.pinimg.com/736x/7a/3e/38/7a3e3871f805ae0fc7d3152f42462322.jpg"
+  },
+  {
+    "id": 96,
+    "style": "Retro",
+    "label": "70s",
+    "judul": "Retro 70s 3",
+    "deskripsi": "Look colorful khas 70-an.",
+    "gambar": "https://i.pinimg.com/736x/42/89/ed/4289ed74d3d30bd9f464853ebeba64f6.jpg"
+  },
+  {
+    "id": 97,
+    "style": "Retro",
+    "label": "80s",
+    "judul": "Retro 80s 2",
+    "deskripsi": "Gaya bold khas 80-an.",
+    "gambar": "https://i.pinimg.com/736x/96/54/90/965490fe79efc9ba172e56adbc37ff42.jpg"
+  },
+  {
+    "id": 98,
+    "style": "Retro",
+    "label": "80s",
+    "judul": "Retro 80s 3",
+    "deskripsi": "Warna dan siluet era 80-an.",
+    "gambar": "https://i.pinimg.com/736x/5a/6f/fb/5a6ffbaabe9f55ae9ff7d33f7b3c90da.jpg"
+  },
+  {
+    "id": 99,
+    "style": "Retro",
+    "label": "90s",
+    "judul": "Retro 90s 2",
+    "deskripsi": "Gaya casual era 90-an.",
+    "gambar": "https://i.pinimg.com/736x/0e/2e/6e/0e2e6e41ba4d2780dbd58d0bb63dc17d.jpg"
+  },
+  {
+    "id": 100,
+    "style": "Retro",
+    "label": "90s",
+    "judul": "Retro 90s 3",
+    "deskripsi": "Outfit santai tahun 90-an.",
+    "gambar": "https://i.pinimg.com/736x/df/d2/c6/dfd2c657d6f826c0aa6c1fedd45017de.jpg"
+  },
+  {
+    "id": 101,
+    "style": "Retro",
+    "label": "Colorful",
+    "judul": "Colorful Retro",
+    "deskripsi": "Warna cerah khas retro.",
+    "gambar": "https://i.pinimg.com/1200x/0c/9e/88/0c9e8839ade8460cb112982a6a9c930f.jpg"
+  },
+  {
+    "id": 102,
+    "style": "Retro",
+    "label": "Classic",
+    "judul": "Classic Retro",
+    "deskripsi": "Gaya klasik dengan sentuhan retro.",
+    "gambar": "https://i.pinimg.com/736x/95/0f/29/950f29b1fc08223a5c42a945f89ab4ef.jpg"
+  },
+  {
+    "id": 103,
+    "style": "Retro",
+    "label": "Denim",
+    "judul": "Retro Denim",
+    "deskripsi": "Denim bergaya retro.",
+    "gambar": "https://i.pinimg.com/736x/e3/14/bc/e314bc261b44188a30a60563b371f2e6.jpg"
+  },
+  {
+    "id": 104,
+    "style": "Retro",
+    "label": "Sport",
+    "judul": "Retro Sport",
+    "deskripsi": "Sporty dengan sentuhan retro.",
+    "gambar": "https://i.pinimg.com/736x/6a/d3/a2/6ad3a2dd45f000a2c4fe58338626f788.jpg"
+  },
+  {
+    "id": 105,
+    "style": "Retro",
+    "label": "Casual",
+    "judul": "Retro Casual",
+    "deskripsi": "Casual dengan nuansa retro.",
+    "gambar": "https://i.pinimg.com/736x/59/c8/f8/59c8f8e90c4eba5cf60c3f670aa40a03.jpg"
+  },
+  {
+    "id": 106,
+    "style": "Retro",
+    "label": "Floral",
+    "judul": "Retro Floral",
+    "deskripsi": "Motif floral khas retro.",
+    "gambar": "https://i.pinimg.com/736x/b3/f8/30/b3f8300e8007cdf55c2c630530bed36f.jpg"
+  },
+  {
+    "id": 107,
+    "style": "Retro",
+    "label": "Brown",
+    "judul": "Brown Retro",
+    "deskripsi": "Palet coklat bergaya retro.",
+    "gambar": "https://i.pinimg.com/736x/da/cc/f3/daccf3ab95b20f3e9334aadb8beb8c3f.jpg"
+  },
+  {
+    "id": 108,
+    "style": "Retro",
+    "label": "Orange",
+    "judul": "Orange Retro",
+    "deskripsi": "Warna orange khas retro.",
+    "gambar": "https://i.pinimg.com/736x/3b/49/34/3b49347d4dc042372300ac04e8e947ab.jpg"
+  },
+  {
+    "id": 109,
+    "style": "Retro",
+    "label": "Pattern",
+    "judul": "Retro Pattern",
+    "deskripsi": "Motif unik ala retro.",
+    "gambar": "https://i.pinimg.com/736x/5c/f6/32/5cf6325984ea4471ce327206c5f66fdb.jpg"
+  },
+  {
+    "id": 110,
+    "style": "Retro",
+    "label": "Vintage",
+    "judul": "Vintage Retro",
+    "deskripsi": "Perpaduan vintage dan retro.",
+    "gambar": "https://i.pinimg.com/736x/24/7c/57/247c574df7deda47254ee75454bb54cf.jpg"
+  },
+  {
+    "id": 121,
     "style": "Grunge",
     "label": "Grunge",
     "judul": "Grunge Outfit",
@@ -160,7 +696,7 @@
     "gambar": "https://i.pinimg.com/736x/4a/3c/60/4a3c600ddb1a0b7bf1f159c85e832295.jpg"
   },
   {
-    "id": 21,
+    "id": 122,
     "style": "Grunge",
     "label": "Dark",
     "judul": "Dark Mood",
@@ -168,7 +704,7 @@
     "gambar": "https://i.pinimg.com/736x/42/ce/c5/42cec52039c3a519022f4dfadbdcbd1b.jpg"
   },
   {
-    "id": 22,
+    "id": 123,
     "style": "Grunge",
     "label": "90s",
     "judul": "90s Grunge",
@@ -176,7 +712,7 @@
     "gambar": "https://i.pinimg.com/736x/f8/26/02/f826025fe49ec30ec807a17e9bce2324.jpg"
   },
   {
-    "id": 23,
+    "id": 124,
     "style": "Grunge",
     "label": "All",
     "judul": "All Black",
@@ -184,7 +720,7 @@
     "gambar": "https://i.pinimg.com/1200x/e9/2d/c2/e92dc23f8b4501663e93df6391fcbc7a.jpg"
   },
   {
-    "id": 24,
+    "id": 125,
     "style": "Grunge",
     "label": "Rock",
     "judul": "Rock Casual",
@@ -192,7 +728,7 @@
     "gambar": "https://i.pinimg.com/736x/26/b4/b2/26b4b2077685d88b0e6f9e09561f540e.jpg"
   },
   {
-    "id": 25,
+    "id": 126,
     "style": "Grunge",
     "label": "Edgy",
     "judul": "Edgy Grunge",
@@ -200,7 +736,151 @@
     "gambar": "https://i.pinimg.com/736x/58/75/35/587535e23e9c07dbd2a2957ff585e4fc.jpg"
   },
   {
-    "id": 26,
+    "id": 127,
+    "style": "Grunge",
+    "label": "Dark",
+    "judul": "Dark Grunge 2",
+    "deskripsi": "Outfit grunge bernuansa gelap.",
+    "gambar": "https://i.pinimg.com/736x/ea/38/00/ea3800c83e857b036537fb0a72a0ee77.jpg"
+  },
+  {
+    "id": 128,
+    "style": "Grunge",
+    "label": "Rock",
+    "judul": "Rock Grunge",
+    "deskripsi": "Grunge dengan karakter rock.",
+    "gambar": "https://i.pinimg.com/736x/3f/81/e4/3f81e46ea2ded1ea55894fae59d2a424.jpg"
+  },
+  {
+    "id": 129,
+    "style": "Grunge",
+    "label": "Denim",
+    "judul": "Denim Grunge",
+    "deskripsi": "Denim dengan gaya grunge.",
+    "gambar": "https://i.pinimg.com/736x/dc/d2/e5/dcd2e582162f8c1433742300d8813136.jpg"
+  },
+  {
+    "id": 130,
+    "style": "Grunge",
+    "label": "Leather",
+    "judul": "Leather Grunge",
+    "deskripsi": "Leather dengan kesan edgy.",
+    "gambar": "https://i.pinimg.com/1200x/62/6a/b6/626ab6c273239b503cd73a0bf06bc347.jpg"
+  },
+  {
+    "id": 131,
+    "style": "Grunge",
+    "label": "Oversized",
+    "judul": "Oversized Grunge",
+    "deskripsi": "Potongan oversized yang santai.",
+    "gambar": "https://i.pinimg.com/736x/4c/b0/5e/4cb05efdd999d7230aeddd4d98a1f885.jpg"
+  },
+  {
+    "id": 132,
+    "style": "Grunge",
+    "label": "Band",
+    "judul": "Band Tee Grunge",
+    "deskripsi": "Band tee khas grunge.",
+    "gambar": "https://i.pinimg.com/736x/30/5d/93/305d9317b34384f8d8a060e342fcb035.jpg"
+  },
+  {
+    "id": 133,
+    "style": "Grunge",
+    "label": "Plaid",
+    "judul": "Plaid Grunge",
+    "deskripsi": "Kemeja plaid khas grunge.",
+    "gambar": "https://i.pinimg.com/736x/bc/9a/5f/bc9a5f17ea8871bf43aa6405bab787d7.jpg"
+  },
+  {
+    "id": 134,
+    "style": "Grunge",
+    "label": "Black",
+    "judul": "Black Grunge",
+    "deskripsi": "Dominasi hitam dengan gaya edgy.",
+    "gambar": "https://i.pinimg.com/736x/fd/f5/86/fdf58683777af80a344dbcb20ae1770f.jpg"
+  },
+  {
+    "id": 135,
+    "style": "Grunge",
+    "label": "90s",
+    "judul": "Classic Grunge",
+    "deskripsi": "Inspirasi grunge tahun 90-an.",
+    "gambar": "https://i.pinimg.com/736x/7f/53/82/7f53828bf209959a1a37603d1cc7e8f5.jpg"
+  },
+  {
+    "id": 136,
+    "style": "Grunge",
+    "label": "Punk",
+    "judul": "Punk Grunge",
+    "deskripsi": "Perpaduan punk dan grunge.",
+    "gambar": "https://i.pinimg.com/736x/7c/a4/40/7ca440e40bfb6cf07caf1e9ccdf044aa.jpg"
+  },
+  {
+    "id": 137,
+    "style": "Grunge",
+    "label": "Casual",
+    "judul": "Casual Grunge",
+    "deskripsi": "Grunge yang cocok untuk sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/aa/58/eb/aa58ebfcdcc56b3f5eeb328b080f2015.jpg"
+  },
+  {
+    "id": 138,
+    "style": "Grunge",
+    "label": "Street",
+    "judul": "Street Grunge",
+    "deskripsi": "Grunge dengan nuansa jalanan.",
+    "gambar": "https://i.pinimg.com/736x/69/2f/d6/692fd627b16e1f62ae69e9ca3d43c4b4.jpg"
+  },
+  {
+    "id": 139,
+    "style": "Grunge",
+    "label": "Layer",
+    "judul": "Layered Grunge",
+    "deskripsi": "Layering khas grunge.",
+    "gambar": "https://i.pinimg.com/736x/13/fb/2b/13fb2bfb82105cad0b009940eebe4a46.jpg"
+  },
+  {
+    "id": 140,
+    "style": "Grunge",
+    "label": "Baggy",
+    "judul": "Baggy Grunge",
+    "deskripsi": "Celana baggy untuk look grunge.",
+    "gambar": "https://i.pinimg.com/736x/a5/0d/a6/a50da6ac71a19afbfbb2116190ffe9ae.jpg"
+  },
+  {
+    "id": 141,
+    "style": "Grunge",
+    "label": "Distressed",
+    "judul": "Distressed Grunge",
+    "deskripsi": "Pakaian distressed yang edgy.",
+    "gambar": "https://i.pinimg.com/736x/90/03/eb/9003ebb3b15ebb698654748edd02001d.jpg"
+  },
+  {
+    "id": 142,
+    "style": "Grunge",
+    "label": "Dark",
+    "judul": "Dark Rock",
+    "deskripsi": "Rock dan grunge serba gelap.",
+    "gambar": "https://i.pinimg.com/1200x/31/2c/04/312c040b0c3f4424aacb0900dbca34d1.jpg"
+  },
+  {
+    "id": 143,
+    "style": "Grunge",
+    "label": "Vintage",
+    "judul": "Vintage Grunge",
+    "deskripsi": "Vintage dengan sentuhan grunge.",
+    "gambar": "https://i.pinimg.com/736x/b1/3f/d9/b13fd9c83b16062837a21e61d3a49ddd.jpg"
+  },
+  {
+    "id": 144,
+    "style": "Grunge",
+    "label": "Metal",
+    "judul": "Metal Grunge",
+    "deskripsi": "Gaya metal dengan elemen grunge.",
+    "gambar": "https://i.pinimg.com/736x/e2/76/5d/e2765d2da5c3a27115f16de4569770a3.jpg"
+  },
+  {
+    "id": 151,
     "style": "Casual",
     "label": "Casual",
     "judul": "Casual Style",
@@ -208,7 +888,7 @@
     "gambar": "https://i.pinimg.com/736x/33/ba/1b/33ba1b849d619a239d7b03353280925a.jpg"
   },
   {
-    "id": 27,
+    "id": 152,
     "style": "Casual",
     "label": "Daily",
     "judul": "Daily Cute",
@@ -216,7 +896,7 @@
     "gambar": "https://i.pinimg.com/736x/bd/0f/98/bd0f98e17f12cc1cc6179cbe37f2fefe.jpg"
   },
   {
-    "id": 28,
+    "id": 153,
     "style": "Casual",
     "label": "Denim",
     "judul": "Denim Casual",
@@ -224,7 +904,7 @@
     "gambar": "https://i.pinimg.com/736x/22/2d/36/222d369cad986369648ce90aca66db1a.jpg"
   },
   {
-    "id": 29,
+    "id": 154,
     "style": "Casual",
     "label": "Cozy",
     "judul": "Cozy Casual",
@@ -232,7 +912,7 @@
     "gambar": "https://i.pinimg.com/736x/db/53/b6/db53b646619adef2435c2691fa01be2e.jpg"
   },
   {
-    "id": 30,
+    "id": 155,
     "style": "Casual",
     "label": "Simple",
     "judul": "Simple",
@@ -240,7 +920,7 @@
     "gambar": "https://i.pinimg.com/736x/68/f4/14/68f4147a8b9723e0239848cc75a8c2e4.jpg"
   },
   {
-    "id": 31,
+    "id": 156,
     "style": "Casual",
     "label": "Marun",
     "judul": "Marun Casual",
@@ -248,7 +928,7 @@
     "gambar": "https://i.pinimg.com/1200x/27/17/b9/2717b9d3d3a7a591ae76346200c20864.jpg"
   },
   {
-    "id": 32,
+    "id": 157,
     "style": "Casual",
     "label": "Coklat",
     "judul": "Coklat Casual",
@@ -256,7 +936,7 @@
     "gambar": "https://i.pinimg.com/736x/0b/70/f8/0b70f8d301354fb96b8194599e61a156.jpg"
   },
   {
-    "id": 33,
+    "id": 158,
     "style": "Casual",
     "label": "Black",
     "judul": "Black Casual",
@@ -264,7 +944,7 @@
     "gambar": "https://i.pinimg.com/736x/2d/ce/c9/2dcec9471222d07df77c9fcb28f86ffe.jpg"
   },
   {
-    "id": 34,
+    "id": 159,
     "style": "Casual",
     "label": "Weekend",
     "judul": "Weekend Casual",
@@ -272,11 +952,1635 @@
     "gambar": "https://i.pinimg.com/736x/4d/95/1f/4d951fc0041d4e3506db7b26efa4c80d.jpg"
   },
   {
-    "id": 35,
+    "id": 160,
     "style": "Casual",
     "label": "Outfit",
     "judul": "Outfit Casual",
     "deskripsi": "Karena outfit nyaman juga bisa tetap keren.",
     "gambar": "https://i.pinimg.com/736x/b0/81/ed/b081edbc41ba5cb92bd44ee5feefdfad.jpg"
+  },
+  {
+    "id": 161,
+    "style": "Casual",
+    "label": "White",
+    "judul": "White Casual",
+    "deskripsi": "Casual dengan warna putih.",
+    "gambar": "https://i.pinimg.com/1200x/20/ab/d1/20abd1c29e5935c68b3d081e565b16bd.jpg"
+  },
+  {
+    "id": 162,
+    "style": "Casual",
+    "label": "Black",
+    "judul": "Black Daily",
+    "deskripsi": "Outfit hitam untuk aktivitas sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/eb/eb/ac/ebebac877fc3357bdcc9b04efea3a81e.jpg"
+  },
+  {
+    "id": 163,
+    "style": "Casual",
+    "label": "Oversized",
+    "judul": "Oversized Casual",
+    "deskripsi": "Potongan oversized yang nyaman.",
+    "gambar": "https://i.pinimg.com/736x/b8/77/b2/b877b2bf768394b4ad0e97e4ebf362b7.jpg"
+  },
+  {
+    "id": 164,
+    "style": "Casual",
+    "label": "Shirt",
+    "judul": "Casual Shirt",
+    "deskripsi": "Kemeja santai untuk daily outfit.",
+    "gambar": "https://i.pinimg.com/736x/a3/25/59/a325591f68965ae34650499883181f04.jpg"
+  },
+  {
+    "id": 165,
+    "style": "Casual",
+    "label": "T-Shirt",
+    "judul": "Basic T-Shirt",
+    "deskripsi": "T-shirt sederhana untuk sehari-hari.",
+    "gambar": "https://i.pinimg.com/1200x/3f/69/81/3f6981eb6784b6ec3099e28af8d71e53.jpg"
+  },
+  {
+    "id": 166,
+    "style": "Casual",
+    "label": "Jeans",
+    "judul": "Casual Jeans",
+    "deskripsi": "Jeans untuk gaya santai.",
+    "gambar": "https://i.pinimg.com/736x/45/3c/d4/453cd40be686e92a166cd797aeb55d0f.jpg"
+  },
+  {
+    "id": 167,
+    "style": "Casual",
+    "label": "Sneaker",
+    "judul": "Sneaker Casual",
+    "deskripsi": "Casual dengan sneakers.",
+    "gambar": "https://i.pinimg.com/736x/2d/32/40/2d3240f5dc9627b091c21f87fa481564.jpg"
+  },
+  {
+    "id": 168,
+    "style": "Casual",
+    "label": "Summer",
+    "judul": "Summer Casual",
+    "deskripsi": "Outfit santai untuk cuaca hangat.",
+    "gambar": "https://i.pinimg.com/1200x/81/8c/4b/818c4b4f51012cb4f2052157173b9101.jpg"
+  },
+  {
+    "id": 169,
+    "style": "Casual",
+    "label": "Hangout",
+    "judul": "Hangout Casual",
+    "deskripsi": "Look untuk hangout.",
+    "gambar": "https://i.pinimg.com/736x/27/98/08/279808da3552ab6773589546b93d7b8b.jpg"
+  },
+  {
+    "id": 170,
+    "style": "Casual",
+    "label": "Simple",
+    "judul": "Simple Daily",
+    "deskripsi": "Look sederhana dan nyaman.",
+    "gambar": "https://i.pinimg.com/736x/cf/3a/70/cf3a70639881f0417d1f70486260b388.jpg"
+  },
+  {
+    "id": 171,
+    "style": "Casual",
+    "label": "Earth",
+    "judul": "Earth Casual",
+    "deskripsi": "Casual dengan earth tone.",
+    "gambar": "https://i.pinimg.com/736x/d6/7c/94/d67c944858c5efd580b4145c96c230bc.jpg"
+  },
+  {
+    "id": 172,
+    "style": "Casual",
+    "label": "Neutral",
+    "judul": "Neutral Casual",
+    "deskripsi": "Warna netral untuk daily look.",
+    "gambar": "https://i.pinimg.com/736x/36/98/e1/3698e1e29fcae65b485917b5cec3f7d8.jpg"
+  },
+  {
+    "id": 181,
+    "style": "Clean",
+    "label": "White",
+    "judul": "Clean White",
+    "deskripsi": "Warna putih memberikan tampilan yang bersih, ringan, dan modern.",
+    "gambar": "https://i.pinimg.com/736x/ee/0b/14/ee0b1409a82b42d03cfe6b4e3c96d028.jpg"
+  },
+  {
+    "id": 182,
+    "style": "Clean",
+    "label": "Neutral",
+    "judul": "Neutral Clean",
+    "deskripsi": "Perpaduan warna netral menciptakan gaya yang tenang dan mudah dipadukan.",
+    "gambar": "https://i.pinimg.com/736x/d3/f9/da/d3f9da2e870f961d874643b94f486202.jpg"
+  },
+  {
+    "id": 183,
+    "style": "Clean",
+    "label": "Simple",
+    "judul": "Simple Clean",
+    "deskripsi": "Potongan sederhana membuat outfit terlihat rapi tanpa terlihat berlebihan.",
+    "gambar": "https://i.pinimg.com/736x/5b/70/69/5b70694b3d8dc398332f8e4e0bcb975a.jpg"
+  },
+  {
+    "id": 184,
+    "style": "Beige",
+    "judul": "Beige Clean",
+    "label": "Beige",
+    "deskripsi": "Nuansa beige memberikan kesan lembut dan elegan pada tampilan.",
+    "gambar": "https://i.pinimg.com/736x/8e/33/68/8e3368b40252639bf3415dc17a9ff510.jpg"
+  },
+  {
+    "id": 185,
+    "style": "Clean",
+    "label": "Minimal",
+    "judul": "Minimal Clean",
+    "deskripsi": "Desain minimal dengan kombinasi basic yang terlihat modern.",
+    "gambar": "https://i.pinimg.com/736x/3e/9f/95/3e9f954e3dd23c16f2ff5e4799869c90.jpg"
+  },
+  {
+    "id": 186,
+    "style": "Clean",
+    "label": "Soft",
+    "judul": "Soft Clean",
+    "deskripsi": "Warna lembut memberikan kesan fresh dan nyaman untuk dipandang.",
+    "gambar": "https://i.pinimg.com/736x/a6/1f/f1/a61ff160a54bdcfc905a5d7417d9688d.jpg"
+  },
+  {
+    "id": 187,
+    "style": "Clean",
+    "label": "Classic",
+    "judul": "Classic Clean",
+    "deskripsi": "Gaya klasik dengan tampilan rapi yang tetap terlihat timeless.",
+    "gambar": "https://i.pinimg.com/736x/3a/6b/47/3a6b47f8fa54d9adcd208c0c71aac175.jpg"
+  },
+  {
+    "id": 188,
+    "style": "Clean",
+    "label": "Casual",
+    "judul": "Clean Casual",
+    "deskripsi": "Outfit santai dengan tampilan bersih yang cocok digunakan sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/1d/c5/dd/1dc5ddbe0318e35347d3dbe4941a9507.jpg"
+  },
+  {
+    "id": 189,
+    "style": "Clean",
+    "label": "Modern",
+    "judul": "Modern Clean",
+    "deskripsi": "Siluet modern memberikan kesan sederhana tetapi tetap stylish.",
+    "gambar": "https://i.pinimg.com/736x/63/de/78/63de783e81a9d481fe3a903e2d0b70f2.jpg"
+  },
+  {
+    "id": 190,
+    "style": "Clean",
+    "label": "Daily",
+    "judul": "Clean Daily",
+    "deskripsi": "Pilihan outfit praktis untuk menciptakan tampilan harian yang rapi.",
+    "gambar": "https://i.pinimg.com/736x/bb/e6/c1/bbe6c1a62a5f24888cc2697c6624518d.jpg"
+  },
+  {
+    "id": 191,
+    "style": "Clean",
+    "label": "Monochrome",
+    "judul": "Clean Monochrome",
+    "deskripsi": "Kombinasi satu palet warna membuat tampilan terlihat teratur dan elegan.",
+    "gambar": "https://i.pinimg.com/736x/f6/1e/8e/f61e8ec8cca13c7acc93a8db2c97364a.jpg"
+  },
+  {
+    "id": 192,
+    "style": "Clean",
+    "label": "Elegant",
+    "judul": "Elegant Clean",
+    "deskripsi": "Detail sederhana menghasilkan tampilan yang anggun dan tidak berlebihan.",
+    "gambar": "https://i.pinimg.com/736x/ea/d4/18/ead4189740fa1ad12a4aa73ffbbb11d1.jpg"
+  },
+  {
+    "id": 193,
+    "style": "Clean",
+    "label": "Earth",
+    "judul": "Earth Clean",
+    "deskripsi": "Warna earth tone memberikan sentuhan natural pada gaya clean.",
+    "gambar": "https://i.pinimg.com/736x/e2/db/52/e2db525003113aaa0a1155ae3229f234.jpg"
+  },
+  {
+    "id": 194,
+    "style": "Clean",
+    "label": "Fresh",
+    "judul": "Fresh Clean",
+    "deskripsi": "Tampilan ringan dengan warna segar yang memberikan kesan cerah.",
+    "gambar": "https://i.pinimg.com/736x/d7/a4/a6/d7a4a6a59ba118931d7e7ac4526c0d99.jpg"
+  },
+  {
+    "id": 195,
+    "style": "Clean",
+    "label": "Office",
+    "judul": "Clean Office",
+    "deskripsi": "Gaya rapi yang cocok digunakan untuk suasana kerja dan aktivitas formal.",
+    "gambar": "https://i.pinimg.com/736x/7d/71/c2/7d71c2a990007a4ec8673bde0d70259a.jpg"
+  },
+  {
+    "id": 196,
+    "style": "Clean",
+    "label": "Relaxed",
+    "judul": "Relaxed Clean",
+    "deskripsi": "Potongan santai tetap terlihat teratur dan nyaman digunakan.",
+    "gambar": "https://i.pinimg.com/736x/a9/e4/80/a9e4809333a8e56f71750bc13d3761c9.jpg"
+  },
+  {
+    "id": 197,
+    "style": "Clean",
+    "label": "Basic",
+    "judul": "Clean Basic",
+    "deskripsi": "Pakaian basic menjadi pilihan mudah untuk menciptakan gaya yang rapi.",
+    "gambar": "https://i.pinimg.com/736x/08/63/b0/0863b093502d023cdb2f25eca60034f1.jpg"
+  },
+  {
+    "id": 198,
+    "style": "Clean",
+    "label": "Chic",
+    "judul": "Clean Chic",
+    "deskripsi": "Gaya sederhana dengan sentuhan chic yang membuat tampilan lebih menarik.",
+    "gambar": "https://i.pinimg.com/1200x/0c/5e/1a/0c5e1aec61b4136c8b29d429ee743432.jpg"
+  },
+  {
+    "id": 199,
+    "style": "Clean",
+    "label": "Soft Tone",
+    "judul": "Soft Tone Clean",
+    "deskripsi": "Palet warna soft menciptakan kesan kalem dan feminin.",
+    "gambar": "https://i.pinimg.com/736x/32/b4/6d/32b46db4d4fac9fa8fe9bfd045bbac79.jpg"
+  },
+  {
+    "id": 200,
+    "style": "Clean",
+    "label": "Timeless",
+    "judul": "Timeless Clean",
+    "deskripsi": "Desain sederhana yang tetap relevan dan mudah digunakan kapan saja.",
+    "gambar": "https://i.pinimg.com/1200x/86/fb/54/86fb54c83d7e48a4a829e1b57c8fafff.jpg"
+  },
+  {
+    "id": 201,
+    "style": "Clean",
+    "label": "Polished",
+    "judul": "Polished Clean",
+    "deskripsi": "Tampilan terstruktur memberikan kesan profesional dan terawat.",
+    "gambar": "https://i.pinimg.com/736x/f7/59/44/f75944422fbee140ab01b0c302486467.jpg"
+  },
+  {
+    "id": 202,
+    "style": "Clean",
+    "label": "Light",
+    "judul": "Light Clean",
+    "deskripsi": "Warna terang membuat outfit terlihat ringan dan menyegarkan.",
+    "gambar": "https://i.pinimg.com/736x/aa/c4/af/aac4af785d03903a4dd6d08de652b511.jpg"
+  },
+  {
+    "id": 211,
+    "style": "Bohemian",
+    "label": "Boho",
+    "judul": "Boho Freedom",
+    "deskripsi": "Gaya bebas dengan karakter artistik yang kuat.",
+    "gambar": "https://i.pinimg.com/736x/c7/07/95/c70795317ce8b08cbc59b2faf821c2f9.jpg"
+  },
+  {
+    "id": 212,
+    "style": "Bohemian",
+    "label": "Earth",
+    "judul": "Earthy Boho",
+    "deskripsi": "Warna earth tone memberikan nuansa natural dan hangat.",
+    "gambar": "https://i.pinimg.com/736x/e7/99/20/e79920c914742af36b8a01b2431a059f.jpg"
+  },
+  {
+    "id": 213,
+    "style": "Bohemian",
+    "label": "Floral",
+    "judul": "Floral Bohemian",
+    "deskripsi": "Motif floral memberikan sentuhan feminin pada gaya bohemian.",
+    "gambar": "https://i.pinimg.com/736x/68/7e/30/687e30f24c9bd123dbc4fd8d14e43dd6.jpg"
+  },
+  {
+    "id": 214,
+    "style": "Bohemian",
+    "label": "Flowy",
+    "judul": "Flowy Boho",
+    "deskripsi": "Potongan flowy menciptakan kesan bebas dan nyaman.",
+    "gambar": "https://i.pinimg.com/1200x/70/ec/06/70ec06b7b161c158d6253e6601244ca4.jpg"
+  },
+  {
+    "id": 215,
+    "style": "Bohemian",
+    "label": "Natural",
+    "judul": "Natural Boho",
+    "deskripsi": "Warna alami dan tekstur kain membuat tampilan terasa dekat dengan alam.",
+    "gambar": "https://i.pinimg.com/736x/2e/a9/78/2ea97826ee4856150396ffe1a152be13.jpg"
+  },
+  {
+    "id": 216,
+    "style": "Bohemian",
+    "label": "Vintage",
+    "judul": "Vintage Boho",
+    "deskripsi": "Sentuhan vintage membuat gaya bohemian terasa unik dan berkarakter.",
+    "gambar": "https://i.pinimg.com/1200x/85/4d/54/854d54111eb21df5d77ed2a826363a0b.jpg"
+  },
+  {
+    "id": 217,
+    "style": "Bohemian",
+    "label": "Pattern",
+    "judul": "Boho Pattern",
+    "deskripsi": "Motif yang beragam memberikan kesan artistik dan ekspresif.",
+    "gambar": "https://i.pinimg.com/1200x/a1/6b/2d/a16b2db36cc9c13cc265ffb5b03f9074.jpg"
+  },
+  {
+    "id": 218,
+    "style": "Bohemian",
+    "label": "Cream",
+    "judul": "Cream Boho",
+    "deskripsi": "Warna cream memberikan nuansa lembut pada gaya bohemian.",
+    "gambar": "https://i.pinimg.com/1200x/9e/94/d7/9e94d735bc9dd33d79ba0677383b87dc.jpg"
+  },
+  {
+    "id": 219,
+    "style": "Bohemian",
+    "label": "Brown",
+    "judul": "Brown Bohemian",
+    "deskripsi": "Warna cokelat memperkuat karakter earthy yang khas.",
+    "gambar": "https://i.pinimg.com/1200x/9b/9e/c1/9b9ec1330fe93b95d4bc26c45cc3f342.jpg"
+  },
+  {
+    "id": 220,
+    "style": "Bohemian",
+    "label": "Free",
+    "judul": "Free Spirit",
+    "deskripsi": "Outfit yang mencerminkan jiwa bebas dan tidak terikat aturan.",
+    "gambar": "https://i.pinimg.com/736x/65/2c/ca/652ccaafb916561f2fc806b5d6c73138.jpg"
+  },
+  {
+    "id": 221,
+    "style": "Bohemian",
+    "label": "Layer",
+    "judul": "Layered Boho",
+    "deskripsi": "Layering pakaian membuat tampilan lebih kaya tekstur.",
+    "gambar": "https://i.pinimg.com/736x/1d/1f/eb/1d1febf1adfc07800ed254e186c41387.jpg"
+  },
+  {
+    "id": 222,
+    "style": "Bohemian",
+    "label": "Artistic",
+    "judul": "Artistic Boho",
+    "deskripsi": "Perpaduan motif dan warna menciptakan kesan artistik.",
+    "gambar": "https://i.pinimg.com/736x/ee/b0/e6/eeb0e6dc366dc7a8c2f6c9f7e5324e00.jpg"
+  },
+  {
+    "id": 223,
+    "style": "Bohemian",
+    "label": "Warm",
+    "judul": "Warm Bohemian",
+    "deskripsi": "Warna hangat membuat outfit terlihat nyaman dan penuh karakter.",
+    "gambar": "https://i.pinimg.com/1200x/62/d6/ab/62d6abc05c6ac876a60beb2632a56f96.jpg"
+  },
+  {
+    "id": 224,
+    "style": "Bohemian",
+    "label": "Ethnic",
+    "judul": "Ethnic Boho",
+    "deskripsi": "Detail etnik memberikan identitas kuat pada gaya bohemian.",
+    "gambar": "https://i.pinimg.com/736x/b7/61/68/b76168c865937e2ecdc571d50cffe7fd.jpg"
+  },
+  {
+    "id": 225,
+    "style": "Bohemian",
+    "label": "Relaxed",
+    "judul": "Relaxed Boho",
+    "deskripsi": "Potongan longgar memberikan kesan santai dan bebas bergerak.",
+    "gambar": "https://i.pinimg.com/736x/84/42/10/8442108259bc98f3a7ffbcb39a10dd2d.jpg"
+  },
+  {
+    "id": 226,
+    "style": "Bohemian",
+    "label": "Fringe",
+    "judul": "Fringe Boho",
+    "deskripsi": "Aksen fringe menambah karakter khas pada outfit bohemian.",
+    "gambar": "https://i.pinimg.com/736x/8c/1f/76/8c1f762d7c1562ca75ba832bc09ccb71.jpg"
+  },
+  {
+    "id": 227,
+    "style": "Bohemian",
+    "label": "Rustic",
+    "judul": "Rustic Boho",
+    "deskripsi": "Nuansa rustic membuat tampilan terasa natural dan sederhana.",
+    "gambar": "https://i.pinimg.com/736x/87/19/03/871903ca0838a91b6f2d6027f7cc9213.jpg"
+  },
+  {
+    "id": 228,
+    "style": "Bohemian",
+    "label": "Festival",
+    "judul": "Boho Festival",
+    "deskripsi": "Gaya ekspresif yang cocok untuk suasana festival dan outdoor.",
+    "gambar": "https://i.pinimg.com/736x/31/3f/ab/313fabd6e360b6725719672cd255134f.jpg"
+  },
+  {
+    "id": 229,
+    "style": "Bohemian",
+    "label": "Boho Chic",
+    "judul": "Boho Chic",
+    "deskripsi": "Gaya bohemian dipadukan dengan sentuhan feminin yang stylish.",
+    "gambar": "https://i.pinimg.com/736x/08/c4/bf/08c4bf63c1f48db94f0835ca49d16465.jpg"
+  },
+  {
+    "id": 230,
+    "style": "Bohemian",
+    "label": "Sunset",
+    "judul": "Sunset Boho",
+    "deskripsi": "Warna hangat menghadirkan nuansa santai seperti suasana matahari terbenam.",
+    "gambar": "https://i.pinimg.com/736x/0d/2d/51/0d2d51a92fb9642546913fc4c566f06f.jpg"
+  },
+  {
+    "id": 241,
+    "style": "Biker",
+    "label": "Leather",
+    "judul": "Leather Biker",
+    "deskripsi": "Jaket kulit memberikan kesan tegas dan berani.",
+    "gambar": "https://i.pinimg.com/736x/94/a2/70/94a27054cc03be115acd5593ef6de5b2.jpg"
+  },
+  {
+    "id": 242,
+    "style": "Biker",
+    "label": "Black",
+    "judul": "Black Rider",
+    "deskripsi": "Dominasi warna hitam menciptakan tampilan biker yang kuat.",
+    "gambar": "https://i.pinimg.com/1200x/fb/e3/54/fbe35456873727218357591690b9b742.jpg"
+  },
+  {
+    "id": 243,
+    "style": "Biker",
+    "label": "Denim",
+    "judul": "Denim Rider",
+    "deskripsi": "Denim memberikan sentuhan kasual pada gaya biker.",
+    "gambar": "https://i.pinimg.com/736x/c6/1d/c6/c61dc60a68c402dbb2192666b7242613.jpg"
+  },
+  {
+    "id": 244,
+    "style": "Biker",
+    "label": "Edgy",
+    "judul": "Edgy Biker",
+    "deskripsi": "Detail tegas membuat outfit terlihat berani dan edgy.",
+    "gambar": "https://i.pinimg.com/736x/26/2f/98/262f981ebcc845c5fd856f645f920d84.jpg"
+  },
+  {
+    "id": 245,
+    "style": "Biker",
+    "label": "Rock",
+    "judul": "Rock Biker",
+    "deskripsi": "Nuansa rock membuat tampilan terasa rebel dan penuh karakter.",
+    "gambar": "https://i.pinimg.com/1200x/a0/c3/fb/a0c3fb778ecaf02c4ee63f981663c1e1.jpg"
+  },
+  {
+    "id": 246,
+    "style": "Biker",
+    "label": "Moto",
+    "judul": "Moto Style",
+    "deskripsi": "Gaya moto klasik dengan sentuhan maskulin yang kuat.",
+    "gambar": "https://i.pinimg.com/1200x/0a/59/9f/0a599f9a4711cee635dd6df4412cacdb.jpg"
+  },
+  {
+    "id": 247,
+    "style": "Biker",
+    "label": "Jacket",
+    "judul": "Biker Jacket",
+    "deskripsi": "Jaket menjadi pusat perhatian dalam tampilan biker ini.",
+    "gambar": "https://i.pinimg.com/736x/10/4e/39/104e3907b23317653a980e6262846612.jpg"
+  },
+  {
+    "id": 248,
+    "style": "Biker",
+    "label": "Street",
+    "judul": "Biker Street",
+    "deskripsi": "Perpaduan biker dan streetwear menghasilkan gaya urban yang berani.",
+    "gambar": "https://i.pinimg.com/736x/7a/ea/86/7aea86029c8bcd608060e295b621b2b0.jpg"
+  },
+  {
+    "id": 249,
+    "style": "Biker",
+    "label": "Rugged",
+    "judul": "Rugged Biker",
+    "deskripsi": "Tekstur dan warna gelap memberikan kesan tangguh.",
+    "gambar": "https://i.pinimg.com/736x/3d/98/29/3d98290944281ba5610e6409d59d191c.jpg"
+  },
+  {
+    "id": 250,
+    "style": "Biker",
+    "label": "Bold",
+    "judul": "Bold Rider",
+    "deskripsi": "Tampilan berani dengan karakter kuat untuk gaya yang mencolok.",
+    "gambar": "https://i.pinimg.com/1200x/50/e9/3c/50e93c7a40a0c081235fbbb13320d176.jpg"
+  },
+  {
+    "id": 251,
+    "style": "Biker",
+    "label": "Vintage",
+    "judul": "Vintage Biker",
+    "deskripsi": "Sentuhan vintage memberikan nuansa biker klasik.",
+    "gambar": "https://i.pinimg.com/736x/85/3a/e9/853ae914650a45202818152acea771b0.jpg"
+  },
+  {
+    "id": 252,
+    "style": "Biker",
+    "label": "Dark",
+    "judul": "Dark Biker",
+    "deskripsi": "Warna gelap menciptakan aura misterius dan tegas.",
+    "gambar": "https://i.pinimg.com/1200x/85/fb/13/85fb135e86f35011c4b4d79231662c1b.jpg"
+  },
+  {
+    "id": 253,
+    "style": "Biker",
+    "label": "Casual",
+    "judul": "Casual Rider",
+    "deskripsi": "Elemen biker dipadukan dengan pakaian kasual untuk tampilan santai.",
+    "gambar": "https://i.pinimg.com/736x/d4/be/9b/d4be9bddea53a96db432d7e67b3c782e.jpg"
+  },
+  {
+    "id": 254,
+    "style": "Biker",
+    "label": "Moto Chic",
+    "judul": "Moto Chic",
+    "deskripsi": "Gaya biker terlihat lebih fashionable dengan sentuhan modern.",
+    "gambar": "https://i.pinimg.com/736x/09/af/0f/09af0f385ba22072020a6771eb86860f.jpg"
+  },
+  {
+    "id": 255,
+    "style": "Biker",
+    "label": "Boots",
+    "judul": "Biker Boots",
+    "deskripsi": "Boots memperkuat karakter tangguh pada outfit biker.",
+    "gambar": "https://i.pinimg.com/1200x/19/83/d3/1983d3c112453d97870541b8d6329292.jpg"
+  },
+  {
+    "id": 256,
+    "style": "Biker",
+    "label": "Oversized",
+    "judul": "Oversized Rider",
+    "deskripsi": "Potongan oversized membuat gaya biker terasa lebih santai.",
+    "gambar": "https://i.pinimg.com/736x/29/1b/b8/291bb8fc9436a4d96282bdb6dea98d34.jpg"
+  },
+  {
+    "id": 257,
+    "style": "Biker",
+    "label": "Rebel",
+    "judul": "Rebel Style",
+    "deskripsi": "Outfit dengan karakter rebel yang cocok untuk gaya berani.",
+    "gambar": "https://i.pinimg.com/736x/26/c0/9e/26c09e272587ed53522e636409109446.jpg"
+  },
+  {
+    "id": 258,
+    "style": "Biker",
+    "label": "Metal",
+    "judul": "Metal Biker",
+    "deskripsi": "Detail metal memberikan aksen keras pada tampilan.",
+    "gambar": "https://i.pinimg.com/736x/f0/cf/7b/f0cf7b965ef9572b6be2e27215c9baa1.jpg"
+  },
+  {
+    "id": 259,
+    "style": "Biker",
+    "label": "Urban",
+    "judul": "Urban Rider",
+    "deskripsi": "Sentuhan urban membuat gaya biker cocok untuk suasana kota.",
+    "gambar": "https://i.pinimg.com/736x/aa/f8/ee/aaf8ee3e594694d8b41017bba4a5e251.jpg"
+  },
+  {
+    "id": 260,
+    "style": "Biker",
+    "label": "Classic",
+    "judul": "Classic Rider",
+    "deskripsi": "Gaya biker klasik dengan elemen yang tetap timeless.",
+    "gambar": "https://i.pinimg.com/736x/66/a8/3d/66a83d6270a942b5fa80b87de55a4098.jpg"
+  },
+  {
+    "id": 261,
+    "style": "Biker",
+    "label": "Monochrome",
+    "judul": "Monochrome Biker",
+    "deskripsi": "Palet monokrom membuat tampilan terlihat lebih tegas.",
+    "gambar": "https://i.pinimg.com/736x/fb/d5/0e/fbd50e3ea822feacffb17d30dac4b2d2.jpg"
+  },
+  {
+    "id": 262,
+    "style": "Biker",
+    "label": "Street Moto",
+    "judul": "Street Moto",
+    "deskripsi": "Perpaduan streetwear dan biker menghasilkan gaya yang dinamis.",
+    "gambar": "https://i.pinimg.com/736x/84/e9/f3/84e9f36a21ffbe81e64f44a70c854336.jpg"
+  },
+  {
+    "id": 263,
+    "style": "Biker",
+    "label": "Denim Jacket",
+    "judul": "Denim Rider",
+    "deskripsi": "Jaket denim memberikan karakter santai pada outfit biker.",
+    "gambar": "https://i.pinimg.com/736x/c9/aa/fb/c9aafb4524471ed0ee744fcfd4d8c529.jpg"
+  },
+  {
+    "id": 264,
+    "style": "Biker",
+    "label": "Minimal",
+    "judul": "Minimal Biker",
+    "deskripsi": "Elemen biker dibuat lebih sederhana tanpa kehilangan karakternya.",
+    "gambar": "https://i.pinimg.com/736x/56/b7/49/56b749e2ec0c4bc1dc483e5a09e1b6d7.jpg"
+  },
+  {
+    "id": 265,
+    "style": "Biker",
+    "label": "Grunge",
+    "judul": "Grunge Rider",
+    "deskripsi": "Sentuhan grunge membuat outfit terasa lebih rebel dan bebas.",
+    "gambar": "https://i.pinimg.com/736x/f2/dd/1d/f2dd1d04868d1de6b45f15ae4a748ccd.jpg"
+  },
+  {
+    "id": 331,
+    "style": "Preppy",
+    "label": "School",
+    "judul": "Classic School",
+    "deskripsi": "Nuansa akademik dengan tampilan rapi dan terstruktur.",
+    "gambar": "https://i.pinimg.com/1200x/70/d0/79/70d07954d1899540e77c5fa9d0cccaea.jpg"
+  },
+  {
+    "id": 332,
+    "style": "Preppy",
+    "label": "Plaid",
+    "judul": "Plaid Preppy",
+    "deskripsi": "Motif plaid memberikan karakter klasik pada gaya preppy.",
+    "gambar": "https://i.pinimg.com/736x/54/75/f0/5475f09c72828ae3aa2724cfd9bd9fac.jpg"
+  },
+  {
+    "id": 333,
+    "style": "Preppy",
+    "label": "Sweater",
+    "judul": "Preppy Sweater",
+    "deskripsi": "Sweater memberikan kesan hangat dan akademik.",
+    "gambar": "https://i.pinimg.com/1200x/ca/7a/bd/ca7abd0f81870380c6181ab43ddd2322.jpg"
+  },
+  {
+    "id": 334,
+    "style": "Preppy",
+    "label": "College",
+    "judul": "College Look",
+    "deskripsi": "Gaya yang terinspirasi dari outfit kampus klasik.",
+    "gambar": "https://i.pinimg.com/1200x/a2/fb/39/a2fb392578cab32604e0fec2c4a43df0.jpg"
+  },
+  {
+    "id": 335,
+    "style": "Preppy",
+    "label": "Cardigan",
+    "judul": "Preppy Cardigan",
+    "deskripsi": "Cardigan membuat tampilan terlihat rapi dan feminin.",
+    "gambar": "https://i.pinimg.com/236x/ca/2a/aa/ca2aaaa5afa9580baac6cd2516aaa2af.jpg"
+  },
+  {
+    "id": 336,
+    "style": "Preppy",
+    "label": "Elegant",
+    "judul": "Elegant Preppy",
+    "deskripsi": "Potongan rapi memberikan kesan elegan dan berkelas.",
+    "gambar": "https://i.pinimg.com/736x/92/59/ab/9259abbbb1776baac65c99464de0a5cc.jpg"
+  },
+  {
+    "id": 337,
+    "style": "Preppy",
+    "label": "Classic",
+    "judul": "Classic Preppy",
+    "deskripsi": "Elemen klasik membuat outfit terlihat timeless.",
+    "gambar": "https://i.pinimg.com/736x/b1/17/d4/b117d4e2295bbe9eae0df0129c256523.jpg"
+  },
+  {
+    "id": 338,
+    "style": "Preppy",
+    "label": "Navy",
+    "judul": "Navy Preppy",
+    "deskripsi": "Warna navy memberikan kesan akademik yang kuat.",
+    "gambar": "https://i.pinimg.com/736x/bf/13/e1/bf13e1349b5acf44c9f448b98b3f4bce.jpg"
+  },
+  {
+    "id": 339,
+    "style": "Preppy",
+    "label": "Skirt",
+    "judul": "Preppy Skirt",
+    "deskripsi": "Rok memberikan sentuhan feminin pada gaya akademik.",
+    "gambar": "https://i.pinimg.com/736x/5c/e8/68/5ce86887bfe50f98579c60b184d32667.jpg"
+  },
+  {
+    "id": 340,
+    "style": "Preppy",
+    "label": "Shirt",
+    "judul": "Preppy Shirt",
+    "deskripsi": "Kemeja rapi menjadi elemen utama dalam tampilan ini.",
+    "gambar": "https://i.pinimg.com/736x/4f/7d/0c/4f7d0c44e5a932b0685bcd6dbde6a745.jpg"
+  },
+  {
+    "id": 341,
+    "style": "Preppy",
+    "label": "Tie",
+    "judul": "Preppy Tie",
+    "deskripsi": "Aksen dasi memperkuat nuansa formal dan akademik.",
+    "gambar": "https://i.pinimg.com/236x/38/f6/cf/38f6cf4b7fea9683824ccedd81e0de9f.jpg"
+  },
+  {
+    "id": 342,
+    "style": "Preppy",
+    "label": "Vest",
+    "judul": "Preppy Vest",
+    "deskripsi": "Vest memberikan dimensi tambahan pada outfit klasik.",
+    "gambar": "https://i.pinimg.com/736x/9d/ea/7c/9dea7c39ec0b63394e91061277830dda.jpg"
+  },
+  {
+    "id": 343,
+    "style": "Preppy",
+    "label": "Loafers",
+    "judul": "Preppy Loafers",
+    "deskripsi": "Loafers melengkapi tampilan dengan sentuhan klasik.",
+    "gambar": "https://i.pinimg.com/736x/00/42/5f/00425f2ada04a6b0daa91d294292f410.jpg"
+  },
+  {
+    "id": 344,
+    "style": "Preppy",
+    "label": "Academic",
+    "judul": "Academic Style",
+    "deskripsi": "Gaya yang menonjolkan kesan cerdas dan teratur.",
+    "gambar": "https://i.pinimg.com/736x/7e/15/d9/7e15d9d27e455fb88ecf1602c3674130.jpg"
+  },
+  {
+    "id": 345,
+    "style": "Preppy",
+    "label": "Vintage",
+    "judul": "Vintage Preppy",
+    "deskripsi": "Sentuhan vintage memberikan karakter klasik yang menarik.",
+    "gambar": "https://i.pinimg.com/736x/5e/9e/21/5e9e21b51018be0302187d3e40bbb03e.jpg"
+  },
+  {
+    "id": 346,
+    "style": "Preppy",
+    "label": "Smart",
+    "judul": "Smart Preppy",
+    "deskripsi": "Tampilan smart dengan kombinasi pakaian yang terstruktur.",
+    "gambar": "https://i.pinimg.com/736x/50/83/6c/50836cf423ba0abf147e3770c511d3ad.jpg"
+  },
+  {
+    "id": 347,
+    "style": "Preppy",
+    "label": "Casual",
+    "judul": "Casual Preppy",
+    "deskripsi": "Gaya preppy dibuat lebih santai untuk aktivitas sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/46/9d/10/469d10f1c9c5ba33d6c3f16b438970b4.jpg"
+  },
+  {
+    "id": 348,
+    "style": "Preppy",
+    "label": "Layered",
+    "judul": "Layered Preppy",
+    "deskripsi": "Layering membuat outfit terlihat lebih lengkap dan berkarakter.",
+    "gambar": "https://i.pinimg.com/736x/d3/46/42/d3464243a3c72bb9663010d7248aa575.jpg"
+  },
+  {
+    "id": 349,
+    "style": "Preppy",
+    "label": "Beige",
+    "judul": "Beige Preppy",
+    "deskripsi": "Warna beige memberikan kesan hangat dan klasik.",
+    "gambar": "https://i.pinimg.com/736x/0e/b3/2a/0eb32a61b910eefc96b82a9c24bc3ada.jpg"
+  },
+  {
+    "id": 350,
+    "style": "Preppy",
+    "label": "Brown",
+    "judul": "Brown Preppy",
+    "deskripsi": "Nuansa cokelat memberikan karakter vintage pada gaya preppy.",
+    "gambar": "https://i.pinimg.com/1200x/ee/c5/5b/eec55b34e723b724a9fcd4ed662f9427.jpg"
+  },
+  {
+    "id": 351,
+    "style": "Preppy",
+    "label": "White",
+    "judul": "White Preppy",
+    "deskripsi": "Warna putih membuat tampilan terlihat bersih dan akademik.",
+    "gambar": "https://i.pinimg.com/736x/88/ef/02/88ef02bf9f8d3f71bf20dbd76f8e1c97.jpg"
+  },
+  {
+    "id": 361,
+    "style": "Sporty",
+    "label": "Active",
+    "judul": "Active Sporty",
+    "deskripsi": "Outfit nyaman yang mendukung aktivitas dengan banyak gerakan.",
+    "gambar": "https://i.pinimg.com/736x/b3/99/52/b39952e166aeb6deb4d1177a2477574e.jpg"
+  },
+  {
+    "id": 362,
+    "style": "Sporty",
+    "label": "Athletic",
+    "judul": "Athletic Look",
+    "deskripsi": "Nuansa athletic memberikan kesan aktif dan energik.",
+    "gambar": "https://i.pinimg.com/736x/8b/7e/cf/8b7ecf9e8dcd330bfa266191e9c01d7b.jpg"
+  },
+  {
+    "id": 363,
+    "style": "Sporty",
+    "label": "Sneaker",
+    "judul": "Sneaker Sporty",
+    "deskripsi": "Sneakers menjadi pelengkap utama untuk tampilan yang aktif.",
+    "gambar": "https://i.pinimg.com/1200x/ed/0a/d5/ed0ad5a16578ae6602ed0204c2fdafb0.jpg"
+  },
+  {
+    "id": 364,
+    "style": "Sporty",
+    "label": "Casual",
+    "judul": "Sporty Casual",
+    "deskripsi": "Perpaduan pakaian santai dengan elemen sporty yang nyaman.",
+    "gambar": "https://i.pinimg.com/736x/56/f5/02/56f5024378daa3541e98ca0b9454a314.jpg"
+  },
+  {
+    "id": 365,
+    "style": "Sporty",
+    "label": "Track",
+    "judul": "Track Outfit",
+    "deskripsi": "Gaya terinspirasi pakaian olahraga dengan tampilan modern.",
+    "gambar": "https://i.pinimg.com/1200x/ff/27/1e/ff271e965679cce50a34b2447d2d6fb6.jpg"
+  },
+  {
+    "id": 366,
+    "style": "Sporty",
+    "label": "Jersey",
+    "judul": "Sporty Jersey",
+    "deskripsi": "Jersey memberikan karakter sporty yang kuat dan santai.",
+    "gambar": "https://i.pinimg.com/736x/84/a6/cd/84a6cd59965a29ac731131f5dfa1d778.jpg"
+  },
+  {
+    "id": 367,
+    "style": "Sporty",
+    "label": "Oversized",
+    "judul": "Oversized Sport",
+    "deskripsi": "Potongan oversized memberikan ruang gerak dan kenyamanan.",
+    "gambar": "https://i.pinimg.com/736x/6f/98/aa/6f98aa6d4e27ed2c51a647a77af7a8dc.jpg"
+  },
+  {
+    "id": 368,
+    "style": "Sporty",
+    "label": "Running",
+    "judul": "Running Style",
+    "deskripsi": "Tampilan ringan yang cocok untuk kegiatan aktif.",
+    "gambar": "https://i.pinimg.com/736x/6c/68/84/6c68842fbf1246975094571b372f0c76.jpg"
+  },
+  {
+    "id": 369,
+    "style": "Sporty",
+    "label": "Street",
+    "judul": "Sport Street",
+    "deskripsi": "Perpaduan streetwear dan sporty menghasilkan gaya urban.",
+    "gambar": "https://i.pinimg.com/736x/9f/44/3a/9f443a661864f368e1b950e247f72556.jpg"
+  },
+  {
+    "id": 370,
+    "style": "Sporty",
+    "label": "Black",
+    "judul": "Black Sporty",
+    "deskripsi": "Warna hitam membuat gaya sporty terlihat lebih tegas.",
+    "gambar": "https://i.pinimg.com/736x/44/8d/04/448d04034175a5aec152b37a80bc0653.jpg"
+  },
+  {
+    "id": 371,
+    "style": "Sporty",
+    "label": "White",
+    "judul": "White Sporty",
+    "deskripsi": "Warna putih memberikan kesan fresh dan aktif.",
+    "gambar": "https://i.pinimg.com/736x/20/c2/1b/20c21b1ae1dbc7d8c284cbb10b3ff77d.jpg"
+  },
+  {
+    "id": 372,
+    "style": "Sporty",
+    "label": "Colorful",
+    "judul": "Colorful Sport",
+    "deskripsi": "Warna cerah memberikan energi pada tampilan sporty.",
+    "gambar": "https://i.pinimg.com/736x/00/8f/c7/008fc7f5520a7dda299050aea68fb178.jpg"
+  },
+  {
+    "id": 373,
+    "style": "Sporty",
+    "label": "Athleisure",
+    "judul": "Athleisure Look",
+    "deskripsi": "Pakaian olahraga dipadukan dengan gaya casual untuk aktivitas harian.",
+    "gambar": "https://i.pinimg.com/736x/2e/94/03/2e94035b2cf2a226a91492a74a8fad90.jpg"
+  },
+  {
+    "id": 374,
+    "style": "Sporty",
+    "label": "Hoodie",
+    "judul": "Sporty Hoodie",
+    "deskripsi": "Hoodie memberikan kenyamanan sekaligus karakter sporty.",
+    "gambar": "https://i.pinimg.com/736x/ec/0e/2d/ec0e2dfcb956adb26d44fe71d8bf6600.jpg"
+  },
+  {
+    "id": 375,
+    "style": "Sporty",
+    "label": "Jogger",
+    "judul": "Jogger Style",
+    "deskripsi": "Jogger pants memberikan kebebasan bergerak dengan tampilan santai.",
+    "gambar": "https://i.pinimg.com/736x/87/b3/9f/87b39f0dbb5fa395796ccca079cedba4.jpg"
+  },
+  {
+    "id": 376,
+    "style": "Sporty",
+    "label": "Minimal",
+    "judul": "Minimal Sporty",
+    "deskripsi": "Gaya olahraga dengan desain sederhana dan mudah digunakan.",
+    "gambar": "https://i.pinimg.com/736x/4d/8d/55/4d8d550763213d1f6b78686d9a307f23.jpg"
+  },
+  {
+    "id": 377,
+    "style": "Sporty",
+    "label": "Gym",
+    "judul": "Gym Outfit",
+    "deskripsi": "Outfit praktis untuk kegiatan olahraga dan latihan.",
+    "gambar": "https://i.pinimg.com/736x/27/7b/06/277b06905dcc3c58151fe3645858da97.jpg"
+  },
+  {
+    "id": 378,
+    "style": "Sporty",
+    "label": "Relaxed",
+    "judul": "Relaxed Sport",
+    "deskripsi": "Potongan santai memberikan kenyamanan untuk aktivitas sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/c1/ff/9e/c1ff9e715b1991e438b992108f286ac8.jpg"
+  },
+  {
+    "id": 379,
+    "style": "Sporty",
+    "label": "Urban",
+    "judul": "Urban Sporty",
+    "deskripsi": "Gaya sporty dengan sentuhan streetwear perkotaan.",
+    "gambar": "https://i.pinimg.com/736x/dd/5d/0f/dd5d0f9f5210a286458bc5ad42182ab7.jpg"
+  },
+  {
+    "id": 380,
+    "style": "Sporty",
+    "label": "Weekend",
+    "judul": "Sporty Weekend",
+    "deskripsi": "Look nyaman untuk kegiatan santai saat akhir pekan.",
+    "gambar": "https://i.pinimg.com/736x/78/cd/4c/78cd4c07a628b808e686c81bb137ded7.jpg"
+  },
+  {
+    "id": 381,
+    "style": "Sporty",
+    "label": "Tennis",
+    "judul": "Tennis Inspired",
+    "deskripsi": "Nuansa tennis memberikan kesan sporty yang clean dan feminin.",
+    "gambar": "https://i.pinimg.com/1200x/62/4c/40/624c40713d87db828ec84916a752dac9.jpg"
+  },
+  {
+    "id": 382,
+    "style": "Sporty",
+    "label": "Varsity",
+    "judul": "Varsity Sport",
+    "deskripsi": "Elemen varsity membuat outfit terlihat youthful dan aktif.",
+    "gambar": "https://i.pinimg.com/736x/2f/1e/ed/2f1eedfd1911238bf05d33ca599a8f83.jpg"
+  },
+  {
+    "id": 383,
+    "style": "Sporty",
+    "label": "Football",
+    "judul": "Football Style",
+    "deskripsi": "Gaya terinspirasi jersey sepak bola dengan karakter santai.",
+    "gambar": "https://i.pinimg.com/1200x/4b/37/b0/4b37b034e14eb220ba8a771e6325284f.jpg"
+  },
+  {
+    "id": 384,
+    "style": "Sporty",
+    "label": "Activewear",
+    "judul": "Activewear",
+    "deskripsi": "Pakaian aktif yang mengutamakan kenyamanan dan fleksibilitas.",
+    "gambar": "https://i.pinimg.com/736x/01/68/61/01686120c43ce135cfcdbf06ef5c6b7f.jpg"
+  },
+  {
+    "id": 385,
+    "style": "Sporty",
+    "label": "Layered",
+    "judul": "Layered Sport",
+    "deskripsi": "Layering memberikan tampilan sporty yang lebih dinamis.",
+    "gambar": "https://i.pinimg.com/736x/39/b8/a6/39b8a6674b7d194b015cb812658075e8.jpg"
+  },
+  {
+    "id": 391,
+    "style": "Formal",
+    "label": "Elegant",
+    "judul": "Elegant Formal",
+    "deskripsi": "Tampilan rapi dengan sentuhan elegan untuk acara resmi.",
+    "gambar": "https://i.pinimg.com/736x/08/d6/71/08d67130c351a84e649364c96da5a348.jpg"
+  },
+  {
+    "id": 392,
+    "style": "Formal",
+    "label": "Office",
+    "judul": "Office Formal",
+    "deskripsi": "Gaya profesional yang cocok untuk lingkungan kerja.",
+    "gambar": "https://i.pinimg.com/736x/f4/75/46/f475469131674f41f56fdc10eb773d4c.jpg"
+  },
+  {
+    "id": 393,
+    "style": "Formal",
+    "label": "Black",
+    "judul": "Black Formal",
+    "deskripsi": "Warna hitam memberikan kesan tegas dan profesional.",
+    "gambar": "https://i.pinimg.com/1200x/d7/cb/ef/d7cbeffb1e36e78b7f7fd05515196a68.jpg"
+  },
+  {
+    "id": 394,
+    "style": "Formal",
+    "label": "White",
+    "judul": "White Formal",
+    "deskripsi": "Warna putih membuat tampilan terlihat bersih dan elegan.",
+    "gambar": "https://i.pinimg.com/736x/13/5e/21/135e21897d0614490e097e7fd13e334d.jpg"
+  },
+  {
+    "id": 395,
+    "style": "Formal",
+    "label": "Suit",
+    "judul": "Classic Suit",
+    "deskripsi": "Setelan formal klasik memberikan kesan profesional dan berkelas.",
+    "gambar": "https://i.pinimg.com/736x/aa/00/40/aa0040381e6a3cfd41719b9dd305c38e.jpg"
+  },
+  {
+    "id": 396,
+    "style": "Formal",
+    "label": "Blazer",
+    "judul": "Formal Blazer",
+    "deskripsi": "Blazer memberikan struktur pada tampilan formal.",
+    "gambar": "https://i.pinimg.com/736x/ca/56/09/ca560959b044eeedfb69cbb8894ba9e4.jpg"
+  },
+  {
+    "id": 397,
+    "style": "Formal",
+    "label": "Classic",
+    "judul": "Classic Formal",
+    "deskripsi": "Potongan klasik membuat outfit tetap terlihat timeless.",
+    "gambar": "https://i.pinimg.com/736x/a1/d8/c4/a1d8c4ad58de5f9cb792afdda2c9a20d.jpg"
+  },
+  {
+    "id": 398,
+    "style": "Formal",
+    "label": "Minimal",
+    "judul": "Minimal Formal",
+    "deskripsi": "Gaya formal sederhana dengan detail yang tidak berlebihan.",
+    "gambar": "https://i.pinimg.com/736x/90/2b/bd/902bbd3070f220775145944e9ea42cca.jpg"
+  },
+  {
+    "id": 399,
+    "style": "Formal",
+    "label": "Business",
+    "judul": "Business Formal",
+    "deskripsi": "Tampilan profesional untuk meeting dan kegiatan bisnis.",
+    "gambar": "https://i.pinimg.com/736x/76/c5/ee/76c5ee04a85dde55eaacc1a6b4ac19cb.jpg"
+  },
+  {
+    "id": 400,
+    "style": "Formal",
+    "label": "Smart",
+    "judul": "Smart Formal",
+    "deskripsi": "Perpaduan rapi dan modern menghasilkan gaya smart formal.",
+    "gambar": "https://i.pinimg.com/1200x/6f/ad/23/6fad2312c97c66de3701c701b2753a1b.jpg"
+  },
+  {
+    "id": 401,
+    "style": "Formal",
+    "label": "Office Chic",
+    "judul": "Office Chic",
+    "deskripsi": "Gaya kantor dengan sentuhan fashionable yang tetap profesional.",
+    "gambar": "https://i.pinimg.com/736x/4e/02/13/4e02133002145ea21baddec8b1740904.jpg"
+  },
+  {
+    "id": 402,
+    "style": "Formal",
+    "label": "Monochrome",
+    "judul": "Formal Monochrome",
+    "deskripsi": "Palet monokrom membuat tampilan formal terlihat elegan.",
+    "gambar": "https://i.pinimg.com/736x/4a/03/00/4a0300eeea3b6779cc79470734177f12.jpg"
+  },
+  {
+    "id": 403,
+    "style": "Formal",
+    "label": "Navy",
+    "judul": "Navy Formal",
+    "deskripsi": "Warna navy memberikan kesan profesional dan tenang.",
+    "gambar": "https://i.pinimg.com/736x/c0/13/c3/c013c36e7989318d312aac7c5065aac5.jpg"
+  },
+  {
+    "id": 404,
+    "style": "Formal",
+    "label": "Beige",
+    "judul": "Beige Formal",
+    "deskripsi": "Nuansa beige memberikan kesan lembut namun tetap resmi.",
+    "gambar": "https://i.pinimg.com/1200x/50/f4/ec/50f4eca4bea5eca03a095fc5683000a7.jpg"
+  },
+  {
+    "id": 405,
+    "style": "Formal",
+    "label": "Brown",
+    "judul": "Brown Formal",
+    "deskripsi": "Warna cokelat menciptakan kesan hangat dan sophisticated.",
+    "gambar": "https://i.pinimg.com/736x/51/0b/97/510b9793d6190f7b304cd719eebf2221.jpg"
+  },
+  {
+    "id": 406,
+    "style": "Formal",
+    "label": "Dress",
+    "judul": "Formal Dress",
+    "deskripsi": "Dress formal memberikan tampilan feminin dan anggun.",
+    "gambar": "https://i.pinimg.com/736x/84/28/b2/8428b2437a213579c90b5bdff656938b.jpg"
+  },
+  {
+    "id": 407,
+    "style": "Formal",
+    "label": "Skirt",
+    "judul": "Formal Skirt",
+    "deskripsi": "Rok dengan potongan rapi cocok untuk tampilan profesional.",
+    "gambar": "https://i.pinimg.com/736x/64/a7/f6/64a7f6c26554cfba9758ef00703b3cce.jpg"
+  },
+  {
+    "id": 408,
+    "style": "Formal",
+    "label": "Trousers",
+    "judul": "Formal Trousers",
+    "deskripsi": "Celana bahan memberikan kesan profesional dan terstruktur.",
+    "gambar": "https://i.pinimg.com/1200x/53/fe/cb/53fecbba65588445fecb6658b8e8a3f9.jpg"
+  },
+  {
+    "id": 409,
+    "style": "Formal",
+    "label": "Luxury",
+    "judul": "Luxury Formal",
+    "deskripsi": "Detail elegan membuat outfit terlihat mewah dan berkelas.",
+    "gambar": "https://i.pinimg.com/1200x/4e/e9/97/4ee99712a76fd1861bb36fbf095ea673.jpg"
+  },
+  {
+    "id": 410,
+    "style": "Formal",
+    "label": "Meeting",
+    "judul": "Meeting Look",
+    "deskripsi": "Pilihan outfit profesional untuk menghadiri meeting.",
+    "gambar": "https://i.pinimg.com/736x/46/d3/02/46d302b5e33cededc523509a198ce033.jpg"
+  },
+  {
+    "id": 411,
+    "style": "Formal",
+    "label": "Elegant Black",
+    "judul": "Elegant Black",
+    "deskripsi": "Hitam dan potongan rapi menghasilkan tampilan yang berkelas.",
+    "gambar": "https://i.pinimg.com/736x/3e/7e/49/3e7e49fd093f8ffaea0d65e78928ad61.jpg"
+  },
+  {
+    "id": 412,
+    "style": "Formal",
+    "label": "Professional",
+    "judul": "Professional Look",
+    "deskripsi": "Tampilan yang memberikan kesan percaya diri dan profesional.",
+    "gambar": "https://i.pinimg.com/736x/a1/e4/5b/a1e45bea6ccc96b3d5c09de9c3201088.jpg"
+  },
+  {
+    "id": 413,
+    "style": "Formal",
+    "label": "Classic Suit",
+    "judul": "Classic Office",
+    "deskripsi": "Gaya formal klasik yang cocok untuk lingkungan profesional.",
+    "gambar": "https://i.pinimg.com/736x/f7/e1/94/f7e19492fa2e2b42c946309c0525fbac.jpg"
+  },
+  {
+    "id": 421,
+    "style": "Cowboy",
+    "label": "Denim",
+    "judul": "Classic Cowboy",
+    "deskripsi": "Denim menjadi elemen utama dalam gaya cowboy klasik.",
+    "gambar": "https://i.pinimg.com/736x/e3/a5/c3/e3a5c3d30538f0a26a2baf7ce57e1919.jpg"
+  },
+  {
+    "id": 422,
+    "style": "Cowboy",
+    "label": "Boots",
+    "judul": "Cowboy Boots",
+    "deskripsi": "Boots khas cowboy memberikan karakter western yang kuat.",
+    "gambar": "https://i.pinimg.com/1200x/95/f8/80/95f880f459d2e65d44f322bc8581b126.jpg"
+  },
+  {
+    "id": 423,
+    "style": "Cowboy",
+    "label": "Western",
+    "judul": "Western Style",
+    "deskripsi": "Nuansa western membuat outfit terlihat berani dan autentik.",
+    "gambar": "https://i.pinimg.com/1200x/f4/5a/85/f45a8502979dd8670481899977f24020.jpg"
+  },
+  {
+    "id": 424,
+    "style": "Cowboy",
+    "label": "Hat",
+    "judul": "Cowboy Hat",
+    "deskripsi": "Topi cowboy menjadi aksen khas yang memperkuat tampilan.",
+    "gambar": "https://i.pinimg.com/736x/2a/57/3b/2a573bf307140c06e661608a40747c4d.jpg"
+  },
+  {
+    "id": 425,
+    "style": "Cowboy",
+    "label": "Ranch",
+    "judul": "Ranch Outfit",
+    "deskripsi": "Gaya santai yang terinspirasi dari kehidupan ranch.",
+    "gambar": "https://i.pinimg.com/736x/00/98/9a/00989a58f4871e33de2837cd25d25185.jpg"
+  },
+  {
+    "id": 426,
+    "style": "Cowboy",
+    "label": "Brown",
+    "judul": "Brown Western",
+    "deskripsi": "Warna cokelat memberikan nuansa hangat pada outfit western.",
+    "gambar": "https://i.pinimg.com/736x/3a/d3/c4/3ad3c475ea69737fc826274e5c833a2a.jpg"
+  },
+  {
+    "id": 427,
+    "style": "Cowboy",
+    "label": "Leather",
+    "judul": "Leather Cowboy",
+    "deskripsi": "Material kulit memberikan kesan tangguh dan klasik.",
+    "gambar": "https://i.pinimg.com/736x/79/2a/b6/792ab6d24df4d48ed5edc3e052840314.jpg"
+  },
+  {
+    "id": 428,
+    "style": "Cowboy",
+    "label": "Rustic",
+    "judul": "Rustic Cowboy",
+    "deskripsi": "Nuansa rustic membuat outfit terlihat natural dan autentik.",
+    "gambar": "https://i.pinimg.com/736x/48/84/c5/4884c5324d748621e0ede72d21bc6124.jpg"
+  },
+  {
+    "id": 429,
+    "style": "Cowboy",
+    "label": "Denim Jacket",
+    "judul": "Western Denim",
+    "deskripsi": "Jaket denim memberikan sentuhan kasual pada gaya cowboy.",
+    "gambar": "https://i.pinimg.com/736x/c0/4f/27/c04f27fc0bb911300aa457dadad50ba2.jpg"
+  },
+  {
+    "id": 430,
+    "style": "Cowboy",
+    "label": "Rodeo",
+    "judul": "Rodeo Style",
+    "deskripsi": "Gaya yang terinspirasi dari suasana rodeo yang penuh karakter.",
+    "gambar": "https://i.pinimg.com/736x/2c/31/82/2c3182e3cc5f7f1ef9ed7e26aead1cd9.jpg"
+  },
+  {
+    "id": 431,
+    "style": "Cowboy",
+    "label": "Vintage",
+    "judul": "Vintage Cowboy",
+    "deskripsi": "Sentuhan vintage memberikan nuansa western klasik.",
+    "gambar": "https://i.pinimg.com/736x/79/ea/53/79ea533e9f1ecb09f7533e70cbbe8342.jpg"
+  },
+  {
+    "id": 432,
+    "style": "Cowboy",
+    "label": "Western Shirt",
+    "judul": "Western Shirt",
+    "deskripsi": "Kemeja western memberikan karakter khas pada outfit cowboy.",
+    "gambar": "https://i.pinimg.com/736x/40/a4/b7/40a4b74abbc312eca7cd37ff8ecadbc7.jpg"
+  },
+  {
+    "id": 433,
+    "style": "Cowboy",
+    "label": "Fringe",
+    "judul": "Fringe Cowboy",
+    "deskripsi": "Detail fringe memperkuat karakter khas gaya western.",
+    "gambar": "https://i.pinimg.com/736x/2e/0e/c4/2e0ec432239d207a3aedf62c73c1b326.jpg"
+  },
+  {
+    "id": 434,
+    "style": "Cowboy",
+    "label": "Suede",
+    "judul": "Suede Western",
+    "deskripsi": "Material suede memberikan kesan lembut namun tetap tangguh.",
+    "gambar": "https://i.pinimg.com/1200x/38/c5/25/38c525140ff7c0dbf28ac23fe0a31e44.jpg"
+  },
+  {
+    "id": 435,
+    "style": "Cowboy",
+    "label": "Rugged",
+    "judul": "Rugged Cowboy",
+    "deskripsi": "Tampilan rugged memberikan kesan kuat dan berani.",
+    "gambar": "https://i.pinimg.com/736x/ac/39/7d/ac397d4f86cc03ff5988816777d57533.jpg"
+  },
+  {
+    "id": 436,
+    "style": "Cowboy",
+    "label": "Country",
+    "judul": "Country Cowboy",
+    "deskripsi": "Nuansa country membuat outfit terasa santai dan autentik.",
+    "gambar": "https://i.pinimg.com/736x/b3/c6/e5/b3c6e5e47e23d3c63a2d119b30525db0.jpg"
+  },
+  {
+    "id": 437,
+    "style": "Cowboy",
+    "label": "Classic",
+    "judul": "Classic Western",
+    "deskripsi": "Elemen klasik membuat gaya cowboy tetap timeless.",
+    "gambar": "https://i.pinimg.com/736x/7a/ad/53/7aad53d1bdef2ad07c7aff759840b892.jpg"
+  },
+  {
+    "id": 438,
+    "style": "Cowboy",
+    "label": "Black",
+    "judul": "Black Cowboy",
+    "deskripsi": "Warna hitam memberikan karakter western yang lebih modern.",
+    "gambar": "https://i.pinimg.com/1200x/28/c3/e2/28c3e2fd44b2ddc3e0c0e8d26194918d.jpg"
+  },
+  {
+    "id": 439,
+    "style": "Cowboy",
+    "label": "Modern",
+    "judul": "Modern Cowboy",
+    "deskripsi": "Gaya cowboy klasik dipadukan dengan elemen fashion modern.",
+    "gambar": "https://i.pinimg.com/736x/1e/3b/88/1e3b88904beba59fdb37436168babff3.jpg"
+  },
+  {
+    "id": 440,
+    "style": "Cowboy",
+    "label": "Western Chic",
+    "judul": "Western Chic",
+    "deskripsi": "Nuansa cowboy dibuat lebih fashionable dan stylish.",
+    "gambar": "https://i.pinimg.com/1200x/8b/ce/85/8bce8500762611df97339545e049940b.jpg"
+  },
+  {
+    "id": 441,
+    "style": "Cowboy",
+    "label": "Rancher",
+    "judul": "Rancher Look",
+    "deskripsi": "Outfit sederhana yang terinspirasi gaya peternak western.",
+    "gambar": "https://i.pinimg.com/1200x/44/b8/ae/44b8ae53b357bb5c252aec821a127095.jpg"
+  },
+  {
+    "id": 442,
+    "style": "Cowboy",
+    "label": "Denim Blue",
+    "judul": "Denim Blue",
+    "deskripsi": "Warna denim biru memberikan kesan santai dan klasik.",
+    "gambar": "https://i.pinimg.com/736x/b3/e0/7d/b3e07d90c10dafb7acc8deda255bd596.jpg"
+  },
+  {
+    "id": 443,
+    "style": "Cowboy",
+    "label": "Western Boots",
+    "judul": "Western Boots",
+    "deskripsi": "Boots western menjadi fokus utama dalam tampilan ini.",
+    "gambar": "https://i.pinimg.com/736x/62/54/02/6254026b29afc675f866857e4c6df2b0.jpg"
+  },
+  {
+    "id": 444,
+    "style": "Cowboy",
+    "label": "Earth",
+    "judul": "Earth Cowboy",
+    "deskripsi": "Warna earth tone memberikan kesan natural pada gaya cowboy.",
+    "gambar": "https://i.pinimg.com/1200x/29/1a/50/291a501f4aa008c427a02ca6996faedf.jpg"
+  },
+  {
+    "id": 445,
+    "style": "Cowboy",
+    "label": "Country Chic",
+    "judul": "Country Chic",
+    "deskripsi": "Gaya country dengan sentuhan feminin dan modern.",
+    "gambar": "https://i.pinimg.com/736x/2c/7a/bc/2c7abc245cdb62e4ca81f06590479d6e.jpg"
+  },
+  {
+    "id": 451,
+    "style": "Leopard",
+    "label": "Animal Print",
+    "judul": "Leopard Print",
+    "deskripsi": "Motif leopard menjadi pusat perhatian dalam outfit yang berani.",
+    "gambar": "https://i.pinimg.com/736x/e0/a5/88/e0a588269a64f0de71e056d09d77db34.jpg"
+  },
+  {
+    "id": 452,
+    "style": "Leopard",
+    "label": "Bold",
+    "judul": "Bold Leopard",
+    "deskripsi": "Motif yang mencolok memberikan karakter kuat pada tampilan.",
+    "gambar": "https://i.pinimg.com/736x/fa/14/5e/fa145e03d190f25a28a9256d7440a89b.jpg"
+  },
+  {
+    "id": 453,
+    "style": "Leopard",
+    "label": "Brown",
+    "judul": "Brown Leopard",
+    "deskripsi": "Warna cokelat membuat motif leopard terlihat hangat dan natural.",
+    "gambar": "https://i.pinimg.com/736x/79/8e/d4/798ed4e2c2dc65199c64d9fa22e47394.jpg"
+  },
+  {
+    "id": 454,
+    "style": "Leopard",
+    "label": "Wild",
+    "judul": "Wild Style",
+    "deskripsi": "Motif animal print memberikan kesan bebas dan berani.",
+    "gambar": "https://i.pinimg.com/736x/0f/b8/00/0fb8002fe5880d7bf384e5e16825da30.jpg"
+  },
+  {
+    "id": 455,
+    "style": "Leopard",
+    "label": "Chic",
+    "judul": "Leopard Chic",
+    "deskripsi": "Motif leopard dipadukan dengan gaya chic yang fashionable.",
+    "gambar": "https://i.pinimg.com/736x/b2/8f/c2/b28fc25f6f5aef0d89a3e03a93283bd7.jpg"
+  },
+  {
+    "id": 456,
+    "style": "Leopard",
+    "label": "Classic",
+    "judul": "Classic Leopard",
+    "deskripsi": "Leopard print menjadi motif klasik yang tetap menarik.",
+    "gambar": "https://i.pinimg.com/736x/1c/f1/41/1cf141d8e8ce02cbda6dfb7bf631c312.jpg"
+  },
+  {
+    "id": 457,
+    "style": "Leopard",
+    "label": "Casual",
+    "judul": "Casual Leopard",
+    "deskripsi": "Motif leopard dibuat lebih santai untuk penggunaan sehari-hari.",
+    "gambar": "https://i.pinimg.com/736x/3a/b9/92/3ab9924da3c8de3500d8a4251c99fb32.jpg"
+  },
+  {
+    "id": 458,
+    "style": "Leopard",
+    "label": "Statement",
+    "judul": "Statement Leopard",
+    "deskripsi": "Motif menjadi statement utama yang membuat outfit lebih menonjol.",
+    "gambar": "https://i.pinimg.com/736x/6d/a3/f1/6da3f1075cbb6dc93d4aaf40b721c4be.jpg"
+  },
+  {
+    "id": 459,
+    "style": "Leopard",
+    "label": "Elegant",
+    "judul": "Elegant Leopard",
+    "deskripsi": "Leopard print memberikan sentuhan glamor pada tampilan.",
+    "gambar": "https://i.pinimg.com/736x/af/4b/29/af4b29d7b54f5bfc01a10ea24f3b01f0.jpg"
+  },
+  {
+    "id": 460,
+    "style": "Leopard",
+    "label": "Dark",
+    "judul": "Dark Leopard",
+    "deskripsi": "Warna gelap membuat motif leopard terlihat lebih misterius.",
+    "gambar": "https://i.pinimg.com/736x/98/76/57/98765714ad25a20c8b923115e8f481cd.jpg"
+  },
+  {
+    "id": 461,
+    "style": "Leopard",
+    "label": "Street",
+    "judul": "Street Leopard",
+    "deskripsi": "Motif leopard memberikan karakter unik pada streetwear.",
+    "gambar": "https://i.pinimg.com/736x/3e/71/e9/3e71e96f671ad36bb616130065cccb4c.jpg"
+  },
+  {
+    "id": 462,
+    "style": "Leopard",
+    "label": "Vintage",
+    "judul": "Vintage Leopard",
+    "deskripsi": "Sentuhan vintage membuat leopard print terasa klasik.",
+    "gambar": "https://i.pinimg.com/736x/1d/7b/0a/1d7b0a5199debc96e08bb09cf543dd4e.jpg"
+  },
+  {
+    "id": 463,
+    "style": "Leopard",
+    "label": "Feminine",
+    "judul": "Feminine Leopard",
+    "deskripsi": "Motif leopard dipadukan dengan elemen feminin yang lembut.",
+    "gambar": "https://i.pinimg.com/1200x/d3/a6/1e/d3a61eb91f0dbca77ef0c3c8c1f44722.jpg"
+  },
+  {
+    "id": 464,
+    "style": "Leopard",
+    "label": "Modern",
+    "judul": "Modern Leopard",
+    "deskripsi": "Gaya modern membuat motif animal print terasa lebih kekinian.",
+    "gambar": "https://i.pinimg.com/736x/f7/16/2f/f7162f0a6ec46e2b74a4d5fbf23eea22.jpg"
+  },
+  {
+    "id": 465,
+    "style": "Leopard",
+    "label": "Minimal",
+    "judul": "Minimal Leopard",
+    "deskripsi": "Motif leopard digunakan sebagai aksen tanpa membuat outfit berlebihan.",
+    "gambar": "https://i.pinimg.com/736x/ea/05/37/ea0537bc4dc7a3a97daaa77191b6f1be.jpg"
+  },
+  {
+    "id": 466,
+    "style": "Leopard",
+    "label": "Skirt",
+    "judul": "Leopard Skirt",
+    "deskripsi": "Rok bermotif leopard memberikan sentuhan playful dan fashionable.",
+    "gambar": "https://i.pinimg.com/736x/b7/4c/47/b74c4769adcbadb82317c3bc0a870b07.jpg"
+  },
+  {
+    "id": 467,
+    "style": "Leopard",
+    "label": "Dress",
+    "judul": "Leopard Dress",
+    "deskripsi": "Dress bermotif leopard menciptakan tampilan yang berani dan feminin.",
+    "gambar": "https://i.pinimg.com/736x/e9/ed/7d/e9ed7dd0d9d19f8185d1e958231463c3.jpg"
+  },
+  {
+    "id": 468,
+    "style": "Leopard",
+    "label": "Top",
+    "judul": "Leopard Top",
+    "deskripsi": "Atasan leopard menjadi statement sederhana dalam outfit.",
+    "gambar": "https://i.pinimg.com/736x/8d/94/80/8d9480404d650414556a1d3f76e8d3dd.jpg"
+  },
+  {
+    "id": 469,
+    "style": "Leopard",
+    "label": "Jacket",
+    "judul": "Leopard Jacket",
+    "deskripsi": "Jaket bermotif leopard memberikan karakter kuat pada gaya.",
+    "gambar": "https://i.pinimg.com/736x/e4/c4/cf/e4c4cf0f4d4a0ebb5fdcb803f65d7f55.jpg"
+  },
+  {
+    "id": 470,
+    "style": "Leopard",
+    "label": "Coat",
+    "judul": "Leopard Coat",
+    "deskripsi": "Coat leopard memberikan kesan mewah dan berani.",
+    "gambar": "https://i.pinimg.com/1200x/54/fa/60/54fa6067ed2890d7c920e6bc4321951c.jpg"
+  },
+  {
+    "id": 471,
+    "style": "Leopard",
+    "label": "Monochrome",
+    "judul": "Monochrome Leopard",
+    "deskripsi": "Warna monokrom membantu motif leopard terlihat lebih elegan.",
+    "gambar": "https://i.pinimg.com/736x/fa/e8/7b/fae87b1eec3f7dda64769937ba2f2a40.jpg"
+  },
+  {
+    "id": 472,
+    "style": "Leopard",
+    "label": "Street Chic",
+    "judul": "Street Chic Leopard",
+    "deskripsi": "Perpaduan streetwear dan leopard menghasilkan tampilan modern.",
+    "gambar": "https://i.pinimg.com/736x/8e/8d/a0/8e8da0737da3efac2b3e044eb8095645.jpg"
+  },
+  {
+    "id": 473,
+    "style": "Leopard",
+    "label": "Luxury",
+    "judul": "Luxury Leopard",
+    "deskripsi": "Motif leopard memberikan kesan glamor dan mewah.",
+    "gambar": "https://i.pinimg.com/736x/e7/71/ea/e771ea453679ec664654e547c6ad6543.jpg"
+  },
+  {
+    "id": 474,
+    "style": "Leopard",
+    "label": "Retro",
+    "judul": "Retro Leopard",
+    "deskripsi": "Nuansa retro membuat animal print terlihat lebih playful.",
+    "gambar": "https://i.pinimg.com/736x/b3/e3/8c/b3e38cecd178c6286e5059231229da17.jpg"
+  },
+  {
+    "id": 475,
+    "style": "Leopard",
+    "label": "Edgy",
+    "judul": "Edgy Leopard",
+    "deskripsi": "Motif leopard memberikan sentuhan edgy pada tampilan.",
+    "gambar": "https://i.pinimg.com/1200x/1a/b3/0d/1ab30d7ecafe0959967cac31679aaf2b.jpg"
+  },
+  {
+    "id": 476,
+    "style": "Leopard",
+    "label": "Casual Chic",
+    "judul": "Casual Chic Leopard",
+    "deskripsi": "Gaya santai menjadi lebih menarik dengan aksen leopard.",
+    "gambar": "https://i.pinimg.com/1200x/ef/d3/b5/efd3b5a8134ff0b0be5acf798972f2b1.jpg"
+  },
+  {
+    "id": 477,
+    "style": "Leopard",
+    "label": "Bold Print",
+    "judul": "Bold Animal Print",
+    "deskripsi": "Motif besar membuat outfit terlihat berani dan penuh percaya diri.",
+    "gambar": "https://i.pinimg.com/736x/a3/6d/6b/a36d6be1cbfedbbd499e2950b7913c48.jpg"
+  },
+  {
+    "id": 478,
+    "style": "Leopard",
+    "label": "Neutral",
+    "judul": "Neutral Leopard",
+    "deskripsi": "Warna netral membuat motif leopard lebih mudah dipadukan.",
+    "gambar": "https://i.pinimg.com/736x/59/53/cd/5953cdff9aa2f83f7c0167f7736feaf7.jpg"
+  },
+  {
+    "id": 479,
+    "style": "Leopard",
+    "label": "Glam",
+    "judul": "Glam Leopard",
+    "deskripsi": "Motif animal print memberikan sentuhan glamor pada keseluruhan outfit.",
+    "gambar": "https://i.pinimg.com/736x/7c/f5/04/7cf504a3ad8c55d6786ad134c111f0cb.jpg"
+  },
+  {
+    "id": 480,
+    "style": "Leopard",
+    "label": "Wild Chic",
+    "judul": "Wild Chic",
+    "deskripsi": "Perpaduan motif leopard dan potongan stylish menciptakan tampilan yang percaya diri.",
+    "gambar": "https://i.pinimg.com/736x/48/eb/46/48eb46d8e56469e7e5a0e5bad226f60a.jpg"
   }
 ]
